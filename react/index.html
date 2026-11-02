@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://cdn.syncfusion.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <title>Multi-Tenant SaaS Admin Portal</title>
+    <meta name="description" content="SaaS Administration — tenant lifecycle, subscription plans, billing metrics, and support-ticket tracking for a multi-tenant SaaS platform." />
+    <script>
+      try {
+        var saved = localStorage.getItem('multi-tenant-saas-admin-theme');
+        var dark = saved ? saved === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+      } catch (e) { /* storage blocked: light */ }
+    </script>
+    <!-- startup-preload -->
+    <style>
+      :root { --app-loading-bg: #f8fafc; --app-loading-fg: #667085; --app-loading-ring: #175cd3; --app-loading-track: #dbe5f5; }
+      :root[data-theme='dark'] { --app-loading-bg: #0f172a; --app-loading-fg: #94a3b8; --app-loading-ring: #60a5fa; --app-loading-track: #1e3a6e; }
+      html, body { margin: 0; background: var(--app-loading-bg); }
+      .app-loading { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
+        min-height: 240px; padding: 24px; box-sizing: border-box; color: var(--app-loading-fg);
+        font: 500 14px/1.4 Inter, system-ui, -apple-system, 'Segoe UI', sans-serif; text-align: center; }
+      .app-loading--screen { position: fixed; inset: 0; min-height: 0; background: var(--app-loading-bg); z-index: 1000; }
+      .app-loading__ring { width: 36px; height: 36px; border-radius: 50%; box-sizing: border-box;
+        border: 3px solid var(--app-loading-track); border-top-color: var(--app-loading-ring); animation: app-loading-spin 0.8s linear infinite; }
+      @keyframes app-loading-spin { to { transform: rotate(360deg); } }
+      @media (prefers-reduced-motion: reduce) { .app-loading__ring { animation: none; border-color: var(--app-loading-ring); } }
+      :root { --boot-page: #f6f8fb; --boot-surface: #ffffff; --boot-border: #e5e9f0; --boot-fg: #172033; --boot-muted: #667085; --boot-brand-bg: #eef4ff; --boot-brand-fg: #175cd3; }
+      :root[data-theme='dark'] { --boot-page: #020617; --boot-surface: #0f172a; --boot-border: #334155; --boot-fg: #f8fafc; --boot-muted: #94a3b8; --boot-brand-bg: #172554; --boot-brand-fg: #60a5fa; }
+      #app-boot { position: fixed; inset: 0; z-index: 1000; display: flex; background: var(--boot-page); color: var(--boot-fg);
+        font: 400 12px/1.4 Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
+      .boot-side { flex: 0 0 240px; box-sizing: border-box; display: flex; flex-direction: column; gap: 16px; padding: 12px 0;
+        background: var(--boot-surface); border-right: 1px solid var(--boot-border); overflow: hidden; }
+      .boot-brand { display: flex; align-items: center; gap: 12px; padding: 0 12px; min-height: 40px; }
+      .boot-logo { flex: 0 0 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center;
+        background: var(--boot-brand-bg); color: var(--boot-brand-fg); font-size: 14px; font-weight: 700; }
+      .boot-brand strong { display: block; font-size: 14px; font-weight: 700; white-space: nowrap; }
+      .boot-brand small { display: block; font-size: 12px; color: var(--boot-muted); white-space: nowrap; }
+      .boot-links { list-style: none; margin: 0; padding: 0 12px; display: grid; gap: 4px; }
+      .boot-links li { display: flex; align-items: center; gap: 12px; height: 40px; padding: 0 10px; border-radius: 8px; color: var(--boot-muted); white-space: nowrap; }
+      .boot-links li.is-current { background: var(--boot-brand-bg); color: var(--boot-brand-fg); font-weight: 600; }
+      .boot-links svg { flex: 0 0 20px; }
+      .boot-foot { margin-top: auto; padding: 0 16px; color: var(--boot-muted); }
+      .boot-work { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+      .boot-head { flex: 0 0 64px; box-sizing: border-box; display: flex; align-items: center; gap: 8px; padding: 0 16px;
+        background: var(--boot-surface); border-bottom: 1px solid var(--boot-border); }
+      .boot-toggle { width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; color: var(--boot-muted); }
+      .boot-head strong { font-size: 14px; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      .boot-main { flex: 1; padding: 24px; }
+      #app-boot[data-nav='docked'] .boot-side { flex-basis: 64px; }
+      #app-boot[data-nav='docked'] .boot-brand > span, #app-boot[data-nav='docked'] .boot-links span, #app-boot[data-nav='docked'] .boot-foot { display: none; }
+      #app-boot[data-nav='docked'] .boot-links li { justify-content: center; padding: 0; }
+      #app-boot[data-nav='drawer'] .boot-side { display: none; }
+      @media (max-width: 1023.98px) { .boot-main { padding: 16px; } }
+    </style>
+  </head>
+  <body>
+    <div id="app-boot" aria-busy="true">
+      <aside class="boot-side" aria-hidden="true">
+        <div class="boot-brand"><div class="boot-logo">MT</div><span><strong>Multi-Tenant SaaS</strong><small>Admin Portal</small></span></div>
+        <ul class="boot-links">
+          <li data-route="dashboard"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg><span>Dashboard</span></li>
+          <li data-route="tenants"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="7" height="7"/><rect x="4" y="13" width="7" height="7"/><rect x="13" y="4" width="7" height="7"/><path d="M13 13h2v4h-2z"/></svg><span>Tenants</span></li>
+          <li data-route="support"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg><span>Support</span></li>
+          <li data-route="subscriptions"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg><span>Subscriptions</span></li>
+        </ul>
+        <div class="boot-foot">Built with Syncfusion</div>
+      </aside>
+      <div class="boot-work">
+        <div class="boot-head"><span class="boot-toggle" aria-hidden="true" data-icon-drawer='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>'></span><strong id="boot-title"></strong></div>
+        <div class="boot-main"><div class="app-loading" role="status" aria-live="polite"><div class="app-loading__ring" aria-hidden="true"></div><div id="boot-label">Loading Multi-Tenant SaaS…</div></div></div>
+      </div>
+    </div>
+    <script>
+      (function () {
+        var boot = document.getElementById('app-boot');
+        var labels = { 'dashboard': 'Dashboard', 'tenants': 'Tenants', 'support': 'Support', 'subscriptions': 'Subscriptions' };
+        var path = location.pathname.replace(/^\/multi-tenant-saas-admin\/react/, '').replace(/^\//, '').split('/')[0] || 'dashboard';
+        var id = labels[path] ? path : 'dashboard';
+        var collapsed = false; try { collapsed = localStorage.getItem('multi-tenant-saas-admin-nav-collapsed') === 'true'; } catch (e) {}
+        var nav = window.innerWidth < 1024 ? 'drawer' : collapsed ? 'docked' : 'expanded';
+        boot.setAttribute('data-nav', nav);
+        var toggle = boot.querySelector('.boot-toggle');
+        if (nav === 'drawer') toggle.innerHTML = toggle.getAttribute('data-icon-drawer');
+        document.getElementById('boot-title').textContent = labels[id];
+        document.getElementById('boot-label').textContent = 'Loading ' + labels[id] + '\u2026';
+        var current = boot.querySelector('[data-route="' + id + '"]'); if (current) current.className = 'is-current';
+      })();
+    </script>
+    <link id="syncfusion-theme" rel="stylesheet" href="https://cdn.syncfusion.com/ej2/35.1.37/tailwind3.css" onload="this.dataset.loaded='true'" onerror="this.dataset.loaded='error'" />
+    <div id="root"></div>
+    <script type="module" src="./src/main.tsx"></script>
+  </body>
+</html>

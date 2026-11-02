@@ -1,0 +1,40 @@
+{
+  "name": "multi-tenant-saas-admin",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-react-buttons": "~35.1.37",
+    "@syncfusion/ej2-react-calendars": "~35.1.37",
+    "@syncfusion/ej2-react-charts": "~35.1.37",
+    "@syncfusion/ej2-react-dropdowns": "~35.1.37",
+    "@syncfusion/ej2-react-gantt": "~35.1.37",
+    "@syncfusion/ej2-react-grids": "~35.1.37",
+    "@syncfusion/ej2-react-heatmap": "~35.1.37",
+    "@syncfusion/ej2-react-inputs": "~35.1.37",
+    "@syncfusion/ej2-react-interactive-chat": "~35.1.37",
+    "@syncfusion/ej2-react-kanban": "~35.1.37",
+    "@syncfusion/ej2-react-layouts": "~35.1.37",
+    "@syncfusion/ej2-react-navigations": "~35.1.37",
+    "@syncfusion/ej2-react-notifications": "~35.1.37",
+    "@syncfusion/ej2-react-popups": "~35.1.37",
+    "@syncfusion/ej2-react-schedule": "~35.1.37",
+    "@syncfusion/ej2-react-treegrid": "~35.1.37",
+    "lucide-react": "^0.454.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "~5.6.3",
+    "vite": "^6.0.5"
+  }
+}

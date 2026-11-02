@@ -1,0 +1,821 @@
+[
+  {
+    "id": "INV-001",
+    "tenantId": "T-001",
+    "month": "2025-06",
+    "amount": 26499,
+    "status": "Pending",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-002",
+    "tenantId": "T-001",
+    "month": "2025-05",
+    "amount": 25499,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-05-18"
+  },
+  {
+    "id": "INV-003",
+    "tenantId": "T-001",
+    "month": "2025-04",
+    "amount": 24999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-04-15"
+  },
+  {
+    "id": "INV-004",
+    "tenantId": "T-001",
+    "month": "2025-03",
+    "amount": 25999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-03-20"
+  },
+  {
+    "id": "INV-005",
+    "tenantId": "T-001",
+    "month": "2025-02",
+    "amount": 24499,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-02-14"
+  },
+  {
+    "id": "INV-006",
+    "tenantId": "T-001",
+    "month": "2025-01",
+    "amount": 23999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-01-16"
+  },
+  {
+    "id": "INV-007",
+    "tenantId": "T-002",
+    "month": "2025-06",
+    "amount": 21249,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-06-02"
+  },
+  {
+    "id": "INV-008",
+    "tenantId": "T-002",
+    "month": "2025-05",
+    "amount": 19999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-05-05"
+  },
+  {
+    "id": "INV-009",
+    "tenantId": "T-002",
+    "month": "2025-04",
+    "amount": 20499,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-04-03"
+  },
+  {
+    "id": "INV-010",
+    "tenantId": "T-002",
+    "month": "2025-03",
+    "amount": 19999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-03-04"
+  },
+  {
+    "id": "INV-011",
+    "tenantId": "T-003",
+    "month": "2025-06",
+    "amount": 8999,
+    "status": "Pending",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-012",
+    "tenantId": "T-003",
+    "month": "2025-05",
+    "amount": 8999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-10"
+  },
+  {
+    "id": "INV-013",
+    "tenantId": "T-003",
+    "month": "2025-04",
+    "amount": 8999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-10"
+  },
+  {
+    "id": "INV-014",
+    "tenantId": "T-003",
+    "month": "2025-03",
+    "amount": 8999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-03-11"
+  },
+  {
+    "id": "INV-015",
+    "tenantId": "T-004",
+    "month": "2025-06",
+    "amount": 31999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-06-01"
+  },
+  {
+    "id": "INV-016",
+    "tenantId": "T-004",
+    "month": "2025-05",
+    "amount": 30999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-05-02"
+  },
+  {
+    "id": "INV-017",
+    "tenantId": "T-004",
+    "month": "2025-04",
+    "amount": 29999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-04-01"
+  },
+  {
+    "id": "INV-018",
+    "tenantId": "T-004",
+    "month": "2025-03",
+    "amount": 31499,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-03-03"
+  },
+  {
+    "id": "INV-019",
+    "tenantId": "T-005",
+    "month": "2025-09",
+    "amount": 0,
+    "status": "Pending",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-020",
+    "tenantId": "T-005",
+    "month": "2025-08",
+    "amount": 0,
+    "status": "Pending",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-021",
+    "tenantId": "T-006",
+    "month": "2025-06",
+    "amount": 7999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-06-05"
+  },
+  {
+    "id": "INV-022",
+    "tenantId": "T-006",
+    "month": "2025-05",
+    "amount": 7499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-05"
+  },
+  {
+    "id": "INV-023",
+    "tenantId": "T-006",
+    "month": "2025-04",
+    "amount": 7799,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-07"
+  },
+  {
+    "id": "INV-024",
+    "tenantId": "T-006",
+    "month": "2025-03",
+    "amount": 7499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-03-05"
+  },
+  {
+    "id": "INV-025",
+    "tenantId": "T-007",
+    "month": "2025-06",
+    "amount": 35999,
+    "status": "Pending",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-026",
+    "tenantId": "T-007",
+    "month": "2025-05",
+    "amount": 34999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-05-25"
+  },
+  {
+    "id": "INV-027",
+    "tenantId": "T-007",
+    "month": "2025-04",
+    "amount": 36999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-04-22"
+  },
+  {
+    "id": "INV-028",
+    "tenantId": "T-007",
+    "month": "2025-03",
+    "amount": 34999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-03-24"
+  },
+  {
+    "id": "INV-029",
+    "tenantId": "T-008",
+    "month": "2025-06",
+    "amount": 7499,
+    "status": "Overdue",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-030",
+    "tenantId": "T-008",
+    "month": "2025-05",
+    "amount": 7499,
+    "status": "Overdue",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-031",
+    "tenantId": "T-008",
+    "month": "2025-04",
+    "amount": 7499,
+    "status": "Overdue",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-032",
+    "tenantId": "T-009",
+    "month": "2025-06",
+    "amount": 1049,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-06-03"
+  },
+  {
+    "id": "INV-033",
+    "tenantId": "T-009",
+    "month": "2025-05",
+    "amount": 999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-03"
+  },
+  {
+    "id": "INV-034",
+    "tenantId": "T-009",
+    "month": "2025-04",
+    "amount": 999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-04"
+  },
+  {
+    "id": "INV-035",
+    "tenantId": "T-010",
+    "month": "2025-06",
+    "amount": 29499,
+    "status": "Pending",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-036",
+    "tenantId": "T-010",
+    "month": "2025-05",
+    "amount": 27999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-05-12"
+  },
+  {
+    "id": "INV-037",
+    "tenantId": "T-010",
+    "month": "2025-04",
+    "amount": 28999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-04-10"
+  },
+  {
+    "id": "INV-038",
+    "tenantId": "T-010",
+    "month": "2025-03",
+    "amount": 27499,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-03-12"
+  },
+  {
+    "id": "INV-039",
+    "tenantId": "T-011",
+    "month": "2025-06",
+    "amount": 3749,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-06-08"
+  },
+  {
+    "id": "INV-040",
+    "tenantId": "T-011",
+    "month": "2025-05",
+    "amount": 3499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-08"
+  },
+  {
+    "id": "INV-041",
+    "tenantId": "T-011",
+    "month": "2025-04",
+    "amount": 3499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-08"
+  },
+  {
+    "id": "INV-042",
+    "tenantId": "T-012",
+    "month": "2025-06",
+    "amount": 33499,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-06-05"
+  },
+  {
+    "id": "INV-043",
+    "tenantId": "T-012",
+    "month": "2025-05",
+    "amount": 31999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-05-06"
+  },
+  {
+    "id": "INV-044",
+    "tenantId": "T-012",
+    "month": "2025-04",
+    "amount": 32999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-04-04"
+  },
+  {
+    "id": "INV-045",
+    "tenantId": "T-012",
+    "month": "2025-03",
+    "amount": 31999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-03-05"
+  },
+  {
+    "id": "INV-046",
+    "tenantId": "T-013",
+    "month": "2025-01",
+    "amount": 7999,
+    "status": "Overdue",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-047",
+    "tenantId": "T-013",
+    "month": "2024-12",
+    "amount": 7499,
+    "status": "Overdue",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-048",
+    "tenantId": "T-014",
+    "month": "2025-06",
+    "amount": 41499,
+    "status": "Pending",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-049",
+    "tenantId": "T-014",
+    "month": "2025-05",
+    "amount": 39999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-05-15"
+  },
+  {
+    "id": "INV-050",
+    "tenantId": "T-014",
+    "month": "2025-04",
+    "amount": 40999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-04-14"
+  },
+  {
+    "id": "INV-051",
+    "tenantId": "T-014",
+    "month": "2025-03",
+    "amount": 39999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-03-16"
+  },
+  {
+    "id": "INV-052",
+    "tenantId": "T-015",
+    "month": "2025-06",
+    "amount": 8999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-06-05"
+  },
+  {
+    "id": "INV-053",
+    "tenantId": "T-015",
+    "month": "2025-05",
+    "amount": 8499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-06"
+  },
+  {
+    "id": "INV-054",
+    "tenantId": "T-015",
+    "month": "2025-04",
+    "amount": 8499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-05"
+  },
+  {
+    "id": "INV-055",
+    "tenantId": "T-016",
+    "month": "2025-06",
+    "amount": 15999,
+    "status": "Pending",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-056",
+    "tenantId": "T-016",
+    "month": "2025-05",
+    "amount": 14999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-05-20"
+  },
+  {
+    "id": "INV-057",
+    "tenantId": "T-016",
+    "month": "2025-04",
+    "amount": 15499,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-04-18"
+  },
+  {
+    "id": "INV-058",
+    "tenantId": "T-017",
+    "month": "2025-06",
+    "amount": 13499,
+    "status": "Pending",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-059",
+    "tenantId": "T-017",
+    "month": "2025-05",
+    "amount": 12999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-05-18"
+  },
+  {
+    "id": "INV-060",
+    "tenantId": "T-017",
+    "month": "2025-04",
+    "amount": 12999,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-04-17"
+  },
+  {
+    "id": "INV-061",
+    "tenantId": "T-018",
+    "month": "2025-06",
+    "amount": 19499,
+    "status": "Pending",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-062",
+    "tenantId": "T-018",
+    "month": "2025-05",
+    "amount": 18999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-05-22"
+  },
+  {
+    "id": "INV-063",
+    "tenantId": "T-018",
+    "month": "2025-04",
+    "amount": 18999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-04-21"
+  },
+  {
+    "id": "INV-064",
+    "tenantId": "T-020",
+    "month": "2025-06",
+    "amount": 849,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-06-02"
+  },
+  {
+    "id": "INV-065",
+    "tenantId": "T-020",
+    "month": "2025-05",
+    "amount": 799,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-02"
+  },
+  {
+    "id": "INV-066",
+    "tenantId": "T-020",
+    "month": "2025-04",
+    "amount": 799,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-02"
+  },
+  {
+    "id": "INV-067",
+    "tenantId": "T-020",
+    "month": "2025-03",
+    "amount": 799,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-03-04"
+  },
+  {
+    "id": "INV-068",
+    "tenantId": "T-021",
+    "month": "2025-06",
+    "amount": 899,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-06-20"
+  },
+  {
+    "id": "INV-069",
+    "tenantId": "T-022",
+    "month": "2025-06",
+    "amount": 4249,
+    "status": "Pending",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-070",
+    "tenantId": "T-022",
+    "month": "2025-05",
+    "amount": 3999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-08"
+  },
+  {
+    "id": "INV-071",
+    "tenantId": "T-022",
+    "month": "2025-04",
+    "amount": 3999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-08"
+  },
+  {
+    "id": "INV-072",
+    "tenantId": "T-022",
+    "month": "2025-03",
+    "amount": 3999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-03-10"
+  },
+  {
+    "id": "INV-073",
+    "tenantId": "T-023",
+    "month": "2025-06",
+    "amount": 6999,
+    "status": "Overdue",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-074",
+    "tenantId": "T-023",
+    "month": "2025-05",
+    "amount": 7499,
+    "status": "Overdue",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": null
+  },
+  {
+    "id": "INV-075",
+    "tenantId": "T-024",
+    "month": "2025-06",
+    "amount": 9899,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-06-04"
+  },
+  {
+    "id": "INV-076",
+    "tenantId": "T-024",
+    "month": "2025-05",
+    "amount": 9499,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-05-04"
+  },
+  {
+    "id": "INV-077",
+    "tenantId": "T-024",
+    "month": "2025-04",
+    "amount": 9499,
+    "status": "Paid",
+    "paymentMethod": "ACH Transfer",
+    "paidDate": "2025-04-03"
+  },
+  {
+    "id": "INV-078",
+    "tenantId": "T-025",
+    "month": "2025-06",
+    "amount": 4749,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-06-18"
+  },
+  {
+    "id": "INV-079",
+    "tenantId": "T-025",
+    "month": "2025-05",
+    "amount": 4499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-19"
+  },
+  {
+    "id": "INV-080",
+    "tenantId": "T-026",
+    "month": "2025-06",
+    "amount": 23999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-06-03"
+  },
+  {
+    "id": "INV-081",
+    "tenantId": "T-026",
+    "month": "2025-05",
+    "amount": 22999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-05-04"
+  },
+  {
+    "id": "INV-082",
+    "tenantId": "T-026",
+    "month": "2025-04",
+    "amount": 23499,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-04-02"
+  },
+  {
+    "id": "INV-083",
+    "tenantId": "T-026",
+    "month": "2025-03",
+    "amount": 22999,
+    "status": "Paid",
+    "paymentMethod": "Wire Transfer",
+    "paidDate": "2025-03-03"
+  },
+  {
+    "id": "INV-084",
+    "tenantId": "T-027",
+    "month": "2025-06",
+    "amount": 0,
+    "status": "Pending",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-085",
+    "tenantId": "T-028",
+    "month": "2025-09",
+    "amount": 0,
+    "status": "Pending",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-086",
+    "tenantId": "T-029",
+    "month": "2025-06",
+    "amount": 6749,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-06-07"
+  },
+  {
+    "id": "INV-087",
+    "tenantId": "T-029",
+    "month": "2025-05",
+    "amount": 6499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-07"
+  },
+  {
+    "id": "INV-088",
+    "tenantId": "T-029",
+    "month": "2025-04",
+    "amount": 6499,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-07"
+  },
+  {
+    "id": "INV-089",
+    "tenantId": "T-030",
+    "month": "2025-06",
+    "amount": 6249,
+    "status": "Pending",
+    "paymentMethod": "Credit Card",
+    "paidDate": null
+  },
+  {
+    "id": "INV-090",
+    "tenantId": "T-030",
+    "month": "2025-05",
+    "amount": 5999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-05-02"
+  },
+  {
+    "id": "INV-091",
+    "tenantId": "T-030",
+    "month": "2025-04",
+    "amount": 5999,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "paidDate": "2025-04-03"
+  }
+]

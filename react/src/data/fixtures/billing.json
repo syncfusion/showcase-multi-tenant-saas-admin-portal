@@ -1,0 +1,2862 @@
+[
+    {
+        "id": "B-0001",
+        "tenantId": "T-001",
+        "month": "2025-07",
+        "mrr": 22999,
+        "apiCalls": 4400000,
+        "storageGB": 1800,
+        "userCount": 320,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0002",
+        "tenantId": "T-002",
+        "month": "2025-07",
+        "mrr": 17999,
+        "apiCalls": 2900000,
+        "storageGB": 1400,
+        "userCount": 235,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0003",
+        "tenantId": "T-003",
+        "month": "2025-07",
+        "mrr": 7999,
+        "apiCalls": 1600000,
+        "storageGB": 720,
+        "userCount": 118,
+        "overageCharges": 300
+    },
+    {
+        "id": "B-0004",
+        "tenantId": "T-004",
+        "month": "2025-07",
+        "mrr": 26999,
+        "apiCalls": 5500000,
+        "storageGB": 2600,
+        "userCount": 445,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0005",
+        "tenantId": "T-006",
+        "month": "2025-07",
+        "mrr": 6499,
+        "apiCalls": 1050000,
+        "storageGB": 420,
+        "userCount": 78,
+        "overageCharges": 25
+    },
+    {
+        "id": "B-0006",
+        "tenantId": "T-007",
+        "month": "2025-07",
+        "mrr": 31999,
+        "apiCalls": 7200000,
+        "storageGB": 3600,
+        "userCount": 580,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0007",
+        "tenantId": "T-008",
+        "month": "2025-07",
+        "mrr": 6999,
+        "apiCalls": 980000,
+        "storageGB": 400,
+        "userCount": 105,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0008",
+        "tenantId": "T-010",
+        "month": "2025-07",
+        "mrr": 24999,
+        "apiCalls": 8500000,
+        "storageGB": 4600,
+        "userCount": 350,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0009",
+        "tenantId": "T-012",
+        "month": "2025-07",
+        "mrr": 29999,
+        "apiCalls": 6800000,
+        "storageGB": 4200,
+        "userCount": 650,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0010",
+        "tenantId": "T-013",
+        "month": "2025-07",
+        "mrr": 7499,
+        "apiCalls": 1200000,
+        "storageGB": 550,
+        "userCount": 105,
+        "overageCharges": 100
+    },
+    {
+        "id": "B-0011",
+        "tenantId": "T-014",
+        "month": "2025-07",
+        "mrr": 36999,
+        "apiCalls": 10000000,
+        "storageGB": 5400,
+        "userCount": 780,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0012",
+        "tenantId": "T-015",
+        "month": "2025-07",
+        "mrr": 7499,
+        "apiCalls": 1300000,
+        "storageGB": 620,
+        "userCount": 125,
+        "overageCharges": 150
+    },
+    {
+        "id": "B-0013",
+        "tenantId": "T-016",
+        "month": "2025-07",
+        "mrr": 12999,
+        "apiCalls": 2400000,
+        "storageGB": 1050,
+        "userCount": 170,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0014",
+        "tenantId": "T-017",
+        "month": "2025-07",
+        "mrr": 10999,
+        "apiCalls": 1950000,
+        "storageGB": 780,
+        "userCount": 138,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0015",
+        "tenantId": "T-018",
+        "month": "2025-07",
+        "mrr": 16999,
+        "apiCalls": 4600000,
+        "storageGB": 2300,
+        "userCount": 265,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0016",
+        "tenantId": "T-023",
+        "month": "2025-07",
+        "mrr": 6499,
+        "apiCalls": 1100000,
+        "storageGB": 430,
+        "userCount": 95,
+        "overageCharges": 50
+    },
+    {
+        "id": "B-0017",
+        "tenantId": "T-024",
+        "month": "2025-07",
+        "mrr": 8499,
+        "apiCalls": 1750000,
+        "storageGB": 1150,
+        "userCount": 108,
+        "overageCharges": 383
+    },
+    {
+        "id": "B-0018",
+        "tenantId": "T-026",
+        "month": "2025-07",
+        "mrr": 20999,
+        "apiCalls": 5000000,
+        "storageGB": 3000,
+        "userCount": 380,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0019",
+        "tenantId": "T-001",
+        "month": "2025-08",
+        "mrr": 22999,
+        "apiCalls": 4480000,
+        "storageGB": 1860,
+        "userCount": 332,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0020",
+        "tenantId": "T-002",
+        "month": "2025-08",
+        "mrr": 17999,
+        "apiCalls": 2960000,
+        "storageGB": 1450,
+        "userCount": 245,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0021",
+        "tenantId": "T-003",
+        "month": "2025-08",
+        "mrr": 7999,
+        "apiCalls": 1650000,
+        "storageGB": 750,
+        "userCount": 125,
+        "overageCharges": 325
+    },
+    {
+        "id": "B-0022",
+        "tenantId": "T-004",
+        "month": "2025-08",
+        "mrr": 27999,
+        "apiCalls": 5650000,
+        "storageGB": 2700,
+        "userCount": 460,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0023",
+        "tenantId": "T-006",
+        "month": "2025-08",
+        "mrr": 6499,
+        "apiCalls": 1100000,
+        "storageGB": 440,
+        "userCount": 82,
+        "overageCharges": 50
+    },
+    {
+        "id": "B-0024",
+        "tenantId": "T-007",
+        "month": "2025-08",
+        "mrr": 32999,
+        "apiCalls": 7400000,
+        "storageGB": 3750,
+        "userCount": 605,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0025",
+        "tenantId": "T-008",
+        "month": "2025-08",
+        "mrr": 6999,
+        "apiCalls": 1020000,
+        "storageGB": 420,
+        "userCount": 110,
+        "overageCharges": 10
+    },
+    {
+        "id": "B-0026",
+        "tenantId": "T-010",
+        "month": "2025-08",
+        "mrr": 25999,
+        "apiCalls": 8800000,
+        "storageGB": 4800,
+        "userCount": 365,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0027",
+        "tenantId": "T-012",
+        "month": "2025-08",
+        "mrr": 29999,
+        "apiCalls": 6950000,
+        "storageGB": 4350,
+        "userCount": 665,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0028",
+        "tenantId": "T-013",
+        "month": "2025-08",
+        "mrr": 7499,
+        "apiCalls": 1250000,
+        "storageGB": 580,
+        "userCount": 110,
+        "overageCharges": 125
+    },
+    {
+        "id": "B-0029",
+        "tenantId": "T-014",
+        "month": "2025-08",
+        "mrr": 37999,
+        "apiCalls": 10300000,
+        "storageGB": 5600,
+        "userCount": 810,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0030",
+        "tenantId": "T-015",
+        "month": "2025-08",
+        "mrr": 7499,
+        "apiCalls": 1350000,
+        "storageGB": 650,
+        "userCount": 130,
+        "overageCharges": 175
+    },
+    {
+        "id": "B-0031",
+        "tenantId": "T-016",
+        "month": "2025-08",
+        "mrr": 12999,
+        "apiCalls": 2480000,
+        "storageGB": 1100,
+        "userCount": 178,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0032",
+        "tenantId": "T-017",
+        "month": "2025-08",
+        "mrr": 10999,
+        "apiCalls": 2020000,
+        "storageGB": 810,
+        "userCount": 145,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0033",
+        "tenantId": "T-018",
+        "month": "2025-08",
+        "mrr": 16999,
+        "apiCalls": 4720000,
+        "storageGB": 2400,
+        "userCount": 275,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0034",
+        "tenantId": "T-022",
+        "month": "2025-08",
+        "mrr": 2999,
+        "apiCalls": 190000,
+        "storageGB": 210,
+        "userCount": 35,
+        "overageCharges": 51
+    },
+    {
+        "id": "B-0035",
+        "tenantId": "T-023",
+        "month": "2025-08",
+        "mrr": 6499,
+        "apiCalls": 1150000,
+        "storageGB": 450,
+        "userCount": 100,
+        "overageCharges": 75
+    },
+    {
+        "id": "B-0036",
+        "tenantId": "T-024",
+        "month": "2025-08",
+        "mrr": 8499,
+        "apiCalls": 1820000,
+        "storageGB": 1220,
+        "userCount": 112,
+        "overageCharges": 421
+    },
+    {
+        "id": "B-0037",
+        "tenantId": "T-026",
+        "month": "2025-08",
+        "mrr": 20999,
+        "apiCalls": 5150000,
+        "storageGB": 3120,
+        "userCount": 390,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0038",
+        "tenantId": "T-001",
+        "month": "2025-09",
+        "mrr": 23999,
+        "apiCalls": 4550000,
+        "storageGB": 1920,
+        "userCount": 345,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0039",
+        "tenantId": "T-002",
+        "month": "2025-09",
+        "mrr": 18999,
+        "apiCalls": 3020000,
+        "storageGB": 1500,
+        "userCount": 255,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0040",
+        "tenantId": "T-003",
+        "month": "2025-09",
+        "mrr": 8499,
+        "apiCalls": 1700000,
+        "storageGB": 780,
+        "userCount": 130,
+        "overageCharges": 350
+    },
+    {
+        "id": "B-0041",
+        "tenantId": "T-004",
+        "month": "2025-09",
+        "mrr": 27999,
+        "apiCalls": 5800000,
+        "storageGB": 2800,
+        "userCount": 475,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0042",
+        "tenantId": "T-006",
+        "month": "2025-09",
+        "mrr": 6999,
+        "apiCalls": 1140000,
+        "storageGB": 460,
+        "userCount": 85,
+        "overageCharges": 70
+    },
+    {
+        "id": "B-0043",
+        "tenantId": "T-007",
+        "month": "2025-09",
+        "mrr": 32999,
+        "apiCalls": 7550000,
+        "storageGB": 3900,
+        "userCount": 625,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0044",
+        "tenantId": "T-008",
+        "month": "2025-09",
+        "mrr": 7499,
+        "apiCalls": 1080000,
+        "storageGB": 450,
+        "userCount": 115,
+        "overageCharges": 40
+    },
+    {
+        "id": "B-0045",
+        "tenantId": "T-010",
+        "month": "2025-09",
+        "mrr": 25999,
+        "apiCalls": 9000000,
+        "storageGB": 5000,
+        "userCount": 380,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0046",
+        "tenantId": "T-012",
+        "month": "2025-09",
+        "mrr": 30999,
+        "apiCalls": 7100000,
+        "storageGB": 4500,
+        "userCount": 680,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0047",
+        "tenantId": "T-013",
+        "month": "2025-09",
+        "mrr": 7999,
+        "apiCalls": 1300000,
+        "storageGB": 610,
+        "userCount": 118,
+        "overageCharges": 150
+    },
+    {
+        "id": "B-0048",
+        "tenantId": "T-014",
+        "month": "2025-09",
+        "mrr": 37999,
+        "apiCalls": 10500000,
+        "storageGB": 5750,
+        "userCount": 830,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0049",
+        "tenantId": "T-015",
+        "month": "2025-09",
+        "mrr": 7999,
+        "apiCalls": 1400000,
+        "storageGB": 680,
+        "userCount": 138,
+        "overageCharges": 200
+    },
+    {
+        "id": "B-0050",
+        "tenantId": "T-016",
+        "month": "2025-09",
+        "mrr": 13999,
+        "apiCalls": 2550000,
+        "storageGB": 1140,
+        "userCount": 185,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0051",
+        "tenantId": "T-017",
+        "month": "2025-09",
+        "mrr": 11999,
+        "apiCalls": 2100000,
+        "storageGB": 850,
+        "userCount": 152,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0052",
+        "tenantId": "T-018",
+        "month": "2025-09",
+        "mrr": 17999,
+        "apiCalls": 4850000,
+        "storageGB": 2500,
+        "userCount": 285,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0053",
+        "tenantId": "T-022",
+        "month": "2025-09",
+        "mrr": 3299,
+        "apiCalls": 210000,
+        "storageGB": 235,
+        "userCount": 40,
+        "overageCharges": 62
+    },
+    {
+        "id": "B-0054",
+        "tenantId": "T-023",
+        "month": "2025-09",
+        "mrr": 6999,
+        "apiCalls": 1200000,
+        "storageGB": 470,
+        "userCount": 105,
+        "overageCharges": 100
+    },
+    {
+        "id": "B-0055",
+        "tenantId": "T-024",
+        "month": "2025-09",
+        "mrr": 8999,
+        "apiCalls": 1880000,
+        "storageGB": 1280,
+        "userCount": 116,
+        "overageCharges": 454
+    },
+    {
+        "id": "B-0056",
+        "tenantId": "T-026",
+        "month": "2025-09",
+        "mrr": 21999,
+        "apiCalls": 5300000,
+        "storageGB": 3250,
+        "userCount": 405,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0057",
+        "tenantId": "T-001",
+        "month": "2025-10",
+        "mrr": 23999,
+        "apiCalls": 4620000,
+        "storageGB": 1980,
+        "userCount": 355,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0058",
+        "tenantId": "T-002",
+        "month": "2025-10",
+        "mrr": 18999,
+        "apiCalls": 3080000,
+        "storageGB": 1550,
+        "userCount": 262,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0059",
+        "tenantId": "T-003",
+        "month": "2025-10",
+        "mrr": 8499,
+        "apiCalls": 1740000,
+        "storageGB": 810,
+        "userCount": 134,
+        "overageCharges": 370
+    },
+    {
+        "id": "B-0060",
+        "tenantId": "T-004",
+        "month": "2025-10",
+        "mrr": 28999,
+        "apiCalls": 5900000,
+        "storageGB": 2900,
+        "userCount": 490,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0061",
+        "tenantId": "T-006",
+        "month": "2025-10",
+        "mrr": 6999,
+        "apiCalls": 1170000,
+        "storageGB": 480,
+        "userCount": 88,
+        "overageCharges": 85
+    },
+    {
+        "id": "B-0062",
+        "tenantId": "T-007",
+        "month": "2025-10",
+        "mrr": 33999,
+        "apiCalls": 7700000,
+        "storageGB": 3980,
+        "userCount": 640,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0063",
+        "tenantId": "T-008",
+        "month": "2025-10",
+        "mrr": 7499,
+        "apiCalls": 1050000,
+        "storageGB": 430,
+        "userCount": 112,
+        "overageCharges": 25
+    },
+    {
+        "id": "B-0064",
+        "tenantId": "T-010",
+        "month": "2025-10",
+        "mrr": 26999,
+        "apiCalls": 9200000,
+        "storageGB": 5200,
+        "userCount": 390,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0065",
+        "tenantId": "T-011",
+        "month": "2025-10",
+        "mrr": 2999,
+        "apiCalls": 280000,
+        "storageGB": 620,
+        "userCount": 38,
+        "overageCharges": 116
+    },
+    {
+        "id": "B-0066",
+        "tenantId": "T-012",
+        "month": "2025-10",
+        "mrr": 30999,
+        "apiCalls": 7200000,
+        "storageGB": 4600,
+        "userCount": 695,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0067",
+        "tenantId": "T-013",
+        "month": "2025-10",
+        "mrr": 7999,
+        "apiCalls": 1280000,
+        "storageGB": 590,
+        "userCount": 112,
+        "overageCharges": 140
+    },
+    {
+        "id": "B-0068",
+        "tenantId": "T-014",
+        "month": "2025-10",
+        "mrr": 38999,
+        "apiCalls": 10700000,
+        "storageGB": 5900,
+        "userCount": 850,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0069",
+        "tenantId": "T-015",
+        "month": "2025-10",
+        "mrr": 7999,
+        "apiCalls": 1440000,
+        "storageGB": 700,
+        "userCount": 142,
+        "overageCharges": 220
+    },
+    {
+        "id": "B-0070",
+        "tenantId": "T-016",
+        "month": "2025-10",
+        "mrr": 13999,
+        "apiCalls": 2620000,
+        "storageGB": 1180,
+        "userCount": 190,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0071",
+        "tenantId": "T-017",
+        "month": "2025-10",
+        "mrr": 11999,
+        "apiCalls": 2180000,
+        "storageGB": 880,
+        "userCount": 158,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0072",
+        "tenantId": "T-018",
+        "month": "2025-10",
+        "mrr": 17999,
+        "apiCalls": 4950000,
+        "storageGB": 2580,
+        "userCount": 292,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0073",
+        "tenantId": "T-022",
+        "month": "2025-10",
+        "mrr": 3299,
+        "apiCalls": 225000,
+        "storageGB": 255,
+        "userCount": 43,
+        "overageCharges": 71
+    },
+    {
+        "id": "B-0074",
+        "tenantId": "T-023",
+        "month": "2025-10",
+        "mrr": 6999,
+        "apiCalls": 1220000,
+        "storageGB": 485,
+        "userCount": 108,
+        "overageCharges": 110
+    },
+    {
+        "id": "B-0075",
+        "tenantId": "T-024",
+        "month": "2025-10",
+        "mrr": 8999,
+        "apiCalls": 1940000,
+        "storageGB": 1340,
+        "userCount": 120,
+        "overageCharges": 487
+    },
+    {
+        "id": "B-0076",
+        "tenantId": "T-026",
+        "month": "2025-10",
+        "mrr": 21999,
+        "apiCalls": 5450000,
+        "storageGB": 3400,
+        "userCount": 415,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0077",
+        "tenantId": "T-029",
+        "month": "2025-10",
+        "mrr": 5499,
+        "apiCalls": 720000,
+        "storageGB": 320,
+        "userCount": 60,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0078",
+        "tenantId": "T-001",
+        "month": "2025-11",
+        "mrr": 23999,
+        "apiCalls": 4700000,
+        "storageGB": 2030,
+        "userCount": 368,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0079",
+        "tenantId": "T-002",
+        "month": "2025-11",
+        "mrr": 18999,
+        "apiCalls": 3120000,
+        "storageGB": 1580,
+        "userCount": 268,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0080",
+        "tenantId": "T-003",
+        "month": "2025-11",
+        "mrr": 8499,
+        "apiCalls": 1780000,
+        "storageGB": 840,
+        "userCount": 136,
+        "overageCharges": 390
+    },
+    {
+        "id": "B-0081",
+        "tenantId": "T-004",
+        "month": "2025-11",
+        "mrr": 28999,
+        "apiCalls": 5980000,
+        "storageGB": 2960,
+        "userCount": 500,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0082",
+        "tenantId": "T-006",
+        "month": "2025-11",
+        "mrr": 6999,
+        "apiCalls": 1200000,
+        "storageGB": 495,
+        "userCount": 92,
+        "overageCharges": 100
+    },
+    {
+        "id": "B-0083",
+        "tenantId": "T-007",
+        "month": "2025-11",
+        "mrr": 33999,
+        "apiCalls": 7820000,
+        "storageGB": 4050,
+        "userCount": 655,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0084",
+        "tenantId": "T-008",
+        "month": "2025-11",
+        "mrr": 7499,
+        "apiCalls": 800000,
+        "storageGB": 380,
+        "userCount": 95,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0085",
+        "tenantId": "T-010",
+        "month": "2025-11",
+        "mrr": 26999,
+        "apiCalls": 9400000,
+        "storageGB": 5350,
+        "userCount": 398,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0086",
+        "tenantId": "T-011",
+        "month": "2025-11",
+        "mrr": 2999,
+        "apiCalls": 310000,
+        "storageGB": 660,
+        "userCount": 42,
+        "overageCharges": 133
+    },
+    {
+        "id": "B-0087",
+        "tenantId": "T-012",
+        "month": "2025-11",
+        "mrr": 30999,
+        "apiCalls": 7280000,
+        "storageGB": 4680,
+        "userCount": 705,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0088",
+        "tenantId": "T-013",
+        "month": "2025-11",
+        "mrr": 7999,
+        "apiCalls": 1100000,
+        "storageGB": 520,
+        "userCount": 95,
+        "overageCharges": 50
+    },
+    {
+        "id": "B-0089",
+        "tenantId": "T-014",
+        "month": "2025-11",
+        "mrr": 38999,
+        "apiCalls": 10850000,
+        "storageGB": 6000,
+        "userCount": 860,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0090",
+        "tenantId": "T-015",
+        "month": "2025-11",
+        "mrr": 7999,
+        "apiCalls": 1480000,
+        "storageGB": 720,
+        "userCount": 146,
+        "overageCharges": 240
+    },
+    {
+        "id": "B-0091",
+        "tenantId": "T-016",
+        "month": "2025-11",
+        "mrr": 13999,
+        "apiCalls": 2700000,
+        "storageGB": 1220,
+        "userCount": 195,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0092",
+        "tenantId": "T-017",
+        "month": "2025-11",
+        "mrr": 11999,
+        "apiCalls": 2250000,
+        "storageGB": 910,
+        "userCount": 164,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0093",
+        "tenantId": "T-018",
+        "month": "2025-11",
+        "mrr": 17999,
+        "apiCalls": 5020000,
+        "storageGB": 2650,
+        "userCount": 298,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0094",
+        "tenantId": "T-020",
+        "month": "2025-11",
+        "mrr": 699,
+        "apiCalls": 35000,
+        "storageGB": 18,
+        "userCount": 14,
+        "overageCharges": 13
+    },
+    {
+        "id": "B-0095",
+        "tenantId": "T-022",
+        "month": "2025-11",
+        "mrr": 3499,
+        "apiCalls": 240000,
+        "storageGB": 275,
+        "userCount": 46,
+        "overageCharges": 79
+    },
+    {
+        "id": "B-0096",
+        "tenantId": "T-023",
+        "month": "2025-11",
+        "mrr": 6999,
+        "apiCalls": 1180000,
+        "storageGB": 490,
+        "userCount": 100,
+        "overageCharges": 90
+    },
+    {
+        "id": "B-0097",
+        "tenantId": "T-024",
+        "month": "2025-11",
+        "mrr": 8999,
+        "apiCalls": 1980000,
+        "storageGB": 1390,
+        "userCount": 123,
+        "overageCharges": 510
+    },
+    {
+        "id": "B-0098",
+        "tenantId": "T-026",
+        "month": "2025-11",
+        "mrr": 21999,
+        "apiCalls": 5550000,
+        "storageGB": 3500,
+        "userCount": 425,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0099",
+        "tenantId": "T-029",
+        "month": "2025-11",
+        "mrr": 5499,
+        "apiCalls": 780000,
+        "storageGB": 350,
+        "userCount": 65,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0100",
+        "tenantId": "T-001",
+        "month": "2025-12",
+        "mrr": 24999,
+        "apiCalls": 4780000,
+        "storageGB": 2080,
+        "userCount": 375,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0101",
+        "tenantId": "T-002",
+        "month": "2025-12",
+        "mrr": 19999,
+        "apiCalls": 3160000,
+        "storageGB": 1600,
+        "userCount": 272,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0102",
+        "tenantId": "T-003",
+        "month": "2025-12",
+        "mrr": 8999,
+        "apiCalls": 1800000,
+        "storageGB": 860,
+        "userCount": 138,
+        "overageCharges": 400
+    },
+    {
+        "id": "B-0103",
+        "tenantId": "T-004",
+        "month": "2025-12",
+        "mrr": 29999,
+        "apiCalls": 6050000,
+        "storageGB": 3020,
+        "userCount": 508,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0104",
+        "tenantId": "T-006",
+        "month": "2025-12",
+        "mrr": 7499,
+        "apiCalls": 1220000,
+        "storageGB": 505,
+        "userCount": 95,
+        "overageCharges": 110
+    },
+    {
+        "id": "B-0105",
+        "tenantId": "T-007",
+        "month": "2025-12",
+        "mrr": 34999,
+        "apiCalls": 7900000,
+        "storageGB": 4100,
+        "userCount": 665,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0106",
+        "tenantId": "T-008",
+        "month": "2025-12",
+        "mrr": 7499,
+        "apiCalls": 400000,
+        "storageGB": 360,
+        "userCount": 60,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0107",
+        "tenantId": "T-009",
+        "month": "2025-12",
+        "mrr": 799,
+        "apiCalls": 48000,
+        "storageGB": 22,
+        "userCount": 10,
+        "overageCharges": 20
+    },
+    {
+        "id": "B-0108",
+        "tenantId": "T-010",
+        "month": "2025-12",
+        "mrr": 27999,
+        "apiCalls": 9550000,
+        "storageGB": 5480,
+        "userCount": 405,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0109",
+        "tenantId": "T-011",
+        "month": "2025-12",
+        "mrr": 3299,
+        "apiCalls": 340000,
+        "storageGB": 720,
+        "userCount": 48,
+        "overageCharges": 151
+    },
+    {
+        "id": "B-0110",
+        "tenantId": "T-012",
+        "month": "2025-12",
+        "mrr": 31999,
+        "apiCalls": 7350000,
+        "storageGB": 4730,
+        "userCount": 712,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0111",
+        "tenantId": "T-013",
+        "month": "2025-12",
+        "mrr": 7999,
+        "apiCalls": 800000,
+        "storageGB": 400,
+        "userCount": 60,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0112",
+        "tenantId": "T-014",
+        "month": "2025-12",
+        "mrr": 39999,
+        "apiCalls": 10950000,
+        "storageGB": 6080,
+        "userCount": 870,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0113",
+        "tenantId": "T-015",
+        "month": "2025-12",
+        "mrr": 8499,
+        "apiCalls": 1500000,
+        "storageGB": 735,
+        "userCount": 150,
+        "overageCharges": 250
+    },
+    {
+        "id": "B-0114",
+        "tenantId": "T-016",
+        "month": "2025-12",
+        "mrr": 14999,
+        "apiCalls": 2750000,
+        "storageGB": 1250,
+        "userCount": 200,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0115",
+        "tenantId": "T-017",
+        "month": "2025-12",
+        "mrr": 12999,
+        "apiCalls": 2300000,
+        "storageGB": 935,
+        "userCount": 168,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0116",
+        "tenantId": "T-018",
+        "month": "2025-12",
+        "mrr": 18999,
+        "apiCalls": 5080000,
+        "storageGB": 2700,
+        "userCount": 303,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0117",
+        "tenantId": "T-020",
+        "month": "2025-12",
+        "mrr": 699,
+        "apiCalls": 40000,
+        "storageGB": 22,
+        "userCount": 16,
+        "overageCharges": 16
+    },
+    {
+        "id": "B-0118",
+        "tenantId": "T-022",
+        "month": "2025-12",
+        "mrr": 3499,
+        "apiCalls": 252000,
+        "storageGB": 290,
+        "userCount": 48,
+        "overageCharges": 86
+    },
+    {
+        "id": "B-0119",
+        "tenantId": "T-023",
+        "month": "2025-12",
+        "mrr": 6999,
+        "apiCalls": 900000,
+        "storageGB": 495,
+        "userCount": 75,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0120",
+        "tenantId": "T-024",
+        "month": "2025-12",
+        "mrr": 9499,
+        "apiCalls": 2020000,
+        "storageGB": 1430,
+        "userCount": 126,
+        "overageCharges": 532
+    },
+    {
+        "id": "B-0121",
+        "tenantId": "T-026",
+        "month": "2025-12",
+        "mrr": 22999,
+        "apiCalls": 5620000,
+        "storageGB": 3580,
+        "userCount": 432,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0122",
+        "tenantId": "T-029",
+        "month": "2025-12",
+        "mrr": 5999,
+        "apiCalls": 840000,
+        "storageGB": 380,
+        "userCount": 70,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0123",
+        "tenantId": "T-030",
+        "month": "2025-12",
+        "mrr": 4999,
+        "apiCalls": 520000,
+        "storageGB": 220,
+        "userCount": 42,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0124",
+        "tenantId": "T-001",
+        "month": "2026-01",
+        "mrr": 24999,
+        "apiCalls": 4800000,
+        "storageGB": 2100,
+        "userCount": 380,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0125",
+        "tenantId": "T-002",
+        "month": "2026-01",
+        "mrr": 19999,
+        "apiCalls": 3190000,
+        "storageGB": 1620,
+        "userCount": 275,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0126",
+        "tenantId": "T-003",
+        "month": "2026-01",
+        "mrr": 8999,
+        "apiCalls": 1815000,
+        "storageGB": 870,
+        "userCount": 140,
+        "overageCharges": 408
+    },
+    {
+        "id": "B-0127",
+        "tenantId": "T-004",
+        "month": "2026-01",
+        "mrr": 29999,
+        "apiCalls": 6100000,
+        "storageGB": 3050,
+        "userCount": 512,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0128",
+        "tenantId": "T-006",
+        "month": "2026-01",
+        "mrr": 7499,
+        "apiCalls": 1230000,
+        "storageGB": 510,
+        "userCount": 96,
+        "overageCharges": 115
+    },
+    {
+        "id": "B-0129",
+        "tenantId": "T-007",
+        "month": "2026-01",
+        "mrr": 34999,
+        "apiCalls": 7980000,
+        "storageGB": 4140,
+        "userCount": 672,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0130",
+        "tenantId": "T-008",
+        "month": "2026-01",
+        "mrr": 7499,
+        "apiCalls": 0,
+        "storageGB": 340,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0131",
+        "tenantId": "T-009",
+        "month": "2026-01",
+        "mrr": 799,
+        "apiCalls": 52000,
+        "storageGB": 28,
+        "userCount": 12,
+        "overageCharges": 22
+    },
+    {
+        "id": "B-0132",
+        "tenantId": "T-010",
+        "month": "2026-01",
+        "mrr": 27999,
+        "apiCalls": 9650000,
+        "storageGB": 5540,
+        "userCount": 407,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0133",
+        "tenantId": "T-011",
+        "month": "2026-01",
+        "mrr": 3299,
+        "apiCalls": 360000,
+        "storageGB": 760,
+        "userCount": 52,
+        "overageCharges": 163
+    },
+    {
+        "id": "B-0134",
+        "tenantId": "T-012",
+        "month": "2026-01",
+        "mrr": 31999,
+        "apiCalls": 7400000,
+        "storageGB": 4760,
+        "userCount": 715,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0135",
+        "tenantId": "T-013",
+        "month": "2026-01",
+        "mrr": 7999,
+        "apiCalls": 450000,
+        "storageGB": 280,
+        "userCount": 30,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0136",
+        "tenantId": "T-014",
+        "month": "2026-01",
+        "mrr": 39999,
+        "apiCalls": 11000000,
+        "storageGB": 6120,
+        "userCount": 878,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0137",
+        "tenantId": "T-015",
+        "month": "2026-01",
+        "mrr": 8499,
+        "apiCalls": 1520000,
+        "storageGB": 745,
+        "userCount": 152,
+        "overageCharges": 260
+    },
+    {
+        "id": "B-0138",
+        "tenantId": "T-016",
+        "month": "2026-01",
+        "mrr": 14999,
+        "apiCalls": 2800000,
+        "storageGB": 1270,
+        "userCount": 204,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0139",
+        "tenantId": "T-017",
+        "month": "2026-01",
+        "mrr": 12999,
+        "apiCalls": 2340000,
+        "storageGB": 955,
+        "userCount": 171,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0140",
+        "tenantId": "T-018",
+        "month": "2026-01",
+        "mrr": 18999,
+        "apiCalls": 5120000,
+        "storageGB": 2740,
+        "userCount": 306,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0141",
+        "tenantId": "T-020",
+        "month": "2026-01",
+        "mrr": 749,
+        "apiCalls": 45000,
+        "storageGB": 26,
+        "userCount": 17,
+        "overageCharges": 19
+    },
+    {
+        "id": "B-0142",
+        "tenantId": "T-022",
+        "month": "2026-01",
+        "mrr": 3699,
+        "apiCalls": 262000,
+        "storageGB": 300,
+        "userCount": 50,
+        "overageCharges": 91
+    },
+    {
+        "id": "B-0143",
+        "tenantId": "T-023",
+        "month": "2026-01",
+        "mrr": 6999,
+        "apiCalls": 500000,
+        "storageGB": 500,
+        "userCount": 40,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0144",
+        "tenantId": "T-024",
+        "month": "2026-01",
+        "mrr": 9499,
+        "apiCalls": 2050000,
+        "storageGB": 1460,
+        "userCount": 128,
+        "overageCharges": 548
+    },
+    {
+        "id": "B-0145",
+        "tenantId": "T-025",
+        "month": "2026-01",
+        "mrr": 3799,
+        "apiCalls": 260000,
+        "storageGB": 450,
+        "userCount": 52,
+        "overageCharges": 98
+    },
+    {
+        "id": "B-0146",
+        "tenantId": "T-026",
+        "month": "2026-01",
+        "mrr": 22999,
+        "apiCalls": 5680000,
+        "storageGB": 3630,
+        "userCount": 438,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0147",
+        "tenantId": "T-029",
+        "month": "2026-01",
+        "mrr": 5999,
+        "apiCalls": 880000,
+        "storageGB": 400,
+        "userCount": 74,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0148",
+        "tenantId": "T-030",
+        "month": "2026-01",
+        "mrr": 4999,
+        "apiCalls": 560000,
+        "storageGB": 245,
+        "userCount": 48,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0149",
+        "tenantId": "T-001",
+        "month": "2026-02",
+        "mrr": 24999,
+        "apiCalls": 4820000,
+        "storageGB": 2115,
+        "userCount": 382,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0150",
+        "tenantId": "T-002",
+        "month": "2026-02",
+        "mrr": 19999,
+        "apiCalls": 3210000,
+        "storageGB": 1635,
+        "userCount": 276,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0151",
+        "tenantId": "T-003",
+        "month": "2026-02",
+        "mrr": 8999,
+        "apiCalls": 1830000,
+        "storageGB": 880,
+        "userCount": 141,
+        "overageCharges": 415
+    },
+    {
+        "id": "B-0152",
+        "tenantId": "T-004",
+        "month": "2026-02",
+        "mrr": 29999,
+        "apiCalls": 6140000,
+        "storageGB": 3070,
+        "userCount": 515,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0153",
+        "tenantId": "T-006",
+        "month": "2026-02",
+        "mrr": 7499,
+        "apiCalls": 1240000,
+        "storageGB": 515,
+        "userCount": 97,
+        "overageCharges": 120
+    },
+    {
+        "id": "B-0154",
+        "tenantId": "T-007",
+        "month": "2026-02",
+        "mrr": 34999,
+        "apiCalls": 8040000,
+        "storageGB": 4170,
+        "userCount": 675,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0155",
+        "tenantId": "T-008",
+        "month": "2026-02",
+        "mrr": 7499,
+        "apiCalls": 0,
+        "storageGB": 340,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0156",
+        "tenantId": "T-009",
+        "month": "2026-02",
+        "mrr": 899,
+        "apiCalls": 58000,
+        "storageGB": 32,
+        "userCount": 14,
+        "overageCharges": 25
+    },
+    {
+        "id": "B-0157",
+        "tenantId": "T-010",
+        "month": "2026-02",
+        "mrr": 27999,
+        "apiCalls": 9720000,
+        "storageGB": 5570,
+        "userCount": 409,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0158",
+        "tenantId": "T-011",
+        "month": "2026-02",
+        "mrr": 3299,
+        "apiCalls": 380000,
+        "storageGB": 810,
+        "userCount": 55,
+        "overageCharges": 176
+    },
+    {
+        "id": "B-0159",
+        "tenantId": "T-012",
+        "month": "2026-02",
+        "mrr": 31999,
+        "apiCalls": 7440000,
+        "storageGB": 4780,
+        "userCount": 718,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0160",
+        "tenantId": "T-013",
+        "month": "2026-02",
+        "mrr": 0,
+        "apiCalls": 0,
+        "storageGB": 0,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0161",
+        "tenantId": "T-014",
+        "month": "2026-02",
+        "mrr": 39999,
+        "apiCalls": 11080000,
+        "storageGB": 6160,
+        "userCount": 883,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0162",
+        "tenantId": "T-015",
+        "month": "2026-02",
+        "mrr": 8499,
+        "apiCalls": 1540000,
+        "storageGB": 752,
+        "userCount": 154,
+        "overageCharges": 270
+    },
+    {
+        "id": "B-0163",
+        "tenantId": "T-016",
+        "month": "2026-02",
+        "mrr": 14999,
+        "apiCalls": 2840000,
+        "storageGB": 1285,
+        "userCount": 206,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0164",
+        "tenantId": "T-017",
+        "month": "2026-02",
+        "mrr": 12999,
+        "apiCalls": 2370000,
+        "storageGB": 968,
+        "userCount": 173,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0165",
+        "tenantId": "T-018",
+        "month": "2026-02",
+        "mrr": 18999,
+        "apiCalls": 5150000,
+        "storageGB": 2770,
+        "userCount": 308,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0166",
+        "tenantId": "T-020",
+        "month": "2026-02",
+        "mrr": 749,
+        "apiCalls": 50000,
+        "storageGB": 30,
+        "userCount": 18,
+        "overageCharges": 21
+    },
+    {
+        "id": "B-0167",
+        "tenantId": "T-022",
+        "month": "2026-02",
+        "mrr": 3699,
+        "apiCalls": 270000,
+        "storageGB": 308,
+        "userCount": 52,
+        "overageCharges": 95
+    },
+    {
+        "id": "B-0168",
+        "tenantId": "T-023",
+        "month": "2026-02",
+        "mrr": 6999,
+        "apiCalls": 0,
+        "storageGB": 510,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0169",
+        "tenantId": "T-024",
+        "month": "2026-02",
+        "mrr": 9499,
+        "apiCalls": 2070000,
+        "storageGB": 1480,
+        "userCount": 129,
+        "overageCharges": 559
+    },
+    {
+        "id": "B-0170",
+        "tenantId": "T-025",
+        "month": "2026-02",
+        "mrr": 3799,
+        "apiCalls": 280000,
+        "storageGB": 490,
+        "userCount": 56,
+        "overageCharges": 110
+    },
+    {
+        "id": "B-0171",
+        "tenantId": "T-026",
+        "month": "2026-02",
+        "mrr": 22999,
+        "apiCalls": 5720000,
+        "storageGB": 3660,
+        "userCount": 441,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0172",
+        "tenantId": "T-027",
+        "month": "2026-02",
+        "mrr": 699,
+        "apiCalls": 22000,
+        "storageGB": 12,
+        "userCount": 6,
+        "overageCharges": 6
+    },
+    {
+        "id": "B-0173",
+        "tenantId": "T-029",
+        "month": "2026-02",
+        "mrr": 5999,
+        "apiCalls": 910000,
+        "storageGB": 415,
+        "userCount": 78,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0174",
+        "tenantId": "T-030",
+        "month": "2026-02",
+        "mrr": 5499,
+        "apiCalls": 610000,
+        "storageGB": 270,
+        "userCount": 52,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0175",
+        "tenantId": "T-001",
+        "month": "2026-03",
+        "mrr": 24999,
+        "apiCalls": 4835000,
+        "storageGB": 2125,
+        "userCount": 384,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0176",
+        "tenantId": "T-002",
+        "month": "2026-03",
+        "mrr": 19999,
+        "apiCalls": 3225000,
+        "storageGB": 1640,
+        "userCount": 277,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0177",
+        "tenantId": "T-003",
+        "month": "2026-03",
+        "mrr": 8999,
+        "apiCalls": 1840000,
+        "storageGB": 885,
+        "userCount": 142,
+        "overageCharges": 420
+    },
+    {
+        "id": "B-0178",
+        "tenantId": "T-004",
+        "month": "2026-03",
+        "mrr": 29999,
+        "apiCalls": 6170000,
+        "storageGB": 3085,
+        "userCount": 518,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0179",
+        "tenantId": "T-006",
+        "month": "2026-03",
+        "mrr": 7499,
+        "apiCalls": 1245000,
+        "storageGB": 518,
+        "userCount": 98,
+        "overageCharges": 123
+    },
+    {
+        "id": "B-0180",
+        "tenantId": "T-007",
+        "month": "2026-03",
+        "mrr": 34999,
+        "apiCalls": 8070000,
+        "storageGB": 4185,
+        "userCount": 678,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0181",
+        "tenantId": "T-008",
+        "month": "2026-03",
+        "mrr": 7499,
+        "apiCalls": 0,
+        "storageGB": 340,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0182",
+        "tenantId": "T-009",
+        "month": "2026-03",
+        "mrr": 899,
+        "apiCalls": 64000,
+        "storageGB": 36,
+        "userCount": 15,
+        "overageCharges": 28
+    },
+    {
+        "id": "B-0183",
+        "tenantId": "T-010",
+        "month": "2026-03",
+        "mrr": 27999,
+        "apiCalls": 9760000,
+        "storageGB": 5590,
+        "userCount": 410,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0184",
+        "tenantId": "T-011",
+        "month": "2026-03",
+        "mrr": 3499,
+        "apiCalls": 395000,
+        "storageGB": 850,
+        "userCount": 58,
+        "overageCharges": 186
+    },
+    {
+        "id": "B-0185",
+        "tenantId": "T-012",
+        "month": "2026-03",
+        "mrr": 31999,
+        "apiCalls": 7470000,
+        "storageGB": 4790,
+        "userCount": 719,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0186",
+        "tenantId": "T-013",
+        "month": "2026-03",
+        "mrr": 0,
+        "apiCalls": 0,
+        "storageGB": 0,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0187",
+        "tenantId": "T-014",
+        "month": "2026-03",
+        "mrr": 39999,
+        "apiCalls": 11140000,
+        "storageGB": 6180,
+        "userCount": 887,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0188",
+        "tenantId": "T-015",
+        "month": "2026-03",
+        "mrr": 8499,
+        "apiCalls": 1550000,
+        "storageGB": 756,
+        "userCount": 155,
+        "overageCharges": 275
+    },
+    {
+        "id": "B-0189",
+        "tenantId": "T-016",
+        "month": "2026-03",
+        "mrr": 14999,
+        "apiCalls": 2870000,
+        "storageGB": 1295,
+        "userCount": 208,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0190",
+        "tenantId": "T-017",
+        "month": "2026-03",
+        "mrr": 12999,
+        "apiCalls": 2385000,
+        "storageGB": 975,
+        "userCount": 174,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0191",
+        "tenantId": "T-018",
+        "month": "2026-03",
+        "mrr": 18999,
+        "apiCalls": 5180000,
+        "storageGB": 2790,
+        "userCount": 309,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0192",
+        "tenantId": "T-020",
+        "month": "2026-03",
+        "mrr": 749,
+        "apiCalls": 54000,
+        "storageGB": 33,
+        "userCount": 19,
+        "overageCharges": 23
+    },
+    {
+        "id": "B-0193",
+        "tenantId": "T-021",
+        "month": "2026-03",
+        "mrr": 699,
+        "apiCalls": 28000,
+        "storageGB": 14,
+        "userCount": 8,
+        "overageCharges": 9
+    },
+    {
+        "id": "B-0194",
+        "tenantId": "T-022",
+        "month": "2026-03",
+        "mrr": 3699,
+        "apiCalls": 275000,
+        "storageGB": 314,
+        "userCount": 53,
+        "overageCharges": 99
+    },
+    {
+        "id": "B-0195",
+        "tenantId": "T-023",
+        "month": "2026-03",
+        "mrr": 6999,
+        "apiCalls": 0,
+        "storageGB": 510,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0196",
+        "tenantId": "T-024",
+        "month": "2026-03",
+        "mrr": 9499,
+        "apiCalls": 2085000,
+        "storageGB": 1490,
+        "userCount": 130,
+        "overageCharges": 568
+    },
+    {
+        "id": "B-0197",
+        "tenantId": "T-025",
+        "month": "2026-03",
+        "mrr": 4199,
+        "apiCalls": 300000,
+        "storageGB": 530,
+        "userCount": 60,
+        "overageCharges": 122
+    },
+    {
+        "id": "B-0198",
+        "tenantId": "T-026",
+        "month": "2026-03",
+        "mrr": 22999,
+        "apiCalls": 5750000,
+        "storageGB": 3680,
+        "userCount": 443,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0199",
+        "tenantId": "T-027",
+        "month": "2026-03",
+        "mrr": 699,
+        "apiCalls": 28000,
+        "storageGB": 15,
+        "userCount": 8,
+        "overageCharges": 9
+    },
+    {
+        "id": "B-0200",
+        "tenantId": "T-029",
+        "month": "2026-03",
+        "mrr": 6499,
+        "apiCalls": 940000,
+        "storageGB": 425,
+        "userCount": 81,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0201",
+        "tenantId": "T-030",
+        "month": "2026-03",
+        "mrr": 5499,
+        "apiCalls": 650000,
+        "storageGB": 285,
+        "userCount": 56,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0202",
+        "tenantId": "T-001",
+        "month": "2026-04",
+        "mrr": 24999,
+        "apiCalls": 4840000,
+        "storageGB": 2130,
+        "userCount": 385,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0203",
+        "tenantId": "T-002",
+        "month": "2026-04",
+        "mrr": 19999,
+        "apiCalls": 3230000,
+        "storageGB": 1645,
+        "userCount": 278,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0204",
+        "tenantId": "T-003",
+        "month": "2026-04",
+        "mrr": 8999,
+        "apiCalls": 1845000,
+        "storageGB": 887,
+        "userCount": 142,
+        "overageCharges": 423
+    },
+    {
+        "id": "B-0205",
+        "tenantId": "T-004",
+        "month": "2026-04",
+        "mrr": 29999,
+        "apiCalls": 6185000,
+        "storageGB": 3095,
+        "userCount": 519,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0206",
+        "tenantId": "T-006",
+        "month": "2026-04",
+        "mrr": 7499,
+        "apiCalls": 1248000,
+        "storageGB": 519,
+        "userCount": 98,
+        "overageCharges": 124
+    },
+    {
+        "id": "B-0207",
+        "tenantId": "T-007",
+        "month": "2026-04",
+        "mrr": 34999,
+        "apiCalls": 8085000,
+        "storageGB": 4195,
+        "userCount": 679,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0208",
+        "tenantId": "T-008",
+        "month": "2026-04",
+        "mrr": 7499,
+        "apiCalls": 0,
+        "storageGB": 340,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0209",
+        "tenantId": "T-009",
+        "month": "2026-04",
+        "mrr": 899,
+        "apiCalls": 68000,
+        "storageGB": 40,
+        "userCount": 16,
+        "overageCharges": 31
+    },
+    {
+        "id": "B-0210",
+        "tenantId": "T-010",
+        "month": "2026-04",
+        "mrr": 27999,
+        "apiCalls": 9780000,
+        "storageGB": 5595,
+        "userCount": 410,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0211",
+        "tenantId": "T-011",
+        "month": "2026-04",
+        "mrr": 3499,
+        "apiCalls": 405000,
+        "storageGB": 870,
+        "userCount": 60,
+        "overageCharges": 192
+    },
+    {
+        "id": "B-0212",
+        "tenantId": "T-012",
+        "month": "2026-04",
+        "mrr": 31999,
+        "apiCalls": 7485000,
+        "storageGB": 4795,
+        "userCount": 720,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0213",
+        "tenantId": "T-013",
+        "month": "2026-04",
+        "mrr": 0,
+        "apiCalls": 0,
+        "storageGB": 0,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0214",
+        "tenantId": "T-014",
+        "month": "2026-04",
+        "mrr": 39999,
+        "apiCalls": 11170000,
+        "storageGB": 6190,
+        "userCount": 889,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0215",
+        "tenantId": "T-015",
+        "month": "2026-04",
+        "mrr": 8499,
+        "apiCalls": 1555000,
+        "storageGB": 758,
+        "userCount": 156,
+        "overageCharges": 278
+    },
+    {
+        "id": "B-0216",
+        "tenantId": "T-016",
+        "month": "2026-04",
+        "mrr": 14999,
+        "apiCalls": 2885000,
+        "storageGB": 1298,
+        "userCount": 209,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0217",
+        "tenantId": "T-017",
+        "month": "2026-04",
+        "mrr": 12999,
+        "apiCalls": 2390000,
+        "storageGB": 978,
+        "userCount": 175,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0218",
+        "tenantId": "T-018",
+        "month": "2026-04",
+        "mrr": 18999,
+        "apiCalls": 5190000,
+        "storageGB": 2795,
+        "userCount": 310,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0219",
+        "tenantId": "T-020",
+        "month": "2026-04",
+        "mrr": 799,
+        "apiCalls": 57000,
+        "storageGB": 35,
+        "userCount": 20,
+        "overageCharges": 25
+    },
+    {
+        "id": "B-0220",
+        "tenantId": "T-021",
+        "month": "2026-04",
+        "mrr": 799,
+        "apiCalls": 35000,
+        "storageGB": 18,
+        "userCount": 11,
+        "overageCharges": 13
+    },
+    {
+        "id": "B-0221",
+        "tenantId": "T-022",
+        "month": "2026-04",
+        "mrr": 3999,
+        "apiCalls": 278000,
+        "storageGB": 318,
+        "userCount": 54,
+        "overageCharges": 100
+    },
+    {
+        "id": "B-0222",
+        "tenantId": "T-023",
+        "month": "2026-04",
+        "mrr": 6999,
+        "apiCalls": 0,
+        "storageGB": 510,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0223",
+        "tenantId": "T-024",
+        "month": "2026-04",
+        "mrr": 9499,
+        "apiCalls": 2090000,
+        "storageGB": 1495,
+        "userCount": 130,
+        "overageCharges": 570
+    },
+    {
+        "id": "B-0224",
+        "tenantId": "T-025",
+        "month": "2026-04",
+        "mrr": 4199,
+        "apiCalls": 320000,
+        "storageGB": 560,
+        "userCount": 64,
+        "overageCharges": 133
+    },
+    {
+        "id": "B-0225",
+        "tenantId": "T-026",
+        "month": "2026-04",
+        "mrr": 22999,
+        "apiCalls": 5770000,
+        "storageGB": 3690,
+        "userCount": 444,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0226",
+        "tenantId": "T-027",
+        "month": "2026-04",
+        "mrr": 699,
+        "apiCalls": 18000,
+        "storageGB": 10,
+        "userCount": 5,
+        "overageCharges": 4
+    },
+    {
+        "id": "B-0227",
+        "tenantId": "T-029",
+        "month": "2026-04",
+        "mrr": 6499,
+        "apiCalls": 955000,
+        "storageGB": 432,
+        "userCount": 83,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0228",
+        "tenantId": "T-030",
+        "month": "2026-04",
+        "mrr": 5499,
+        "apiCalls": 680000,
+        "storageGB": 298,
+        "userCount": 60,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0229",
+        "tenantId": "T-001",
+        "month": "2026-05",
+        "mrr": 24999,
+        "apiCalls": 4845000,
+        "storageGB": 2135,
+        "userCount": 385,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0230",
+        "tenantId": "T-002",
+        "month": "2026-05",
+        "mrr": 19999,
+        "apiCalls": 3235000,
+        "storageGB": 1648,
+        "userCount": 278,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0231",
+        "tenantId": "T-003",
+        "month": "2026-05",
+        "mrr": 8999,
+        "apiCalls": 1848000,
+        "storageGB": 889,
+        "userCount": 142,
+        "overageCharges": 424
+    },
+    {
+        "id": "B-0232",
+        "tenantId": "T-004",
+        "month": "2026-05",
+        "mrr": 29999,
+        "apiCalls": 6190000,
+        "storageGB": 3098,
+        "userCount": 520,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0233",
+        "tenantId": "T-005",
+        "month": "2026-05",
+        "mrr": 2499,
+        "apiCalls": 140000,
+        "storageGB": 90,
+        "userCount": 38,
+        "overageCharges": 20
+    },
+    {
+        "id": "B-0234",
+        "tenantId": "T-006",
+        "month": "2026-05",
+        "mrr": 7499,
+        "apiCalls": 1249000,
+        "storageGB": 520,
+        "userCount": 98,
+        "overageCharges": 125
+    },
+    {
+        "id": "B-0235",
+        "tenantId": "T-007",
+        "month": "2026-05",
+        "mrr": 34999,
+        "apiCalls": 8090000,
+        "storageGB": 4198,
+        "userCount": 680,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0236",
+        "tenantId": "T-008",
+        "month": "2026-05",
+        "mrr": 7499,
+        "apiCalls": 0,
+        "storageGB": 340,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0237",
+        "tenantId": "T-009",
+        "month": "2026-05",
+        "mrr": 999,
+        "apiCalls": 72000,
+        "storageGB": 42,
+        "userCount": 17,
+        "overageCharges": 33
+    },
+    {
+        "id": "B-0238",
+        "tenantId": "T-010",
+        "month": "2026-05",
+        "mrr": 27999,
+        "apiCalls": 9790000,
+        "storageGB": 5598,
+        "userCount": 410,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0239",
+        "tenantId": "T-011",
+        "month": "2026-05",
+        "mrr": 3499,
+        "apiCalls": 415000,
+        "storageGB": 880,
+        "userCount": 61,
+        "overageCharges": 197
+    },
+    {
+        "id": "B-0240",
+        "tenantId": "T-012",
+        "month": "2026-05",
+        "mrr": 31999,
+        "apiCalls": 7490000,
+        "storageGB": 4798,
+        "userCount": 720,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0241",
+        "tenantId": "T-013",
+        "month": "2026-05",
+        "mrr": 0,
+        "apiCalls": 0,
+        "storageGB": 0,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0242",
+        "tenantId": "T-014",
+        "month": "2026-05",
+        "mrr": 39999,
+        "apiCalls": 11190000,
+        "storageGB": 6195,
+        "userCount": 890,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0243",
+        "tenantId": "T-015",
+        "month": "2026-05",
+        "mrr": 8499,
+        "apiCalls": 1558000,
+        "storageGB": 759,
+        "userCount": 156,
+        "overageCharges": 279
+    },
+    {
+        "id": "B-0244",
+        "tenantId": "T-016",
+        "month": "2026-05",
+        "mrr": 14999,
+        "apiCalls": 2890000,
+        "storageGB": 1299,
+        "userCount": 210,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0245",
+        "tenantId": "T-017",
+        "month": "2026-05",
+        "mrr": 12999,
+        "apiCalls": 2395000,
+        "storageGB": 979,
+        "userCount": 175,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0246",
+        "tenantId": "T-018",
+        "month": "2026-05",
+        "mrr": 18999,
+        "apiCalls": 5195000,
+        "storageGB": 2798,
+        "userCount": 310,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0247",
+        "tenantId": "T-020",
+        "month": "2026-05",
+        "mrr": 799,
+        "apiCalls": 60000,
+        "storageGB": 37,
+        "userCount": 21,
+        "overageCharges": 26
+    },
+    {
+        "id": "B-0248",
+        "tenantId": "T-021",
+        "month": "2026-05",
+        "mrr": 899,
+        "apiCalls": 42000,
+        "storageGB": 24,
+        "userCount": 13,
+        "overageCharges": 17
+    },
+    {
+        "id": "B-0249",
+        "tenantId": "T-022",
+        "month": "2026-05",
+        "mrr": 3999,
+        "apiCalls": 279000,
+        "storageGB": 319,
+        "userCount": 55,
+        "overageCharges": 101
+    },
+    {
+        "id": "B-0250",
+        "tenantId": "T-023",
+        "month": "2026-05",
+        "mrr": 6999,
+        "apiCalls": 0,
+        "storageGB": 510,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0251",
+        "tenantId": "T-024",
+        "month": "2026-05",
+        "mrr": 9499,
+        "apiCalls": 2095000,
+        "storageGB": 1498,
+        "userCount": 130,
+        "overageCharges": 573
+    },
+    {
+        "id": "B-0252",
+        "tenantId": "T-025",
+        "month": "2026-05",
+        "mrr": 4499,
+        "apiCalls": 340000,
+        "storageGB": 590,
+        "userCount": 68,
+        "overageCharges": 145
+    },
+    {
+        "id": "B-0253",
+        "tenantId": "T-026",
+        "month": "2026-05",
+        "mrr": 22999,
+        "apiCalls": 5785000,
+        "storageGB": 3695,
+        "userCount": 445,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0254",
+        "tenantId": "T-027",
+        "month": "2026-05",
+        "mrr": 0,
+        "apiCalls": 0,
+        "storageGB": 0,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0255",
+        "tenantId": "T-029",
+        "month": "2026-05",
+        "mrr": 6499,
+        "apiCalls": 970000,
+        "storageGB": 436,
+        "userCount": 84,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0256",
+        "tenantId": "T-030",
+        "month": "2026-05",
+        "mrr": 5999,
+        "apiCalls": 700000,
+        "storageGB": 305,
+        "userCount": 62,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0257",
+        "tenantId": "T-001",
+        "month": "2026-06",
+        "mrr": 24999,
+        "apiCalls": 4850000,
+        "storageGB": 2140,
+        "userCount": 385,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0258",
+        "tenantId": "T-002",
+        "month": "2026-06",
+        "mrr": 19999,
+        "apiCalls": 3240000,
+        "storageGB": 1650,
+        "userCount": 278,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0259",
+        "tenantId": "T-003",
+        "month": "2026-06",
+        "mrr": 8999,
+        "apiCalls": 1850000,
+        "storageGB": 890,
+        "userCount": 142,
+        "overageCharges": 425
+    },
+    {
+        "id": "B-0260",
+        "tenantId": "T-004",
+        "month": "2026-06",
+        "mrr": 29999,
+        "apiCalls": 6200000,
+        "storageGB": 3100,
+        "userCount": 520,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0261",
+        "tenantId": "T-005",
+        "month": "2026-06",
+        "mrr": 2999,
+        "apiCalls": 180000,
+        "storageGB": 120,
+        "userCount": 45,
+        "overageCharges": 41
+    },
+    {
+        "id": "B-0262",
+        "tenantId": "T-006",
+        "month": "2026-06",
+        "mrr": 7499,
+        "apiCalls": 1250000,
+        "storageGB": 520,
+        "userCount": 98,
+        "overageCharges": 125
+    },
+    {
+        "id": "B-0263",
+        "tenantId": "T-007",
+        "month": "2026-06",
+        "mrr": 34999,
+        "apiCalls": 8100000,
+        "storageGB": 4200,
+        "userCount": 680,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0264",
+        "tenantId": "T-008",
+        "month": "2026-06",
+        "mrr": 7499,
+        "apiCalls": 0,
+        "storageGB": 340,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0265",
+        "tenantId": "T-009",
+        "month": "2026-06",
+        "mrr": 999,
+        "apiCalls": 75000,
+        "storageGB": 45,
+        "userCount": 18,
+        "overageCharges": 35
+    },
+    {
+        "id": "B-0266",
+        "tenantId": "T-010",
+        "month": "2026-06",
+        "mrr": 27999,
+        "apiCalls": 9800000,
+        "storageGB": 5600,
+        "userCount": 410,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0267",
+        "tenantId": "T-011",
+        "month": "2026-06",
+        "mrr": 3499,
+        "apiCalls": 420000,
+        "storageGB": 890,
+        "userCount": 62,
+        "overageCharges": 200
+    },
+    {
+        "id": "B-0268",
+        "tenantId": "T-012",
+        "month": "2026-06",
+        "mrr": 31999,
+        "apiCalls": 7500000,
+        "storageGB": 4800,
+        "userCount": 720,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0269",
+        "tenantId": "T-013",
+        "month": "2026-06",
+        "mrr": 0,
+        "apiCalls": 0,
+        "storageGB": 0,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0270",
+        "tenantId": "T-014",
+        "month": "2026-06",
+        "mrr": 39999,
+        "apiCalls": 11200000,
+        "storageGB": 6200,
+        "userCount": 890,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0271",
+        "tenantId": "T-015",
+        "month": "2026-06",
+        "mrr": 8499,
+        "apiCalls": 1560000,
+        "storageGB": 760,
+        "userCount": 156,
+        "overageCharges": 280
+    },
+    {
+        "id": "B-0272",
+        "tenantId": "T-016",
+        "month": "2026-06",
+        "mrr": 14999,
+        "apiCalls": 2900000,
+        "storageGB": 1300,
+        "userCount": 210,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0273",
+        "tenantId": "T-017",
+        "month": "2026-06",
+        "mrr": 12999,
+        "apiCalls": 2400000,
+        "storageGB": 980,
+        "userCount": 175,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0274",
+        "tenantId": "T-018",
+        "month": "2026-06",
+        "mrr": 18999,
+        "apiCalls": 5200000,
+        "storageGB": 2800,
+        "userCount": 310,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0275",
+        "tenantId": "T-019",
+        "month": "2026-06",
+        "mrr": 2499,
+        "apiCalls": 95000,
+        "storageGB": 85,
+        "userCount": 28,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0276",
+        "tenantId": "T-020",
+        "month": "2026-06",
+        "mrr": 799,
+        "apiCalls": 62000,
+        "storageGB": 38,
+        "userCount": 22,
+        "overageCharges": 27
+    },
+    {
+        "id": "B-0277",
+        "tenantId": "T-021",
+        "month": "2026-06",
+        "mrr": 899,
+        "apiCalls": 48000,
+        "storageGB": 28,
+        "userCount": 15,
+        "overageCharges": 20
+    },
+    {
+        "id": "B-0278",
+        "tenantId": "T-022",
+        "month": "2026-06",
+        "mrr": 3999,
+        "apiCalls": 280000,
+        "storageGB": 320,
+        "userCount": 55,
+        "overageCharges": 101
+    },
+    {
+        "id": "B-0279",
+        "tenantId": "T-023",
+        "month": "2026-06",
+        "mrr": 6999,
+        "apiCalls": 0,
+        "storageGB": 510,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0280",
+        "tenantId": "T-024",
+        "month": "2026-06",
+        "mrr": 9499,
+        "apiCalls": 2100000,
+        "storageGB": 1500,
+        "userCount": 130,
+        "overageCharges": 575
+    },
+    {
+        "id": "B-0281",
+        "tenantId": "T-025",
+        "month": "2026-06",
+        "mrr": 4499,
+        "apiCalls": 350000,
+        "storageGB": 610,
+        "userCount": 72,
+        "overageCharges": 151
+    },
+    {
+        "id": "B-0282",
+        "tenantId": "T-026",
+        "month": "2026-06",
+        "mrr": 22999,
+        "apiCalls": 5800000,
+        "storageGB": 3700,
+        "userCount": 445,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0283",
+        "tenantId": "T-027",
+        "month": "2026-06",
+        "mrr": 0,
+        "apiCalls": 0,
+        "storageGB": 0,
+        "userCount": 0,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0284",
+        "tenantId": "T-028",
+        "month": "2026-06",
+        "mrr": 1999,
+        "apiCalls": 32000,
+        "storageGB": 25,
+        "userCount": 12,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0285",
+        "tenantId": "T-029",
+        "month": "2026-06",
+        "mrr": 6499,
+        "apiCalls": 980000,
+        "storageGB": 440,
+        "userCount": 85,
+        "overageCharges": 0
+    },
+    {
+        "id": "B-0286",
+        "tenantId": "T-030",
+        "month": "2026-06",
+        "mrr": 5999,
+        "apiCalls": 720000,
+        "storageGB": 310,
+        "userCount": 64,
+        "overageCharges": 0
+    }
+]

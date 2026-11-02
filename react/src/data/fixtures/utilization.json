@@ -1,0 +1,5762 @@
+[
+  {
+    "id": "u-T-001-h00",
+    "tenantId": "T-001",
+    "hour": 0,
+    "cpuPercent": 8.1,
+    "memoryPercent": 9.8,
+    "apiCallsPerMinute": 99
+  },
+  {
+    "id": "u-T-001-h01",
+    "tenantId": "T-001",
+    "hour": 1,
+    "cpuPercent": 7.0,
+    "memoryPercent": 12.0,
+    "apiCallsPerMinute": 113
+  },
+  {
+    "id": "u-T-001-h02",
+    "tenantId": "T-001",
+    "hour": 2,
+    "cpuPercent": 9.1,
+    "memoryPercent": 11.4,
+    "apiCallsPerMinute": 117
+  },
+  {
+    "id": "u-T-001-h03",
+    "tenantId": "T-001",
+    "hour": 3,
+    "cpuPercent": 6.7,
+    "memoryPercent": 9.1,
+    "apiCallsPerMinute": 100
+  },
+  {
+    "id": "u-T-001-h04",
+    "tenantId": "T-001",
+    "hour": 4,
+    "cpuPercent": 6.8,
+    "memoryPercent": 9.2,
+    "apiCallsPerMinute": 110
+  },
+  {
+    "id": "u-T-001-h05",
+    "tenantId": "T-001",
+    "hour": 5,
+    "cpuPercent": 8.5,
+    "memoryPercent": 11.4,
+    "apiCallsPerMinute": 122
+  },
+  {
+    "id": "u-T-001-h06",
+    "tenantId": "T-001",
+    "hour": 6,
+    "cpuPercent": 8.6,
+    "memoryPercent": 10.3,
+    "apiCallsPerMinute": 135
+  },
+  {
+    "id": "u-T-001-h07",
+    "tenantId": "T-001",
+    "hour": 7,
+    "cpuPercent": 15.8,
+    "memoryPercent": 20.7,
+    "apiCallsPerMinute": 161
+  },
+  {
+    "id": "u-T-001-h08",
+    "tenantId": "T-001",
+    "hour": 8,
+    "cpuPercent": 24.2,
+    "memoryPercent": 30.7,
+    "apiCallsPerMinute": 233
+  },
+  {
+    "id": "u-T-001-h09",
+    "tenantId": "T-001",
+    "hour": 9,
+    "cpuPercent": 33.6,
+    "memoryPercent": 43.3,
+    "apiCallsPerMinute": 360
+  },
+  {
+    "id": "u-T-001-h10",
+    "tenantId": "T-001",
+    "hour": 10,
+    "cpuPercent": 36.5,
+    "memoryPercent": 48.7,
+    "apiCallsPerMinute": 361
+  },
+  {
+    "id": "u-T-001-h11",
+    "tenantId": "T-001",
+    "hour": 11,
+    "cpuPercent": 36.3,
+    "memoryPercent": 46.6,
+    "apiCallsPerMinute": 388
+  },
+  {
+    "id": "u-T-001-h12",
+    "tenantId": "T-001",
+    "hour": 12,
+    "cpuPercent": 36.1,
+    "memoryPercent": 43.5,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-001-h13",
+    "tenantId": "T-001",
+    "hour": 13,
+    "cpuPercent": 32.4,
+    "memoryPercent": 40.1,
+    "apiCallsPerMinute": 308
+  },
+  {
+    "id": "u-T-001-h14",
+    "tenantId": "T-001",
+    "hour": 14,
+    "cpuPercent": 34.0,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 338
+  },
+  {
+    "id": "u-T-001-h15",
+    "tenantId": "T-001",
+    "hour": 15,
+    "cpuPercent": 32.5,
+    "memoryPercent": 43.7,
+    "apiCallsPerMinute": 341
+  },
+  {
+    "id": "u-T-001-h16",
+    "tenantId": "T-001",
+    "hour": 16,
+    "cpuPercent": 34.7,
+    "memoryPercent": 45.2,
+    "apiCallsPerMinute": 331
+  },
+  {
+    "id": "u-T-001-h17",
+    "tenantId": "T-001",
+    "hour": 17,
+    "cpuPercent": 35.7,
+    "memoryPercent": 46.1,
+    "apiCallsPerMinute": 364
+  },
+  {
+    "id": "u-T-001-h18",
+    "tenantId": "T-001",
+    "hour": 18,
+    "cpuPercent": 23.4,
+    "memoryPercent": 32.3,
+    "apiCallsPerMinute": 266
+  },
+  {
+    "id": "u-T-001-h19",
+    "tenantId": "T-001",
+    "hour": 19,
+    "cpuPercent": 20.3,
+    "memoryPercent": 24.5,
+    "apiCallsPerMinute": 211
+  },
+  {
+    "id": "u-T-001-h20",
+    "tenantId": "T-001",
+    "hour": 20,
+    "cpuPercent": 18.7,
+    "memoryPercent": 23.5,
+    "apiCallsPerMinute": 234
+  },
+  {
+    "id": "u-T-001-h21",
+    "tenantId": "T-001",
+    "hour": 21,
+    "cpuPercent": 18.8,
+    "memoryPercent": 24.2,
+    "apiCallsPerMinute": 218
+  },
+  {
+    "id": "u-T-001-h22",
+    "tenantId": "T-001",
+    "hour": 22,
+    "cpuPercent": 15.7,
+    "memoryPercent": 23.4,
+    "apiCallsPerMinute": 178
+  },
+  {
+    "id": "u-T-001-h23",
+    "tenantId": "T-001",
+    "hour": 23,
+    "cpuPercent": 13.6,
+    "memoryPercent": 17.5,
+    "apiCallsPerMinute": 165
+  },
+  {
+    "id": "u-T-002-h00",
+    "tenantId": "T-002",
+    "hour": 0,
+    "cpuPercent": 6.8,
+    "memoryPercent": 11.0,
+    "apiCallsPerMinute": 124
+  },
+  {
+    "id": "u-T-002-h01",
+    "tenantId": "T-002",
+    "hour": 1,
+    "cpuPercent": 7.3,
+    "memoryPercent": 9.9,
+    "apiCallsPerMinute": 135
+  },
+  {
+    "id": "u-T-002-h02",
+    "tenantId": "T-002",
+    "hour": 2,
+    "cpuPercent": 7.8,
+    "memoryPercent": 9.8,
+    "apiCallsPerMinute": 82
+  },
+  {
+    "id": "u-T-002-h03",
+    "tenantId": "T-002",
+    "hour": 3,
+    "cpuPercent": 6.7,
+    "memoryPercent": 11.2,
+    "apiCallsPerMinute": 118
+  },
+  {
+    "id": "u-T-002-h04",
+    "tenantId": "T-002",
+    "hour": 4,
+    "cpuPercent": 7.8,
+    "memoryPercent": 9.7,
+    "apiCallsPerMinute": 103
+  },
+  {
+    "id": "u-T-002-h05",
+    "tenantId": "T-002",
+    "hour": 5,
+    "cpuPercent": 9.7,
+    "memoryPercent": 14.3,
+    "apiCallsPerMinute": 155
+  },
+  {
+    "id": "u-T-002-h06",
+    "tenantId": "T-002",
+    "hour": 6,
+    "cpuPercent": 8.5,
+    "memoryPercent": 10.3,
+    "apiCallsPerMinute": 130
+  },
+  {
+    "id": "u-T-002-h07",
+    "tenantId": "T-002",
+    "hour": 7,
+    "cpuPercent": 15.4,
+    "memoryPercent": 21.1,
+    "apiCallsPerMinute": 164
+  },
+  {
+    "id": "u-T-002-h08",
+    "tenantId": "T-002",
+    "hour": 8,
+    "cpuPercent": 22.6,
+    "memoryPercent": 27.7,
+    "apiCallsPerMinute": 239
+  },
+  {
+    "id": "u-T-002-h09",
+    "tenantId": "T-002",
+    "hour": 9,
+    "cpuPercent": 35.0,
+    "memoryPercent": 46.4,
+    "apiCallsPerMinute": 341
+  },
+  {
+    "id": "u-T-002-h10",
+    "tenantId": "T-002",
+    "hour": 10,
+    "cpuPercent": 33.0,
+    "memoryPercent": 44.2,
+    "apiCallsPerMinute": 359
+  },
+  {
+    "id": "u-T-002-h11",
+    "tenantId": "T-002",
+    "hour": 11,
+    "cpuPercent": 33.2,
+    "memoryPercent": 42.9,
+    "apiCallsPerMinute": 317
+  },
+  {
+    "id": "u-T-002-h12",
+    "tenantId": "T-002",
+    "hour": 12,
+    "cpuPercent": 35.6,
+    "memoryPercent": 46.6,
+    "apiCallsPerMinute": 362
+  },
+  {
+    "id": "u-T-002-h13",
+    "tenantId": "T-002",
+    "hour": 13,
+    "cpuPercent": 30.5,
+    "memoryPercent": 36.7,
+    "apiCallsPerMinute": 340
+  },
+  {
+    "id": "u-T-002-h14",
+    "tenantId": "T-002",
+    "hour": 14,
+    "cpuPercent": 37.2,
+    "memoryPercent": 46.2,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-002-h15",
+    "tenantId": "T-002",
+    "hour": 15,
+    "cpuPercent": 37.5,
+    "memoryPercent": 45.5,
+    "apiCallsPerMinute": 376
+  },
+  {
+    "id": "u-T-002-h16",
+    "tenantId": "T-002",
+    "hour": 16,
+    "cpuPercent": 32.2,
+    "memoryPercent": 42.5,
+    "apiCallsPerMinute": 307
+  },
+  {
+    "id": "u-T-002-h17",
+    "tenantId": "T-002",
+    "hour": 17,
+    "cpuPercent": 34.0,
+    "memoryPercent": 42.1,
+    "apiCallsPerMinute": 368
+  },
+  {
+    "id": "u-T-002-h18",
+    "tenantId": "T-002",
+    "hour": 18,
+    "cpuPercent": 21.9,
+    "memoryPercent": 27.4,
+    "apiCallsPerMinute": 239
+  },
+  {
+    "id": "u-T-002-h19",
+    "tenantId": "T-002",
+    "hour": 19,
+    "cpuPercent": 21.2,
+    "memoryPercent": 26.4,
+    "apiCallsPerMinute": 219
+  },
+  {
+    "id": "u-T-002-h20",
+    "tenantId": "T-002",
+    "hour": 20,
+    "cpuPercent": 20.3,
+    "memoryPercent": 27.6,
+    "apiCallsPerMinute": 219
+  },
+  {
+    "id": "u-T-002-h21",
+    "tenantId": "T-002",
+    "hour": 21,
+    "cpuPercent": 17.2,
+    "memoryPercent": 21.3,
+    "apiCallsPerMinute": 178
+  },
+  {
+    "id": "u-T-002-h22",
+    "tenantId": "T-002",
+    "hour": 22,
+    "cpuPercent": 15.0,
+    "memoryPercent": 21.0,
+    "apiCallsPerMinute": 158
+  },
+  {
+    "id": "u-T-002-h23",
+    "tenantId": "T-002",
+    "hour": 23,
+    "cpuPercent": 13.0,
+    "memoryPercent": 16.0,
+    "apiCallsPerMinute": 164
+  },
+  {
+    "id": "u-T-003-h00",
+    "tenantId": "T-003",
+    "hour": 0,
+    "cpuPercent": 6.4,
+    "memoryPercent": 12.2,
+    "apiCallsPerMinute": 119
+  },
+  {
+    "id": "u-T-003-h01",
+    "tenantId": "T-003",
+    "hour": 1,
+    "cpuPercent": 6.1,
+    "memoryPercent": 8.5,
+    "apiCallsPerMinute": 104
+  },
+  {
+    "id": "u-T-003-h02",
+    "tenantId": "T-003",
+    "hour": 2,
+    "cpuPercent": 6.7,
+    "memoryPercent": 8.7,
+    "apiCallsPerMinute": 126
+  },
+  {
+    "id": "u-T-003-h03",
+    "tenantId": "T-003",
+    "hour": 3,
+    "cpuPercent": 7.9,
+    "memoryPercent": 11.8,
+    "apiCallsPerMinute": 128
+  },
+  {
+    "id": "u-T-003-h04",
+    "tenantId": "T-003",
+    "hour": 4,
+    "cpuPercent": 8.7,
+    "memoryPercent": 11.4,
+    "apiCallsPerMinute": 94
+  },
+  {
+    "id": "u-T-003-h05",
+    "tenantId": "T-003",
+    "hour": 5,
+    "cpuPercent": 7.8,
+    "memoryPercent": 11.4,
+    "apiCallsPerMinute": 107
+  },
+  {
+    "id": "u-T-003-h06",
+    "tenantId": "T-003",
+    "hour": 6,
+    "cpuPercent": 7.9,
+    "memoryPercent": 12.9,
+    "apiCallsPerMinute": 140
+  },
+  {
+    "id": "u-T-003-h07",
+    "tenantId": "T-003",
+    "hour": 7,
+    "cpuPercent": 13.1,
+    "memoryPercent": 17.7,
+    "apiCallsPerMinute": 148
+  },
+  {
+    "id": "u-T-003-h08",
+    "tenantId": "T-003",
+    "hour": 8,
+    "cpuPercent": 22.4,
+    "memoryPercent": 28.2,
+    "apiCallsPerMinute": 223
+  },
+  {
+    "id": "u-T-003-h09",
+    "tenantId": "T-003",
+    "hour": 9,
+    "cpuPercent": 32.1,
+    "memoryPercent": 39.9,
+    "apiCallsPerMinute": 314
+  },
+  {
+    "id": "u-T-003-h10",
+    "tenantId": "T-003",
+    "hour": 10,
+    "cpuPercent": 34.9,
+    "memoryPercent": 46.2,
+    "apiCallsPerMinute": 356
+  },
+  {
+    "id": "u-T-003-h11",
+    "tenantId": "T-003",
+    "hour": 11,
+    "cpuPercent": 31.6,
+    "memoryPercent": 42.1,
+    "apiCallsPerMinute": 352
+  },
+  {
+    "id": "u-T-003-h12",
+    "tenantId": "T-003",
+    "hour": 12,
+    "cpuPercent": 36.1,
+    "memoryPercent": 44.2,
+    "apiCallsPerMinute": 364
+  },
+  {
+    "id": "u-T-003-h13",
+    "tenantId": "T-003",
+    "hour": 13,
+    "cpuPercent": 30.7,
+    "memoryPercent": 37.2,
+    "apiCallsPerMinute": 309
+  },
+  {
+    "id": "u-T-003-h14",
+    "tenantId": "T-003",
+    "hour": 14,
+    "cpuPercent": 34.7,
+    "memoryPercent": 45.6,
+    "apiCallsPerMinute": 349
+  },
+  {
+    "id": "u-T-003-h15",
+    "tenantId": "T-003",
+    "hour": 15,
+    "cpuPercent": 33.6,
+    "memoryPercent": 45.3,
+    "apiCallsPerMinute": 345
+  },
+  {
+    "id": "u-T-003-h16",
+    "tenantId": "T-003",
+    "hour": 16,
+    "cpuPercent": 32.9,
+    "memoryPercent": 40.9,
+    "apiCallsPerMinute": 363
+  },
+  {
+    "id": "u-T-003-h17",
+    "tenantId": "T-003",
+    "hour": 17,
+    "cpuPercent": 33.2,
+    "memoryPercent": 43.6,
+    "apiCallsPerMinute": 312
+  },
+  {
+    "id": "u-T-003-h18",
+    "tenantId": "T-003",
+    "hour": 18,
+    "cpuPercent": 21.5,
+    "memoryPercent": 28.4,
+    "apiCallsPerMinute": 255
+  },
+  {
+    "id": "u-T-003-h19",
+    "tenantId": "T-003",
+    "hour": 19,
+    "cpuPercent": 18.7,
+    "memoryPercent": 27.2,
+    "apiCallsPerMinute": 182
+  },
+  {
+    "id": "u-T-003-h20",
+    "tenantId": "T-003",
+    "hour": 20,
+    "cpuPercent": 17.2,
+    "memoryPercent": 23.6,
+    "apiCallsPerMinute": 204
+  },
+  {
+    "id": "u-T-003-h21",
+    "tenantId": "T-003",
+    "hour": 21,
+    "cpuPercent": 15.7,
+    "memoryPercent": 19.4,
+    "apiCallsPerMinute": 204
+  },
+  {
+    "id": "u-T-003-h22",
+    "tenantId": "T-003",
+    "hour": 22,
+    "cpuPercent": 14.1,
+    "memoryPercent": 19.9,
+    "apiCallsPerMinute": 174
+  },
+  {
+    "id": "u-T-003-h23",
+    "tenantId": "T-003",
+    "hour": 23,
+    "cpuPercent": 13.1,
+    "memoryPercent": 18.6,
+    "apiCallsPerMinute": 158
+  },
+  {
+    "id": "u-T-004-h00",
+    "tenantId": "T-004",
+    "hour": 0,
+    "cpuPercent": 9.2,
+    "memoryPercent": 12.0,
+    "apiCallsPerMinute": 135
+  },
+  {
+    "id": "u-T-004-h01",
+    "tenantId": "T-004",
+    "hour": 1,
+    "cpuPercent": 7.2,
+    "memoryPercent": 10.7,
+    "apiCallsPerMinute": 115
+  },
+  {
+    "id": "u-T-004-h02",
+    "tenantId": "T-004",
+    "hour": 2,
+    "cpuPercent": 7.6,
+    "memoryPercent": 10.7,
+    "apiCallsPerMinute": 123
+  },
+  {
+    "id": "u-T-004-h03",
+    "tenantId": "T-004",
+    "hour": 3,
+    "cpuPercent": 7.1,
+    "memoryPercent": 10.8,
+    "apiCallsPerMinute": 133
+  },
+  {
+    "id": "u-T-004-h04",
+    "tenantId": "T-004",
+    "hour": 4,
+    "cpuPercent": 10.0,
+    "memoryPercent": 12.3,
+    "apiCallsPerMinute": 112
+  },
+  {
+    "id": "u-T-004-h05",
+    "tenantId": "T-004",
+    "hour": 5,
+    "cpuPercent": 7.9,
+    "memoryPercent": 14.2,
+    "apiCallsPerMinute": 134
+  },
+  {
+    "id": "u-T-004-h06",
+    "tenantId": "T-004",
+    "hour": 6,
+    "cpuPercent": 9.0,
+    "memoryPercent": 12.7,
+    "apiCallsPerMinute": 100
+  },
+  {
+    "id": "u-T-004-h07",
+    "tenantId": "T-004",
+    "hour": 7,
+    "cpuPercent": 16.8,
+    "memoryPercent": 23.6,
+    "apiCallsPerMinute": 197
+  },
+  {
+    "id": "u-T-004-h08",
+    "tenantId": "T-004",
+    "hour": 8,
+    "cpuPercent": 25.1,
+    "memoryPercent": 33.4,
+    "apiCallsPerMinute": 236
+  },
+  {
+    "id": "u-T-004-h09",
+    "tenantId": "T-004",
+    "hour": 9,
+    "cpuPercent": 37.7,
+    "memoryPercent": 48.5,
+    "apiCallsPerMinute": 405
+  },
+  {
+    "id": "u-T-004-h10",
+    "tenantId": "T-004",
+    "hour": 10,
+    "cpuPercent": 32.8,
+    "memoryPercent": 39.9,
+    "apiCallsPerMinute": 338
+  },
+  {
+    "id": "u-T-004-h11",
+    "tenantId": "T-004",
+    "hour": 11,
+    "cpuPercent": 35.2,
+    "memoryPercent": 45.8,
+    "apiCallsPerMinute": 338
+  },
+  {
+    "id": "u-T-004-h12",
+    "tenantId": "T-004",
+    "hour": 12,
+    "cpuPercent": 36.4,
+    "memoryPercent": 46.2,
+    "apiCallsPerMinute": 392
+  },
+  {
+    "id": "u-T-004-h13",
+    "tenantId": "T-004",
+    "hour": 13,
+    "cpuPercent": 37.3,
+    "memoryPercent": 46.8,
+    "apiCallsPerMinute": 361
+  },
+  {
+    "id": "u-T-004-h14",
+    "tenantId": "T-004",
+    "hour": 14,
+    "cpuPercent": 34.0,
+    "memoryPercent": 44.0,
+    "apiCallsPerMinute": 331
+  },
+  {
+    "id": "u-T-004-h15",
+    "tenantId": "T-004",
+    "hour": 15,
+    "cpuPercent": 38.0,
+    "memoryPercent": 47.7,
+    "apiCallsPerMinute": 352
+  },
+  {
+    "id": "u-T-004-h16",
+    "tenantId": "T-004",
+    "hour": 16,
+    "cpuPercent": 34.8,
+    "memoryPercent": 46.2,
+    "apiCallsPerMinute": 355
+  },
+  {
+    "id": "u-T-004-h17",
+    "tenantId": "T-004",
+    "hour": 17,
+    "cpuPercent": 38.7,
+    "memoryPercent": 47.1,
+    "apiCallsPerMinute": 365
+  },
+  {
+    "id": "u-T-004-h18",
+    "tenantId": "T-004",
+    "hour": 18,
+    "cpuPercent": 23.1,
+    "memoryPercent": 32.2,
+    "apiCallsPerMinute": 265
+  },
+  {
+    "id": "u-T-004-h19",
+    "tenantId": "T-004",
+    "hour": 19,
+    "cpuPercent": 23.0,
+    "memoryPercent": 32.1,
+    "apiCallsPerMinute": 229
+  },
+  {
+    "id": "u-T-004-h20",
+    "tenantId": "T-004",
+    "hour": 20,
+    "cpuPercent": 19.4,
+    "memoryPercent": 23.8,
+    "apiCallsPerMinute": 231
+  },
+  {
+    "id": "u-T-004-h21",
+    "tenantId": "T-004",
+    "hour": 21,
+    "cpuPercent": 19.5,
+    "memoryPercent": 25.4,
+    "apiCallsPerMinute": 222
+  },
+  {
+    "id": "u-T-004-h22",
+    "tenantId": "T-004",
+    "hour": 22,
+    "cpuPercent": 15.5,
+    "memoryPercent": 23.3,
+    "apiCallsPerMinute": 201
+  },
+  {
+    "id": "u-T-004-h23",
+    "tenantId": "T-004",
+    "hour": 23,
+    "cpuPercent": 16.2,
+    "memoryPercent": 23.5,
+    "apiCallsPerMinute": 208
+  },
+  {
+    "id": "u-T-005-h00",
+    "tenantId": "T-005",
+    "hour": 0,
+    "cpuPercent": 5.6,
+    "memoryPercent": 10.5,
+    "apiCallsPerMinute": 80
+  },
+  {
+    "id": "u-T-005-h01",
+    "tenantId": "T-005",
+    "hour": 1,
+    "cpuPercent": 8.5,
+    "memoryPercent": 14.2,
+    "apiCallsPerMinute": 138
+  },
+  {
+    "id": "u-T-005-h02",
+    "tenantId": "T-005",
+    "hour": 2,
+    "cpuPercent": 8.3,
+    "memoryPercent": 11.3,
+    "apiCallsPerMinute": 131
+  },
+  {
+    "id": "u-T-005-h03",
+    "tenantId": "T-005",
+    "hour": 3,
+    "cpuPercent": 6.3,
+    "memoryPercent": 11.9,
+    "apiCallsPerMinute": 118
+  },
+  {
+    "id": "u-T-005-h04",
+    "tenantId": "T-005",
+    "hour": 4,
+    "cpuPercent": 6.8,
+    "memoryPercent": 12.3,
+    "apiCallsPerMinute": 98
+  },
+  {
+    "id": "u-T-005-h05",
+    "tenantId": "T-005",
+    "hour": 5,
+    "cpuPercent": 7.2,
+    "memoryPercent": 12.6,
+    "apiCallsPerMinute": 88
+  },
+  {
+    "id": "u-T-005-h06",
+    "tenantId": "T-005",
+    "hour": 6,
+    "cpuPercent": 5.6,
+    "memoryPercent": 7.7,
+    "apiCallsPerMinute": 80
+  },
+  {
+    "id": "u-T-005-h07",
+    "tenantId": "T-005",
+    "hour": 7,
+    "cpuPercent": 15.0,
+    "memoryPercent": 22.9,
+    "apiCallsPerMinute": 161
+  },
+  {
+    "id": "u-T-005-h08",
+    "tenantId": "T-005",
+    "hour": 8,
+    "cpuPercent": 21.2,
+    "memoryPercent": 27.4,
+    "apiCallsPerMinute": 259
+  },
+  {
+    "id": "u-T-005-h09",
+    "tenantId": "T-005",
+    "hour": 9,
+    "cpuPercent": 33.2,
+    "memoryPercent": 40.5,
+    "apiCallsPerMinute": 367
+  },
+  {
+    "id": "u-T-005-h10",
+    "tenantId": "T-005",
+    "hour": 10,
+    "cpuPercent": 31.3,
+    "memoryPercent": 38.9,
+    "apiCallsPerMinute": 298
+  },
+  {
+    "id": "u-T-005-h11",
+    "tenantId": "T-005",
+    "hour": 11,
+    "cpuPercent": 32.0,
+    "memoryPercent": 40.0,
+    "apiCallsPerMinute": 334
+  },
+  {
+    "id": "u-T-005-h12",
+    "tenantId": "T-005",
+    "hour": 12,
+    "cpuPercent": 31.4,
+    "memoryPercent": 40.6,
+    "apiCallsPerMinute": 308
+  },
+  {
+    "id": "u-T-005-h13",
+    "tenantId": "T-005",
+    "hour": 13,
+    "cpuPercent": 31.4,
+    "memoryPercent": 42.3,
+    "apiCallsPerMinute": 324
+  },
+  {
+    "id": "u-T-005-h14",
+    "tenantId": "T-005",
+    "hour": 14,
+    "cpuPercent": 33.6,
+    "memoryPercent": 43.7,
+    "apiCallsPerMinute": 334
+  },
+  {
+    "id": "u-T-005-h15",
+    "tenantId": "T-005",
+    "hour": 15,
+    "cpuPercent": 29.8,
+    "memoryPercent": 37.5,
+    "apiCallsPerMinute": 297
+  },
+  {
+    "id": "u-T-005-h16",
+    "tenantId": "T-005",
+    "hour": 16,
+    "cpuPercent": 34.3,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 337
+  },
+  {
+    "id": "u-T-005-h17",
+    "tenantId": "T-005",
+    "hour": 17,
+    "cpuPercent": 30.9,
+    "memoryPercent": 38.6,
+    "apiCallsPerMinute": 295
+  },
+  {
+    "id": "u-T-005-h18",
+    "tenantId": "T-005",
+    "hour": 18,
+    "cpuPercent": 20.4,
+    "memoryPercent": 29.2,
+    "apiCallsPerMinute": 234
+  },
+  {
+    "id": "u-T-005-h19",
+    "tenantId": "T-005",
+    "hour": 19,
+    "cpuPercent": 20.3,
+    "memoryPercent": 27.5,
+    "apiCallsPerMinute": 211
+  },
+  {
+    "id": "u-T-005-h20",
+    "tenantId": "T-005",
+    "hour": 20,
+    "cpuPercent": 17.7,
+    "memoryPercent": 21.3,
+    "apiCallsPerMinute": 186
+  },
+  {
+    "id": "u-T-005-h21",
+    "tenantId": "T-005",
+    "hour": 21,
+    "cpuPercent": 15.8,
+    "memoryPercent": 21.9,
+    "apiCallsPerMinute": 191
+  },
+  {
+    "id": "u-T-005-h22",
+    "tenantId": "T-005",
+    "hour": 22,
+    "cpuPercent": 14.4,
+    "memoryPercent": 19.5,
+    "apiCallsPerMinute": 152
+  },
+  {
+    "id": "u-T-005-h23",
+    "tenantId": "T-005",
+    "hour": 23,
+    "cpuPercent": 12.8,
+    "memoryPercent": 19.9,
+    "apiCallsPerMinute": 173
+  },
+  {
+    "id": "u-T-006-h00",
+    "tenantId": "T-006",
+    "hour": 0,
+    "cpuPercent": 6.2,
+    "memoryPercent": 7.8,
+    "apiCallsPerMinute": 96
+  },
+  {
+    "id": "u-T-006-h01",
+    "tenantId": "T-006",
+    "hour": 1,
+    "cpuPercent": 7.7,
+    "memoryPercent": 10.9,
+    "apiCallsPerMinute": 128
+  },
+  {
+    "id": "u-T-006-h02",
+    "tenantId": "T-006",
+    "hour": 2,
+    "cpuPercent": 8.2,
+    "memoryPercent": 13.2,
+    "apiCallsPerMinute": 97
+  },
+  {
+    "id": "u-T-006-h03",
+    "tenantId": "T-006",
+    "hour": 3,
+    "cpuPercent": 6.7,
+    "memoryPercent": 8.2,
+    "apiCallsPerMinute": 84
+  },
+  {
+    "id": "u-T-006-h04",
+    "tenantId": "T-006",
+    "hour": 4,
+    "cpuPercent": 7.7,
+    "memoryPercent": 13.4,
+    "apiCallsPerMinute": 83
+  },
+  {
+    "id": "u-T-006-h05",
+    "tenantId": "T-006",
+    "hour": 5,
+    "cpuPercent": 7.6,
+    "memoryPercent": 12.3,
+    "apiCallsPerMinute": 90
+  },
+  {
+    "id": "u-T-006-h06",
+    "tenantId": "T-006",
+    "hour": 6,
+    "cpuPercent": 7.8,
+    "memoryPercent": 11.8,
+    "apiCallsPerMinute": 94
+  },
+  {
+    "id": "u-T-006-h07",
+    "tenantId": "T-006",
+    "hour": 7,
+    "cpuPercent": 14.6,
+    "memoryPercent": 17.5,
+    "apiCallsPerMinute": 186
+  },
+  {
+    "id": "u-T-006-h08",
+    "tenantId": "T-006",
+    "hour": 8,
+    "cpuPercent": 21.9,
+    "memoryPercent": 26.8,
+    "apiCallsPerMinute": 232
+  },
+  {
+    "id": "u-T-006-h09",
+    "tenantId": "T-006",
+    "hour": 9,
+    "cpuPercent": 31.8,
+    "memoryPercent": 40.7,
+    "apiCallsPerMinute": 299
+  },
+  {
+    "id": "u-T-006-h10",
+    "tenantId": "T-006",
+    "hour": 10,
+    "cpuPercent": 31.9,
+    "memoryPercent": 40.5,
+    "apiCallsPerMinute": 344
+  },
+  {
+    "id": "u-T-006-h11",
+    "tenantId": "T-006",
+    "hour": 11,
+    "cpuPercent": 34.6,
+    "memoryPercent": 44.5,
+    "apiCallsPerMinute": 378
+  },
+  {
+    "id": "u-T-006-h12",
+    "tenantId": "T-006",
+    "hour": 12,
+    "cpuPercent": 34.8,
+    "memoryPercent": 45.3,
+    "apiCallsPerMinute": 353
+  },
+  {
+    "id": "u-T-006-h13",
+    "tenantId": "T-006",
+    "hour": 13,
+    "cpuPercent": 34.2,
+    "memoryPercent": 45.6,
+    "apiCallsPerMinute": 362
+  },
+  {
+    "id": "u-T-006-h14",
+    "tenantId": "T-006",
+    "hour": 14,
+    "cpuPercent": 31.4,
+    "memoryPercent": 38.9,
+    "apiCallsPerMinute": 330
+  },
+  {
+    "id": "u-T-006-h15",
+    "tenantId": "T-006",
+    "hour": 15,
+    "cpuPercent": 33.8,
+    "memoryPercent": 43.7,
+    "apiCallsPerMinute": 330
+  },
+  {
+    "id": "u-T-006-h16",
+    "tenantId": "T-006",
+    "hour": 16,
+    "cpuPercent": 29.2,
+    "memoryPercent": 36.4,
+    "apiCallsPerMinute": 292
+  },
+  {
+    "id": "u-T-006-h17",
+    "tenantId": "T-006",
+    "hour": 17,
+    "cpuPercent": 31.4,
+    "memoryPercent": 38.8,
+    "apiCallsPerMinute": 333
+  },
+  {
+    "id": "u-T-006-h18",
+    "tenantId": "T-006",
+    "hour": 18,
+    "cpuPercent": 21.6,
+    "memoryPercent": 26.3,
+    "apiCallsPerMinute": 229
+  },
+  {
+    "id": "u-T-006-h19",
+    "tenantId": "T-006",
+    "hour": 19,
+    "cpuPercent": 19.6,
+    "memoryPercent": 25.6,
+    "apiCallsPerMinute": 198
+  },
+  {
+    "id": "u-T-006-h20",
+    "tenantId": "T-006",
+    "hour": 20,
+    "cpuPercent": 17.6,
+    "memoryPercent": 25.7,
+    "apiCallsPerMinute": 203
+  },
+  {
+    "id": "u-T-006-h21",
+    "tenantId": "T-006",
+    "hour": 21,
+    "cpuPercent": 16.9,
+    "memoryPercent": 24.5,
+    "apiCallsPerMinute": 207
+  },
+  {
+    "id": "u-T-006-h22",
+    "tenantId": "T-006",
+    "hour": 22,
+    "cpuPercent": 14.4,
+    "memoryPercent": 17.3,
+    "apiCallsPerMinute": 160
+  },
+  {
+    "id": "u-T-006-h23",
+    "tenantId": "T-006",
+    "hour": 23,
+    "cpuPercent": 13.9,
+    "memoryPercent": 20.9,
+    "apiCallsPerMinute": 192
+  },
+  {
+    "id": "u-T-007-h00",
+    "tenantId": "T-007",
+    "hour": 0,
+    "cpuPercent": 7.9,
+    "memoryPercent": 13.2,
+    "apiCallsPerMinute": 113
+  },
+  {
+    "id": "u-T-007-h01",
+    "tenantId": "T-007",
+    "hour": 1,
+    "cpuPercent": 8.6,
+    "memoryPercent": 11.4,
+    "apiCallsPerMinute": 100
+  },
+  {
+    "id": "u-T-007-h02",
+    "tenantId": "T-007",
+    "hour": 2,
+    "cpuPercent": 8.3,
+    "memoryPercent": 10.1,
+    "apiCallsPerMinute": 104
+  },
+  {
+    "id": "u-T-007-h03",
+    "tenantId": "T-007",
+    "hour": 3,
+    "cpuPercent": 9.2,
+    "memoryPercent": 13.0,
+    "apiCallsPerMinute": 102
+  },
+  {
+    "id": "u-T-007-h04",
+    "tenantId": "T-007",
+    "hour": 4,
+    "cpuPercent": 8.7,
+    "memoryPercent": 11.1,
+    "apiCallsPerMinute": 125
+  },
+  {
+    "id": "u-T-007-h05",
+    "tenantId": "T-007",
+    "hour": 5,
+    "cpuPercent": 7.5,
+    "memoryPercent": 11.0,
+    "apiCallsPerMinute": 111
+  },
+  {
+    "id": "u-T-007-h06",
+    "tenantId": "T-007",
+    "hour": 6,
+    "cpuPercent": 6.7,
+    "memoryPercent": 11.3,
+    "apiCallsPerMinute": 78
+  },
+  {
+    "id": "u-T-007-h07",
+    "tenantId": "T-007",
+    "hour": 7,
+    "cpuPercent": 16.3,
+    "memoryPercent": 19.8,
+    "apiCallsPerMinute": 179
+  },
+  {
+    "id": "u-T-007-h08",
+    "tenantId": "T-007",
+    "hour": 8,
+    "cpuPercent": 23.8,
+    "memoryPercent": 30.2,
+    "apiCallsPerMinute": 269
+  },
+  {
+    "id": "u-T-007-h09",
+    "tenantId": "T-007",
+    "hour": 9,
+    "cpuPercent": 37.8,
+    "memoryPercent": 49.5,
+    "apiCallsPerMinute": 365
+  },
+  {
+    "id": "u-T-007-h10",
+    "tenantId": "T-007",
+    "hour": 10,
+    "cpuPercent": 33.6,
+    "memoryPercent": 43.1,
+    "apiCallsPerMinute": 372
+  },
+  {
+    "id": "u-T-007-h11",
+    "tenantId": "T-007",
+    "hour": 11,
+    "cpuPercent": 37.3,
+    "memoryPercent": 48.7,
+    "apiCallsPerMinute": 384
+  },
+  {
+    "id": "u-T-007-h12",
+    "tenantId": "T-007",
+    "hour": 12,
+    "cpuPercent": 40.9,
+    "memoryPercent": 50.0,
+    "apiCallsPerMinute": 378
+  },
+  {
+    "id": "u-T-007-h13",
+    "tenantId": "T-007",
+    "hour": 13,
+    "cpuPercent": 34.4,
+    "memoryPercent": 44.7,
+    "apiCallsPerMinute": 353
+  },
+  {
+    "id": "u-T-007-h14",
+    "tenantId": "T-007",
+    "hour": 14,
+    "cpuPercent": 36.6,
+    "memoryPercent": 47.7,
+    "apiCallsPerMinute": 349
+  },
+  {
+    "id": "u-T-007-h15",
+    "tenantId": "T-007",
+    "hour": 15,
+    "cpuPercent": 39.3,
+    "memoryPercent": 47.7,
+    "apiCallsPerMinute": 412
+  },
+  {
+    "id": "u-T-007-h16",
+    "tenantId": "T-007",
+    "hour": 16,
+    "cpuPercent": 39.7,
+    "memoryPercent": 47.8,
+    "apiCallsPerMinute": 386
+  },
+  {
+    "id": "u-T-007-h17",
+    "tenantId": "T-007",
+    "hour": 17,
+    "cpuPercent": 40.4,
+    "memoryPercent": 50.4,
+    "apiCallsPerMinute": 416
+  },
+  {
+    "id": "u-T-007-h18",
+    "tenantId": "T-007",
+    "hour": 18,
+    "cpuPercent": 23.4,
+    "memoryPercent": 31.5,
+    "apiCallsPerMinute": 258
+  },
+  {
+    "id": "u-T-007-h19",
+    "tenantId": "T-007",
+    "hour": 19,
+    "cpuPercent": 21.6,
+    "memoryPercent": 29.8,
+    "apiCallsPerMinute": 255
+  },
+  {
+    "id": "u-T-007-h20",
+    "tenantId": "T-007",
+    "hour": 20,
+    "cpuPercent": 21.3,
+    "memoryPercent": 26.1,
+    "apiCallsPerMinute": 260
+  },
+  {
+    "id": "u-T-007-h21",
+    "tenantId": "T-007",
+    "hour": 21,
+    "cpuPercent": 20.0,
+    "memoryPercent": 25.7,
+    "apiCallsPerMinute": 215
+  },
+  {
+    "id": "u-T-007-h22",
+    "tenantId": "T-007",
+    "hour": 22,
+    "cpuPercent": 16.9,
+    "memoryPercent": 22.8,
+    "apiCallsPerMinute": 182
+  },
+  {
+    "id": "u-T-007-h23",
+    "tenantId": "T-007",
+    "hour": 23,
+    "cpuPercent": 16.5,
+    "memoryPercent": 23.9,
+    "apiCallsPerMinute": 164
+  },
+  {
+    "id": "u-T-008-h00",
+    "tenantId": "T-008",
+    "hour": 0,
+    "cpuPercent": 8.4,
+    "memoryPercent": 13.2,
+    "apiCallsPerMinute": 135
+  },
+  {
+    "id": "u-T-008-h01",
+    "tenantId": "T-008",
+    "hour": 1,
+    "cpuPercent": 7.8,
+    "memoryPercent": 11.5,
+    "apiCallsPerMinute": 123
+  },
+  {
+    "id": "u-T-008-h02",
+    "tenantId": "T-008",
+    "hour": 2,
+    "cpuPercent": 8.7,
+    "memoryPercent": 11.8,
+    "apiCallsPerMinute": 136
+  },
+  {
+    "id": "u-T-008-h03",
+    "tenantId": "T-008",
+    "hour": 3,
+    "cpuPercent": 7.5,
+    "memoryPercent": 11.5,
+    "apiCallsPerMinute": 103
+  },
+  {
+    "id": "u-T-008-h04",
+    "tenantId": "T-008",
+    "hour": 4,
+    "cpuPercent": 8.3,
+    "memoryPercent": 11.2,
+    "apiCallsPerMinute": 135
+  },
+  {
+    "id": "u-T-008-h05",
+    "tenantId": "T-008",
+    "hour": 5,
+    "cpuPercent": 8.7,
+    "memoryPercent": 10.9,
+    "apiCallsPerMinute": 141
+  },
+  {
+    "id": "u-T-008-h06",
+    "tenantId": "T-008",
+    "hour": 6,
+    "cpuPercent": 6.2,
+    "memoryPercent": 9.8,
+    "apiCallsPerMinute": 102
+  },
+  {
+    "id": "u-T-008-h07",
+    "tenantId": "T-008",
+    "hour": 7,
+    "cpuPercent": 13.4,
+    "memoryPercent": 16.2,
+    "apiCallsPerMinute": 181
+  },
+  {
+    "id": "u-T-008-h08",
+    "tenantId": "T-008",
+    "hour": 8,
+    "cpuPercent": 19.5,
+    "memoryPercent": 24.5,
+    "apiCallsPerMinute": 233
+  },
+  {
+    "id": "u-T-008-h09",
+    "tenantId": "T-008",
+    "hour": 9,
+    "cpuPercent": 31.6,
+    "memoryPercent": 41.4,
+    "apiCallsPerMinute": 310
+  },
+  {
+    "id": "u-T-008-h10",
+    "tenantId": "T-008",
+    "hour": 10,
+    "cpuPercent": 30.0,
+    "memoryPercent": 36.4,
+    "apiCallsPerMinute": 322
+  },
+  {
+    "id": "u-T-008-h11",
+    "tenantId": "T-008",
+    "hour": 11,
+    "cpuPercent": 32.0,
+    "memoryPercent": 41.8,
+    "apiCallsPerMinute": 336
+  },
+  {
+    "id": "u-T-008-h12",
+    "tenantId": "T-008",
+    "hour": 12,
+    "cpuPercent": 32.1,
+    "memoryPercent": 39.0,
+    "apiCallsPerMinute": 312
+  },
+  {
+    "id": "u-T-008-h13",
+    "tenantId": "T-008",
+    "hour": 13,
+    "cpuPercent": 31.7,
+    "memoryPercent": 41.0,
+    "apiCallsPerMinute": 324
+  },
+  {
+    "id": "u-T-008-h14",
+    "tenantId": "T-008",
+    "hour": 14,
+    "cpuPercent": 31.2,
+    "memoryPercent": 41.2,
+    "apiCallsPerMinute": 310
+  },
+  {
+    "id": "u-T-008-h15",
+    "tenantId": "T-008",
+    "hour": 15,
+    "cpuPercent": 31.7,
+    "memoryPercent": 39.3,
+    "apiCallsPerMinute": 302
+  },
+  {
+    "id": "u-T-008-h16",
+    "tenantId": "T-008",
+    "hour": 16,
+    "cpuPercent": 28.5,
+    "memoryPercent": 36.8,
+    "apiCallsPerMinute": 311
+  },
+  {
+    "id": "u-T-008-h17",
+    "tenantId": "T-008",
+    "hour": 17,
+    "cpuPercent": 28.7,
+    "memoryPercent": 36.9,
+    "apiCallsPerMinute": 311
+  },
+  {
+    "id": "u-T-008-h18",
+    "tenantId": "T-008",
+    "hour": 18,
+    "cpuPercent": 21.8,
+    "memoryPercent": 28.8,
+    "apiCallsPerMinute": 223
+  },
+  {
+    "id": "u-T-008-h19",
+    "tenantId": "T-008",
+    "hour": 19,
+    "cpuPercent": 17.7,
+    "memoryPercent": 22.2,
+    "apiCallsPerMinute": 182
+  },
+  {
+    "id": "u-T-008-h20",
+    "tenantId": "T-008",
+    "hour": 20,
+    "cpuPercent": 16.4,
+    "memoryPercent": 19.7,
+    "apiCallsPerMinute": 189
+  },
+  {
+    "id": "u-T-008-h21",
+    "tenantId": "T-008",
+    "hour": 21,
+    "cpuPercent": 15.1,
+    "memoryPercent": 23.0,
+    "apiCallsPerMinute": 179
+  },
+  {
+    "id": "u-T-008-h22",
+    "tenantId": "T-008",
+    "hour": 22,
+    "cpuPercent": 14.9,
+    "memoryPercent": 18.5,
+    "apiCallsPerMinute": 195
+  },
+  {
+    "id": "u-T-008-h23",
+    "tenantId": "T-008",
+    "hour": 23,
+    "cpuPercent": 12.7,
+    "memoryPercent": 19.6,
+    "apiCallsPerMinute": 158
+  },
+  {
+    "id": "u-T-009-h00",
+    "tenantId": "T-009",
+    "hour": 0,
+    "cpuPercent": 6.9,
+    "memoryPercent": 10.5,
+    "apiCallsPerMinute": 83
+  },
+  {
+    "id": "u-T-009-h01",
+    "tenantId": "T-009",
+    "hour": 1,
+    "cpuPercent": 5.8,
+    "memoryPercent": 11.7,
+    "apiCallsPerMinute": 91
+  },
+  {
+    "id": "u-T-009-h02",
+    "tenantId": "T-009",
+    "hour": 2,
+    "cpuPercent": 8.3,
+    "memoryPercent": 11.9,
+    "apiCallsPerMinute": 88
+  },
+  {
+    "id": "u-T-009-h03",
+    "tenantId": "T-009",
+    "hour": 3,
+    "cpuPercent": 7.8,
+    "memoryPercent": 9.7,
+    "apiCallsPerMinute": 89
+  },
+  {
+    "id": "u-T-009-h04",
+    "tenantId": "T-009",
+    "hour": 4,
+    "cpuPercent": 7.8,
+    "memoryPercent": 10.9,
+    "apiCallsPerMinute": 139
+  },
+  {
+    "id": "u-T-009-h05",
+    "tenantId": "T-009",
+    "hour": 5,
+    "cpuPercent": 6.6,
+    "memoryPercent": 11.7,
+    "apiCallsPerMinute": 105
+  },
+  {
+    "id": "u-T-009-h06",
+    "tenantId": "T-009",
+    "hour": 6,
+    "cpuPercent": 7.9,
+    "memoryPercent": 10.6,
+    "apiCallsPerMinute": 112
+  },
+  {
+    "id": "u-T-009-h07",
+    "tenantId": "T-009",
+    "hour": 7,
+    "cpuPercent": 13.7,
+    "memoryPercent": 18.6,
+    "apiCallsPerMinute": 184
+  },
+  {
+    "id": "u-T-009-h08",
+    "tenantId": "T-009",
+    "hour": 8,
+    "cpuPercent": 22.1,
+    "memoryPercent": 28.0,
+    "apiCallsPerMinute": 245
+  },
+  {
+    "id": "u-T-009-h09",
+    "tenantId": "T-009",
+    "hour": 9,
+    "cpuPercent": 32.8,
+    "memoryPercent": 44.1,
+    "apiCallsPerMinute": 317
+  },
+  {
+    "id": "u-T-009-h10",
+    "tenantId": "T-009",
+    "hour": 10,
+    "cpuPercent": 30.4,
+    "memoryPercent": 37.2,
+    "apiCallsPerMinute": 293
+  },
+  {
+    "id": "u-T-009-h11",
+    "tenantId": "T-009",
+    "hour": 11,
+    "cpuPercent": 27.6,
+    "memoryPercent": 35.4,
+    "apiCallsPerMinute": 294
+  },
+  {
+    "id": "u-T-009-h12",
+    "tenantId": "T-009",
+    "hour": 12,
+    "cpuPercent": 29.5,
+    "memoryPercent": 38.9,
+    "apiCallsPerMinute": 317
+  },
+  {
+    "id": "u-T-009-h13",
+    "tenantId": "T-009",
+    "hour": 13,
+    "cpuPercent": 31.8,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 343
+  },
+  {
+    "id": "u-T-009-h14",
+    "tenantId": "T-009",
+    "hour": 14,
+    "cpuPercent": 32.6,
+    "memoryPercent": 43.8,
+    "apiCallsPerMinute": 329
+  },
+  {
+    "id": "u-T-009-h15",
+    "tenantId": "T-009",
+    "hour": 15,
+    "cpuPercent": 32.1,
+    "memoryPercent": 43.1,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-009-h16",
+    "tenantId": "T-009",
+    "hour": 16,
+    "cpuPercent": 28.1,
+    "memoryPercent": 35.3,
+    "apiCallsPerMinute": 307
+  },
+  {
+    "id": "u-T-009-h17",
+    "tenantId": "T-009",
+    "hour": 17,
+    "cpuPercent": 31.2,
+    "memoryPercent": 38.1,
+    "apiCallsPerMinute": 332
+  },
+  {
+    "id": "u-T-009-h18",
+    "tenantId": "T-009",
+    "hour": 18,
+    "cpuPercent": 21.1,
+    "memoryPercent": 30.0,
+    "apiCallsPerMinute": 230
+  },
+  {
+    "id": "u-T-009-h19",
+    "tenantId": "T-009",
+    "hour": 19,
+    "cpuPercent": 19.0,
+    "memoryPercent": 23.1,
+    "apiCallsPerMinute": 182
+  },
+  {
+    "id": "u-T-009-h20",
+    "tenantId": "T-009",
+    "hour": 20,
+    "cpuPercent": 17.2,
+    "memoryPercent": 22.3,
+    "apiCallsPerMinute": 180
+  },
+  {
+    "id": "u-T-009-h21",
+    "tenantId": "T-009",
+    "hour": 21,
+    "cpuPercent": 14.7,
+    "memoryPercent": 22.4,
+    "apiCallsPerMinute": 192
+  },
+  {
+    "id": "u-T-009-h22",
+    "tenantId": "T-009",
+    "hour": 22,
+    "cpuPercent": 14.6,
+    "memoryPercent": 22.3,
+    "apiCallsPerMinute": 201
+  },
+  {
+    "id": "u-T-009-h23",
+    "tenantId": "T-009",
+    "hour": 23,
+    "cpuPercent": 13.3,
+    "memoryPercent": 17.4,
+    "apiCallsPerMinute": 132
+  },
+  {
+    "id": "u-T-010-h00",
+    "tenantId": "T-010",
+    "hour": 0,
+    "cpuPercent": 8.5,
+    "memoryPercent": 12.5,
+    "apiCallsPerMinute": 125
+  },
+  {
+    "id": "u-T-010-h01",
+    "tenantId": "T-010",
+    "hour": 1,
+    "cpuPercent": 9.1,
+    "memoryPercent": 11.8,
+    "apiCallsPerMinute": 126
+  },
+  {
+    "id": "u-T-010-h02",
+    "tenantId": "T-010",
+    "hour": 2,
+    "cpuPercent": 8.4,
+    "memoryPercent": 12.5,
+    "apiCallsPerMinute": 91
+  },
+  {
+    "id": "u-T-010-h03",
+    "tenantId": "T-010",
+    "hour": 3,
+    "cpuPercent": 7.7,
+    "memoryPercent": 10.9,
+    "apiCallsPerMinute": 119
+  },
+  {
+    "id": "u-T-010-h04",
+    "tenantId": "T-010",
+    "hour": 4,
+    "cpuPercent": 9.4,
+    "memoryPercent": 12.9,
+    "apiCallsPerMinute": 135
+  },
+  {
+    "id": "u-T-010-h05",
+    "tenantId": "T-010",
+    "hour": 5,
+    "cpuPercent": 7.8,
+    "memoryPercent": 14.1,
+    "apiCallsPerMinute": 129
+  },
+  {
+    "id": "u-T-010-h06",
+    "tenantId": "T-010",
+    "hour": 6,
+    "cpuPercent": 7.8,
+    "memoryPercent": 11.7,
+    "apiCallsPerMinute": 99
+  },
+  {
+    "id": "u-T-010-h07",
+    "tenantId": "T-010",
+    "hour": 7,
+    "cpuPercent": 14.8,
+    "memoryPercent": 22.6,
+    "apiCallsPerMinute": 167
+  },
+  {
+    "id": "u-T-010-h08",
+    "tenantId": "T-010",
+    "hour": 8,
+    "cpuPercent": 23.0,
+    "memoryPercent": 32.6,
+    "apiCallsPerMinute": 256
+  },
+  {
+    "id": "u-T-010-h09",
+    "tenantId": "T-010",
+    "hour": 9,
+    "cpuPercent": 35.2,
+    "memoryPercent": 43.2,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-010-h10",
+    "tenantId": "T-010",
+    "hour": 10,
+    "cpuPercent": 37.2,
+    "memoryPercent": 48.4,
+    "apiCallsPerMinute": 356
+  },
+  {
+    "id": "u-T-010-h11",
+    "tenantId": "T-010",
+    "hour": 11,
+    "cpuPercent": 36.8,
+    "memoryPercent": 46.4,
+    "apiCallsPerMinute": 383
+  },
+  {
+    "id": "u-T-010-h12",
+    "tenantId": "T-010",
+    "hour": 12,
+    "cpuPercent": 34.3,
+    "memoryPercent": 44.2,
+    "apiCallsPerMinute": 333
+  },
+  {
+    "id": "u-T-010-h13",
+    "tenantId": "T-010",
+    "hour": 13,
+    "cpuPercent": 33.3,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 315
+  },
+  {
+    "id": "u-T-010-h14",
+    "tenantId": "T-010",
+    "hour": 14,
+    "cpuPercent": 39.5,
+    "memoryPercent": 49.7,
+    "apiCallsPerMinute": 372
+  },
+  {
+    "id": "u-T-010-h15",
+    "tenantId": "T-010",
+    "hour": 15,
+    "cpuPercent": 37.3,
+    "memoryPercent": 48.3,
+    "apiCallsPerMinute": 375
+  },
+  {
+    "id": "u-T-010-h16",
+    "tenantId": "T-010",
+    "hour": 16,
+    "cpuPercent": 34.8,
+    "memoryPercent": 46.7,
+    "apiCallsPerMinute": 338
+  },
+  {
+    "id": "u-T-010-h17",
+    "tenantId": "T-010",
+    "hour": 17,
+    "cpuPercent": 35.2,
+    "memoryPercent": 46.8,
+    "apiCallsPerMinute": 357
+  },
+  {
+    "id": "u-T-010-h18",
+    "tenantId": "T-010",
+    "hour": 18,
+    "cpuPercent": 24.1,
+    "memoryPercent": 33.3,
+    "apiCallsPerMinute": 243
+  },
+  {
+    "id": "u-T-010-h19",
+    "tenantId": "T-010",
+    "hour": 19,
+    "cpuPercent": 22.1,
+    "memoryPercent": 28.6,
+    "apiCallsPerMinute": 265
+  },
+  {
+    "id": "u-T-010-h20",
+    "tenantId": "T-010",
+    "hour": 20,
+    "cpuPercent": 19.6,
+    "memoryPercent": 27.6,
+    "apiCallsPerMinute": 202
+  },
+  {
+    "id": "u-T-010-h21",
+    "tenantId": "T-010",
+    "hour": 21,
+    "cpuPercent": 17.2,
+    "memoryPercent": 23.6,
+    "apiCallsPerMinute": 224
+  },
+  {
+    "id": "u-T-010-h22",
+    "tenantId": "T-010",
+    "hour": 22,
+    "cpuPercent": 16.1,
+    "memoryPercent": 20.0,
+    "apiCallsPerMinute": 186
+  },
+  {
+    "id": "u-T-010-h23",
+    "tenantId": "T-010",
+    "hour": 23,
+    "cpuPercent": 13.9,
+    "memoryPercent": 19.4,
+    "apiCallsPerMinute": 167
+  },
+  {
+    "id": "u-T-011-h00",
+    "tenantId": "T-011",
+    "hour": 0,
+    "cpuPercent": 7.0,
+    "memoryPercent": 10.0,
+    "apiCallsPerMinute": 84
+  },
+  {
+    "id": "u-T-011-h01",
+    "tenantId": "T-011",
+    "hour": 1,
+    "cpuPercent": 7.8,
+    "memoryPercent": 12.3,
+    "apiCallsPerMinute": 94
+  },
+  {
+    "id": "u-T-011-h02",
+    "tenantId": "T-011",
+    "hour": 2,
+    "cpuPercent": 8.2,
+    "memoryPercent": 10.1,
+    "apiCallsPerMinute": 128
+  },
+  {
+    "id": "u-T-011-h03",
+    "tenantId": "T-011",
+    "hour": 3,
+    "cpuPercent": 8.1,
+    "memoryPercent": 13.8,
+    "apiCallsPerMinute": 106
+  },
+  {
+    "id": "u-T-011-h04",
+    "tenantId": "T-011",
+    "hour": 4,
+    "cpuPercent": 8.2,
+    "memoryPercent": 13.9,
+    "apiCallsPerMinute": 142
+  },
+  {
+    "id": "u-T-011-h05",
+    "tenantId": "T-011",
+    "hour": 5,
+    "cpuPercent": 7.8,
+    "memoryPercent": 9.5,
+    "apiCallsPerMinute": 110
+  },
+  {
+    "id": "u-T-011-h06",
+    "tenantId": "T-011",
+    "hour": 6,
+    "cpuPercent": 7.4,
+    "memoryPercent": 13.2,
+    "apiCallsPerMinute": 128
+  },
+  {
+    "id": "u-T-011-h07",
+    "tenantId": "T-011",
+    "hour": 7,
+    "cpuPercent": 13.8,
+    "memoryPercent": 19.2,
+    "apiCallsPerMinute": 161
+  },
+  {
+    "id": "u-T-011-h08",
+    "tenantId": "T-011",
+    "hour": 8,
+    "cpuPercent": 21.5,
+    "memoryPercent": 27.9,
+    "apiCallsPerMinute": 243
+  },
+  {
+    "id": "u-T-011-h09",
+    "tenantId": "T-011",
+    "hour": 9,
+    "cpuPercent": 29.9,
+    "memoryPercent": 40.7,
+    "apiCallsPerMinute": 299
+  },
+  {
+    "id": "u-T-011-h10",
+    "tenantId": "T-011",
+    "hour": 10,
+    "cpuPercent": 33.4,
+    "memoryPercent": 44.3,
+    "apiCallsPerMinute": 361
+  },
+  {
+    "id": "u-T-011-h11",
+    "tenantId": "T-011",
+    "hour": 11,
+    "cpuPercent": 33.5,
+    "memoryPercent": 41.8,
+    "apiCallsPerMinute": 354
+  },
+  {
+    "id": "u-T-011-h12",
+    "tenantId": "T-011",
+    "hour": 12,
+    "cpuPercent": 34.4,
+    "memoryPercent": 41.5,
+    "apiCallsPerMinute": 324
+  },
+  {
+    "id": "u-T-011-h13",
+    "tenantId": "T-011",
+    "hour": 13,
+    "cpuPercent": 33.9,
+    "memoryPercent": 45.6,
+    "apiCallsPerMinute": 359
+  },
+  {
+    "id": "u-T-011-h14",
+    "tenantId": "T-011",
+    "hour": 14,
+    "cpuPercent": 30.3,
+    "memoryPercent": 39.5,
+    "apiCallsPerMinute": 335
+  },
+  {
+    "id": "u-T-011-h15",
+    "tenantId": "T-011",
+    "hour": 15,
+    "cpuPercent": 32.1,
+    "memoryPercent": 43.1,
+    "apiCallsPerMinute": 302
+  },
+  {
+    "id": "u-T-011-h16",
+    "tenantId": "T-011",
+    "hour": 16,
+    "cpuPercent": 32.9,
+    "memoryPercent": 41.4,
+    "apiCallsPerMinute": 314
+  },
+  {
+    "id": "u-T-011-h17",
+    "tenantId": "T-011",
+    "hour": 17,
+    "cpuPercent": 32.2,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 310
+  },
+  {
+    "id": "u-T-011-h18",
+    "tenantId": "T-011",
+    "hour": 18,
+    "cpuPercent": 19.5,
+    "memoryPercent": 27.8,
+    "apiCallsPerMinute": 222
+  },
+  {
+    "id": "u-T-011-h19",
+    "tenantId": "T-011",
+    "hour": 19,
+    "cpuPercent": 18.5,
+    "memoryPercent": 26.7,
+    "apiCallsPerMinute": 184
+  },
+  {
+    "id": "u-T-011-h20",
+    "tenantId": "T-011",
+    "hour": 20,
+    "cpuPercent": 17.6,
+    "memoryPercent": 22.3,
+    "apiCallsPerMinute": 183
+  },
+  {
+    "id": "u-T-011-h21",
+    "tenantId": "T-011",
+    "hour": 21,
+    "cpuPercent": 14.6,
+    "memoryPercent": 21.6,
+    "apiCallsPerMinute": 195
+  },
+  {
+    "id": "u-T-011-h22",
+    "tenantId": "T-011",
+    "hour": 22,
+    "cpuPercent": 15.1,
+    "memoryPercent": 18.9,
+    "apiCallsPerMinute": 172
+  },
+  {
+    "id": "u-T-011-h23",
+    "tenantId": "T-011",
+    "hour": 23,
+    "cpuPercent": 12.5,
+    "memoryPercent": 18.0,
+    "apiCallsPerMinute": 161
+  },
+  {
+    "id": "u-T-012-h00",
+    "tenantId": "T-012",
+    "hour": 0,
+    "cpuPercent": 8.0,
+    "memoryPercent": 10.8,
+    "apiCallsPerMinute": 132
+  },
+  {
+    "id": "u-T-012-h01",
+    "tenantId": "T-012",
+    "hour": 1,
+    "cpuPercent": 7.5,
+    "memoryPercent": 10.9,
+    "apiCallsPerMinute": 106
+  },
+  {
+    "id": "u-T-012-h02",
+    "tenantId": "T-012",
+    "hour": 2,
+    "cpuPercent": 7.7,
+    "memoryPercent": 12.1,
+    "apiCallsPerMinute": 114
+  },
+  {
+    "id": "u-T-012-h03",
+    "tenantId": "T-012",
+    "hour": 3,
+    "cpuPercent": 10.2,
+    "memoryPercent": 13.7,
+    "apiCallsPerMinute": 160
+  },
+  {
+    "id": "u-T-012-h04",
+    "tenantId": "T-012",
+    "hour": 4,
+    "cpuPercent": 9.3,
+    "memoryPercent": 12.6,
+    "apiCallsPerMinute": 127
+  },
+  {
+    "id": "u-T-012-h05",
+    "tenantId": "T-012",
+    "hour": 5,
+    "cpuPercent": 9.6,
+    "memoryPercent": 15.2,
+    "apiCallsPerMinute": 99
+  },
+  {
+    "id": "u-T-012-h06",
+    "tenantId": "T-012",
+    "hour": 6,
+    "cpuPercent": 8.5,
+    "memoryPercent": 12.7,
+    "apiCallsPerMinute": 140
+  },
+  {
+    "id": "u-T-012-h07",
+    "tenantId": "T-012",
+    "hour": 7,
+    "cpuPercent": 15.9,
+    "memoryPercent": 23.1,
+    "apiCallsPerMinute": 189
+  },
+  {
+    "id": "u-T-012-h08",
+    "tenantId": "T-012",
+    "hour": 8,
+    "cpuPercent": 24.4,
+    "memoryPercent": 32.5,
+    "apiCallsPerMinute": 267
+  },
+  {
+    "id": "u-T-012-h09",
+    "tenantId": "T-012",
+    "hour": 9,
+    "cpuPercent": 40.1,
+    "memoryPercent": 51.4,
+    "apiCallsPerMinute": 420
+  },
+  {
+    "id": "u-T-012-h10",
+    "tenantId": "T-012",
+    "hour": 10,
+    "cpuPercent": 40.3,
+    "memoryPercent": 51.6,
+    "apiCallsPerMinute": 391
+  },
+  {
+    "id": "u-T-012-h11",
+    "tenantId": "T-012",
+    "hour": 11,
+    "cpuPercent": 38.1,
+    "memoryPercent": 49.3,
+    "apiCallsPerMinute": 357
+  },
+  {
+    "id": "u-T-012-h12",
+    "tenantId": "T-012",
+    "hour": 12,
+    "cpuPercent": 37.6,
+    "memoryPercent": 46.0,
+    "apiCallsPerMinute": 356
+  },
+  {
+    "id": "u-T-012-h13",
+    "tenantId": "T-012",
+    "hour": 13,
+    "cpuPercent": 39.9,
+    "memoryPercent": 50.5,
+    "apiCallsPerMinute": 423
+  },
+  {
+    "id": "u-T-012-h14",
+    "tenantId": "T-012",
+    "hour": 14,
+    "cpuPercent": 39.7,
+    "memoryPercent": 51.7,
+    "apiCallsPerMinute": 396
+  },
+  {
+    "id": "u-T-012-h15",
+    "tenantId": "T-012",
+    "hour": 15,
+    "cpuPercent": 41.0,
+    "memoryPercent": 50.9,
+    "apiCallsPerMinute": 385
+  },
+  {
+    "id": "u-T-012-h16",
+    "tenantId": "T-012",
+    "hour": 16,
+    "cpuPercent": 40.2,
+    "memoryPercent": 53.1,
+    "apiCallsPerMinute": 423
+  },
+  {
+    "id": "u-T-012-h17",
+    "tenantId": "T-012",
+    "hour": 17,
+    "cpuPercent": 41.1,
+    "memoryPercent": 54.2,
+    "apiCallsPerMinute": 428
+  },
+  {
+    "id": "u-T-012-h18",
+    "tenantId": "T-012",
+    "hour": 18,
+    "cpuPercent": 24.5,
+    "memoryPercent": 33.4,
+    "apiCallsPerMinute": 231
+  },
+  {
+    "id": "u-T-012-h19",
+    "tenantId": "T-012",
+    "hour": 19,
+    "cpuPercent": 23.2,
+    "memoryPercent": 30.1,
+    "apiCallsPerMinute": 258
+  },
+  {
+    "id": "u-T-012-h20",
+    "tenantId": "T-012",
+    "hour": 20,
+    "cpuPercent": 21.7,
+    "memoryPercent": 29.0,
+    "apiCallsPerMinute": 254
+  },
+  {
+    "id": "u-T-012-h21",
+    "tenantId": "T-012",
+    "hour": 21,
+    "cpuPercent": 20.6,
+    "memoryPercent": 25.3,
+    "apiCallsPerMinute": 209
+  },
+  {
+    "id": "u-T-012-h22",
+    "tenantId": "T-012",
+    "hour": 22,
+    "cpuPercent": 16.0,
+    "memoryPercent": 23.6,
+    "apiCallsPerMinute": 187
+  },
+  {
+    "id": "u-T-012-h23",
+    "tenantId": "T-012",
+    "hour": 23,
+    "cpuPercent": 16.8,
+    "memoryPercent": 21.3,
+    "apiCallsPerMinute": 165
+  },
+  {
+    "id": "u-T-013-h00",
+    "tenantId": "T-013",
+    "hour": 0,
+    "cpuPercent": 8.0,
+    "memoryPercent": 14.1,
+    "apiCallsPerMinute": 99
+  },
+  {
+    "id": "u-T-013-h01",
+    "tenantId": "T-013",
+    "hour": 1,
+    "cpuPercent": 6.9,
+    "memoryPercent": 8.9,
+    "apiCallsPerMinute": 128
+  },
+  {
+    "id": "u-T-013-h02",
+    "tenantId": "T-013",
+    "hour": 2,
+    "cpuPercent": 6.7,
+    "memoryPercent": 10.5,
+    "apiCallsPerMinute": 76
+  },
+  {
+    "id": "u-T-013-h03",
+    "tenantId": "T-013",
+    "hour": 3,
+    "cpuPercent": 8.6,
+    "memoryPercent": 11.0,
+    "apiCallsPerMinute": 114
+  },
+  {
+    "id": "u-T-013-h04",
+    "tenantId": "T-013",
+    "hour": 4,
+    "cpuPercent": 8.1,
+    "memoryPercent": 13.4,
+    "apiCallsPerMinute": 139
+  },
+  {
+    "id": "u-T-013-h05",
+    "tenantId": "T-013",
+    "hour": 5,
+    "cpuPercent": 7.5,
+    "memoryPercent": 12.7,
+    "apiCallsPerMinute": 86
+  },
+  {
+    "id": "u-T-013-h06",
+    "tenantId": "T-013",
+    "hour": 6,
+    "cpuPercent": 6.7,
+    "memoryPercent": 8.6,
+    "apiCallsPerMinute": 100
+  },
+  {
+    "id": "u-T-013-h07",
+    "tenantId": "T-013",
+    "hour": 7,
+    "cpuPercent": 13.5,
+    "memoryPercent": 20.9,
+    "apiCallsPerMinute": 133
+  },
+  {
+    "id": "u-T-013-h08",
+    "tenantId": "T-013",
+    "hour": 8,
+    "cpuPercent": 20.1,
+    "memoryPercent": 26.4,
+    "apiCallsPerMinute": 248
+  },
+  {
+    "id": "u-T-013-h09",
+    "tenantId": "T-013",
+    "hour": 9,
+    "cpuPercent": 32.0,
+    "memoryPercent": 41.8,
+    "apiCallsPerMinute": 330
+  },
+  {
+    "id": "u-T-013-h10",
+    "tenantId": "T-013",
+    "hour": 10,
+    "cpuPercent": 33.5,
+    "memoryPercent": 42.1,
+    "apiCallsPerMinute": 322
+  },
+  {
+    "id": "u-T-013-h11",
+    "tenantId": "T-013",
+    "hour": 11,
+    "cpuPercent": 30.3,
+    "memoryPercent": 38.6,
+    "apiCallsPerMinute": 322
+  },
+  {
+    "id": "u-T-013-h12",
+    "tenantId": "T-013",
+    "hour": 12,
+    "cpuPercent": 32.3,
+    "memoryPercent": 38.9,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-013-h13",
+    "tenantId": "T-013",
+    "hour": 13,
+    "cpuPercent": 28.8,
+    "memoryPercent": 37.3,
+    "apiCallsPerMinute": 272
+  },
+  {
+    "id": "u-T-013-h14",
+    "tenantId": "T-013",
+    "hour": 14,
+    "cpuPercent": 31.8,
+    "memoryPercent": 39.3,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-013-h15",
+    "tenantId": "T-013",
+    "hour": 15,
+    "cpuPercent": 29.3,
+    "memoryPercent": 39.7,
+    "apiCallsPerMinute": 273
+  },
+  {
+    "id": "u-T-013-h16",
+    "tenantId": "T-013",
+    "hour": 16,
+    "cpuPercent": 32.2,
+    "memoryPercent": 39.2,
+    "apiCallsPerMinute": 314
+  },
+  {
+    "id": "u-T-013-h17",
+    "tenantId": "T-013",
+    "hour": 17,
+    "cpuPercent": 30.0,
+    "memoryPercent": 36.1,
+    "apiCallsPerMinute": 280
+  },
+  {
+    "id": "u-T-013-h18",
+    "tenantId": "T-013",
+    "hour": 18,
+    "cpuPercent": 21.3,
+    "memoryPercent": 26.7,
+    "apiCallsPerMinute": 220
+  },
+  {
+    "id": "u-T-013-h19",
+    "tenantId": "T-013",
+    "hour": 19,
+    "cpuPercent": 17.9,
+    "memoryPercent": 21.7,
+    "apiCallsPerMinute": 215
+  },
+  {
+    "id": "u-T-013-h20",
+    "tenantId": "T-013",
+    "hour": 20,
+    "cpuPercent": 17.4,
+    "memoryPercent": 24.6,
+    "apiCallsPerMinute": 195
+  },
+  {
+    "id": "u-T-013-h21",
+    "tenantId": "T-013",
+    "hour": 21,
+    "cpuPercent": 16.6,
+    "memoryPercent": 22.5,
+    "apiCallsPerMinute": 166
+  },
+  {
+    "id": "u-T-013-h22",
+    "tenantId": "T-013",
+    "hour": 22,
+    "cpuPercent": 14.3,
+    "memoryPercent": 21.9,
+    "apiCallsPerMinute": 141
+  },
+  {
+    "id": "u-T-013-h23",
+    "tenantId": "T-013",
+    "hour": 23,
+    "cpuPercent": 13.6,
+    "memoryPercent": 20.7,
+    "apiCallsPerMinute": 163
+  },
+  {
+    "id": "u-T-014-h00",
+    "tenantId": "T-014",
+    "hour": 0,
+    "cpuPercent": 8.4,
+    "memoryPercent": 14.8,
+    "apiCallsPerMinute": 88
+  },
+  {
+    "id": "u-T-014-h01",
+    "tenantId": "T-014",
+    "hour": 1,
+    "cpuPercent": 8.6,
+    "memoryPercent": 12.3,
+    "apiCallsPerMinute": 128
+  },
+  {
+    "id": "u-T-014-h02",
+    "tenantId": "T-014",
+    "hour": 2,
+    "cpuPercent": 8.8,
+    "memoryPercent": 15.1,
+    "apiCallsPerMinute": 93
+  },
+  {
+    "id": "u-T-014-h03",
+    "tenantId": "T-014",
+    "hour": 3,
+    "cpuPercent": 7.7,
+    "memoryPercent": 12.3,
+    "apiCallsPerMinute": 83
+  },
+  {
+    "id": "u-T-014-h04",
+    "tenantId": "T-014",
+    "hour": 4,
+    "cpuPercent": 8.5,
+    "memoryPercent": 13.3,
+    "apiCallsPerMinute": 119
+  },
+  {
+    "id": "u-T-014-h05",
+    "tenantId": "T-014",
+    "hour": 5,
+    "cpuPercent": 8.8,
+    "memoryPercent": 15.5,
+    "apiCallsPerMinute": 121
+  },
+  {
+    "id": "u-T-014-h06",
+    "tenantId": "T-014",
+    "hour": 6,
+    "cpuPercent": 8.3,
+    "memoryPercent": 13.0,
+    "apiCallsPerMinute": 91
+  },
+  {
+    "id": "u-T-014-h07",
+    "tenantId": "T-014",
+    "hour": 7,
+    "cpuPercent": 17.8,
+    "memoryPercent": 25.6,
+    "apiCallsPerMinute": 209
+  },
+  {
+    "id": "u-T-014-h08",
+    "tenantId": "T-014",
+    "hour": 8,
+    "cpuPercent": 26.7,
+    "memoryPercent": 35.7,
+    "apiCallsPerMinute": 263
+  },
+  {
+    "id": "u-T-014-h09",
+    "tenantId": "T-014",
+    "hour": 9,
+    "cpuPercent": 38.7,
+    "memoryPercent": 48.1,
+    "apiCallsPerMinute": 385
+  },
+  {
+    "id": "u-T-014-h10",
+    "tenantId": "T-014",
+    "hour": 10,
+    "cpuPercent": 38.1,
+    "memoryPercent": 47.8,
+    "apiCallsPerMinute": 392
+  },
+  {
+    "id": "u-T-014-h11",
+    "tenantId": "T-014",
+    "hour": 11,
+    "cpuPercent": 37.9,
+    "memoryPercent": 50.1,
+    "apiCallsPerMinute": 355
+  },
+  {
+    "id": "u-T-014-h12",
+    "tenantId": "T-014",
+    "hour": 12,
+    "cpuPercent": 40.9,
+    "memoryPercent": 49.6,
+    "apiCallsPerMinute": 422
+  },
+  {
+    "id": "u-T-014-h13",
+    "tenantId": "T-014",
+    "hour": 13,
+    "cpuPercent": 42.2,
+    "memoryPercent": 53.6,
+    "apiCallsPerMinute": 423
+  },
+  {
+    "id": "u-T-014-h14",
+    "tenantId": "T-014",
+    "hour": 14,
+    "cpuPercent": 37.5,
+    "memoryPercent": 46.8,
+    "apiCallsPerMinute": 387
+  },
+  {
+    "id": "u-T-014-h15",
+    "tenantId": "T-014",
+    "hour": 15,
+    "cpuPercent": 42.7,
+    "memoryPercent": 54.8,
+    "apiCallsPerMinute": 452
+  },
+  {
+    "id": "u-T-014-h16",
+    "tenantId": "T-014",
+    "hour": 16,
+    "cpuPercent": 40.1,
+    "memoryPercent": 51.0,
+    "apiCallsPerMinute": 383
+  },
+  {
+    "id": "u-T-014-h17",
+    "tenantId": "T-014",
+    "hour": 17,
+    "cpuPercent": 40.1,
+    "memoryPercent": 48.7,
+    "apiCallsPerMinute": 421
+  },
+  {
+    "id": "u-T-014-h18",
+    "tenantId": "T-014",
+    "hour": 18,
+    "cpuPercent": 25.6,
+    "memoryPercent": 34.5,
+    "apiCallsPerMinute": 274
+  },
+  {
+    "id": "u-T-014-h19",
+    "tenantId": "T-014",
+    "hour": 19,
+    "cpuPercent": 25.0,
+    "memoryPercent": 34.2,
+    "apiCallsPerMinute": 293
+  },
+  {
+    "id": "u-T-014-h20",
+    "tenantId": "T-014",
+    "hour": 20,
+    "cpuPercent": 23.1,
+    "memoryPercent": 30.7,
+    "apiCallsPerMinute": 256
+  },
+  {
+    "id": "u-T-014-h21",
+    "tenantId": "T-014",
+    "hour": 21,
+    "cpuPercent": 18.7,
+    "memoryPercent": 27.1,
+    "apiCallsPerMinute": 228
+  },
+  {
+    "id": "u-T-014-h22",
+    "tenantId": "T-014",
+    "hour": 22,
+    "cpuPercent": 17.5,
+    "memoryPercent": 21.9,
+    "apiCallsPerMinute": 209
+  },
+  {
+    "id": "u-T-014-h23",
+    "tenantId": "T-014",
+    "hour": 23,
+    "cpuPercent": 15.7,
+    "memoryPercent": 20.5,
+    "apiCallsPerMinute": 151
+  },
+  {
+    "id": "u-T-015-h00",
+    "tenantId": "T-015",
+    "hour": 0,
+    "cpuPercent": 8.4,
+    "memoryPercent": 12.9,
+    "apiCallsPerMinute": 109
+  },
+  {
+    "id": "u-T-015-h01",
+    "tenantId": "T-015",
+    "hour": 1,
+    "cpuPercent": 6.3,
+    "memoryPercent": 10.8,
+    "apiCallsPerMinute": 68
+  },
+  {
+    "id": "u-T-015-h02",
+    "tenantId": "T-015",
+    "hour": 2,
+    "cpuPercent": 8.3,
+    "memoryPercent": 11.0,
+    "apiCallsPerMinute": 109
+  },
+  {
+    "id": "u-T-015-h03",
+    "tenantId": "T-015",
+    "hour": 3,
+    "cpuPercent": 7.2,
+    "memoryPercent": 10.5,
+    "apiCallsPerMinute": 118
+  },
+  {
+    "id": "u-T-015-h04",
+    "tenantId": "T-015",
+    "hour": 4,
+    "cpuPercent": 8.7,
+    "memoryPercent": 13.2,
+    "apiCallsPerMinute": 93
+  },
+  {
+    "id": "u-T-015-h05",
+    "tenantId": "T-015",
+    "hour": 5,
+    "cpuPercent": 6.6,
+    "memoryPercent": 8.8,
+    "apiCallsPerMinute": 106
+  },
+  {
+    "id": "u-T-015-h06",
+    "tenantId": "T-015",
+    "hour": 6,
+    "cpuPercent": 7.8,
+    "memoryPercent": 10.7,
+    "apiCallsPerMinute": 119
+  },
+  {
+    "id": "u-T-015-h07",
+    "tenantId": "T-015",
+    "hour": 7,
+    "cpuPercent": 14.3,
+    "memoryPercent": 19.4,
+    "apiCallsPerMinute": 155
+  },
+  {
+    "id": "u-T-015-h08",
+    "tenantId": "T-015",
+    "hour": 8,
+    "cpuPercent": 22.2,
+    "memoryPercent": 27.2,
+    "apiCallsPerMinute": 235
+  },
+  {
+    "id": "u-T-015-h09",
+    "tenantId": "T-015",
+    "hour": 9,
+    "cpuPercent": 32.1,
+    "memoryPercent": 40.9,
+    "apiCallsPerMinute": 338
+  },
+  {
+    "id": "u-T-015-h10",
+    "tenantId": "T-015",
+    "hour": 10,
+    "cpuPercent": 29.9,
+    "memoryPercent": 38.8,
+    "apiCallsPerMinute": 279
+  },
+  {
+    "id": "u-T-015-h11",
+    "tenantId": "T-015",
+    "hour": 11,
+    "cpuPercent": 30.8,
+    "memoryPercent": 37.6,
+    "apiCallsPerMinute": 302
+  },
+  {
+    "id": "u-T-015-h12",
+    "tenantId": "T-015",
+    "hour": 12,
+    "cpuPercent": 30.3,
+    "memoryPercent": 40.1,
+    "apiCallsPerMinute": 293
+  },
+  {
+    "id": "u-T-015-h13",
+    "tenantId": "T-015",
+    "hour": 13,
+    "cpuPercent": 32.7,
+    "memoryPercent": 41.8,
+    "apiCallsPerMinute": 354
+  },
+  {
+    "id": "u-T-015-h14",
+    "tenantId": "T-015",
+    "hour": 14,
+    "cpuPercent": 33.2,
+    "memoryPercent": 44.2,
+    "apiCallsPerMinute": 311
+  },
+  {
+    "id": "u-T-015-h15",
+    "tenantId": "T-015",
+    "hour": 15,
+    "cpuPercent": 31.3,
+    "memoryPercent": 41.9,
+    "apiCallsPerMinute": 326
+  },
+  {
+    "id": "u-T-015-h16",
+    "tenantId": "T-015",
+    "hour": 16,
+    "cpuPercent": 33.8,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 321
+  },
+  {
+    "id": "u-T-015-h17",
+    "tenantId": "T-015",
+    "hour": 17,
+    "cpuPercent": 29.5,
+    "memoryPercent": 39.4,
+    "apiCallsPerMinute": 312
+  },
+  {
+    "id": "u-T-015-h18",
+    "tenantId": "T-015",
+    "hour": 18,
+    "cpuPercent": 22.4,
+    "memoryPercent": 31.5,
+    "apiCallsPerMinute": 216
+  },
+  {
+    "id": "u-T-015-h19",
+    "tenantId": "T-015",
+    "hour": 19,
+    "cpuPercent": 20.8,
+    "memoryPercent": 26.2,
+    "apiCallsPerMinute": 232
+  },
+  {
+    "id": "u-T-015-h20",
+    "tenantId": "T-015",
+    "hour": 20,
+    "cpuPercent": 18.2,
+    "memoryPercent": 23.9,
+    "apiCallsPerMinute": 192
+  },
+  {
+    "id": "u-T-015-h21",
+    "tenantId": "T-015",
+    "hour": 21,
+    "cpuPercent": 16.1,
+    "memoryPercent": 21.0,
+    "apiCallsPerMinute": 164
+  },
+  {
+    "id": "u-T-015-h22",
+    "tenantId": "T-015",
+    "hour": 22,
+    "cpuPercent": 15.0,
+    "memoryPercent": 18.6,
+    "apiCallsPerMinute": 175
+  },
+  {
+    "id": "u-T-015-h23",
+    "tenantId": "T-015",
+    "hour": 23,
+    "cpuPercent": 14.6,
+    "memoryPercent": 19.2,
+    "apiCallsPerMinute": 184
+  },
+  {
+    "id": "u-T-016-h00",
+    "tenantId": "T-016",
+    "hour": 0,
+    "cpuPercent": 8.3,
+    "memoryPercent": 14.0,
+    "apiCallsPerMinute": 98
+  },
+  {
+    "id": "u-T-016-h01",
+    "tenantId": "T-016",
+    "hour": 1,
+    "cpuPercent": 6.4,
+    "memoryPercent": 8.7,
+    "apiCallsPerMinute": 104
+  },
+  {
+    "id": "u-T-016-h02",
+    "tenantId": "T-016",
+    "hour": 2,
+    "cpuPercent": 8.4,
+    "memoryPercent": 13.4,
+    "apiCallsPerMinute": 96
+  },
+  {
+    "id": "u-T-016-h03",
+    "tenantId": "T-016",
+    "hour": 3,
+    "cpuPercent": 8.6,
+    "memoryPercent": 12.8,
+    "apiCallsPerMinute": 132
+  },
+  {
+    "id": "u-T-016-h04",
+    "tenantId": "T-016",
+    "hour": 4,
+    "cpuPercent": 8.7,
+    "memoryPercent": 12.7,
+    "apiCallsPerMinute": 143
+  },
+  {
+    "id": "u-T-016-h05",
+    "tenantId": "T-016",
+    "hour": 5,
+    "cpuPercent": 8.3,
+    "memoryPercent": 13.1,
+    "apiCallsPerMinute": 121
+  },
+  {
+    "id": "u-T-016-h06",
+    "tenantId": "T-016",
+    "hour": 6,
+    "cpuPercent": 8.4,
+    "memoryPercent": 13.3,
+    "apiCallsPerMinute": 95
+  },
+  {
+    "id": "u-T-016-h07",
+    "tenantId": "T-016",
+    "hour": 7,
+    "cpuPercent": 13.3,
+    "memoryPercent": 18.1,
+    "apiCallsPerMinute": 147
+  },
+  {
+    "id": "u-T-016-h08",
+    "tenantId": "T-016",
+    "hour": 8,
+    "cpuPercent": 21.1,
+    "memoryPercent": 25.6,
+    "apiCallsPerMinute": 230
+  },
+  {
+    "id": "u-T-016-h09",
+    "tenantId": "T-016",
+    "hour": 9,
+    "cpuPercent": 32.1,
+    "memoryPercent": 38.8,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-016-h10",
+    "tenantId": "T-016",
+    "hour": 10,
+    "cpuPercent": 31.9,
+    "memoryPercent": 42.6,
+    "apiCallsPerMinute": 334
+  },
+  {
+    "id": "u-T-016-h11",
+    "tenantId": "T-016",
+    "hour": 11,
+    "cpuPercent": 33.2,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 356
+  },
+  {
+    "id": "u-T-016-h12",
+    "tenantId": "T-016",
+    "hour": 12,
+    "cpuPercent": 35.4,
+    "memoryPercent": 46.6,
+    "apiCallsPerMinute": 368
+  },
+  {
+    "id": "u-T-016-h13",
+    "tenantId": "T-016",
+    "hour": 13,
+    "cpuPercent": 32.2,
+    "memoryPercent": 39.4,
+    "apiCallsPerMinute": 303
+  },
+  {
+    "id": "u-T-016-h14",
+    "tenantId": "T-016",
+    "hour": 14,
+    "cpuPercent": 32.2,
+    "memoryPercent": 40.4,
+    "apiCallsPerMinute": 342
+  },
+  {
+    "id": "u-T-016-h15",
+    "tenantId": "T-016",
+    "hour": 15,
+    "cpuPercent": 32.3,
+    "memoryPercent": 40.1,
+    "apiCallsPerMinute": 327
+  },
+  {
+    "id": "u-T-016-h16",
+    "tenantId": "T-016",
+    "hour": 16,
+    "cpuPercent": 33.0,
+    "memoryPercent": 40.4,
+    "apiCallsPerMinute": 329
+  },
+  {
+    "id": "u-T-016-h17",
+    "tenantId": "T-016",
+    "hour": 17,
+    "cpuPercent": 31.8,
+    "memoryPercent": 39.8,
+    "apiCallsPerMinute": 331
+  },
+  {
+    "id": "u-T-016-h18",
+    "tenantId": "T-016",
+    "hour": 18,
+    "cpuPercent": 22.6,
+    "memoryPercent": 30.3,
+    "apiCallsPerMinute": 217
+  },
+  {
+    "id": "u-T-016-h19",
+    "tenantId": "T-016",
+    "hour": 19,
+    "cpuPercent": 18.9,
+    "memoryPercent": 26.0,
+    "apiCallsPerMinute": 196
+  },
+  {
+    "id": "u-T-016-h20",
+    "tenantId": "T-016",
+    "hour": 20,
+    "cpuPercent": 19.1,
+    "memoryPercent": 26.2,
+    "apiCallsPerMinute": 236
+  },
+  {
+    "id": "u-T-016-h21",
+    "tenantId": "T-016",
+    "hour": 21,
+    "cpuPercent": 18.0,
+    "memoryPercent": 23.2,
+    "apiCallsPerMinute": 206
+  },
+  {
+    "id": "u-T-016-h22",
+    "tenantId": "T-016",
+    "hour": 22,
+    "cpuPercent": 14.1,
+    "memoryPercent": 18.7,
+    "apiCallsPerMinute": 195
+  },
+  {
+    "id": "u-T-016-h23",
+    "tenantId": "T-016",
+    "hour": 23,
+    "cpuPercent": 14.2,
+    "memoryPercent": 19.0,
+    "apiCallsPerMinute": 173
+  },
+  {
+    "id": "u-T-017-h00",
+    "tenantId": "T-017",
+    "hour": 0,
+    "cpuPercent": 8.6,
+    "memoryPercent": 11.9,
+    "apiCallsPerMinute": 110
+  },
+  {
+    "id": "u-T-017-h01",
+    "tenantId": "T-017",
+    "hour": 1,
+    "cpuPercent": 8.3,
+    "memoryPercent": 14.0,
+    "apiCallsPerMinute": 125
+  },
+  {
+    "id": "u-T-017-h02",
+    "tenantId": "T-017",
+    "hour": 2,
+    "cpuPercent": 8.6,
+    "memoryPercent": 14.0,
+    "apiCallsPerMinute": 128
+  },
+  {
+    "id": "u-T-017-h03",
+    "tenantId": "T-017",
+    "hour": 3,
+    "cpuPercent": 7.8,
+    "memoryPercent": 12.6,
+    "apiCallsPerMinute": 105
+  },
+  {
+    "id": "u-T-017-h04",
+    "tenantId": "T-017",
+    "hour": 4,
+    "cpuPercent": 7.5,
+    "memoryPercent": 10.8,
+    "apiCallsPerMinute": 87
+  },
+  {
+    "id": "u-T-017-h05",
+    "tenantId": "T-017",
+    "hour": 5,
+    "cpuPercent": 7.2,
+    "memoryPercent": 13.3,
+    "apiCallsPerMinute": 103
+  },
+  {
+    "id": "u-T-017-h06",
+    "tenantId": "T-017",
+    "hour": 6,
+    "cpuPercent": 6.5,
+    "memoryPercent": 8.5,
+    "apiCallsPerMinute": 72
+  },
+  {
+    "id": "u-T-017-h07",
+    "tenantId": "T-017",
+    "hour": 7,
+    "cpuPercent": 15.5,
+    "memoryPercent": 19.1,
+    "apiCallsPerMinute": 195
+  },
+  {
+    "id": "u-T-017-h08",
+    "tenantId": "T-017",
+    "hour": 8,
+    "cpuPercent": 22.6,
+    "memoryPercent": 31.5,
+    "apiCallsPerMinute": 215
+  },
+  {
+    "id": "u-T-017-h09",
+    "tenantId": "T-017",
+    "hour": 9,
+    "cpuPercent": 32.8,
+    "memoryPercent": 40.1,
+    "apiCallsPerMinute": 328
+  },
+  {
+    "id": "u-T-017-h10",
+    "tenantId": "T-017",
+    "hour": 10,
+    "cpuPercent": 32.0,
+    "memoryPercent": 42.3,
+    "apiCallsPerMinute": 346
+  },
+  {
+    "id": "u-T-017-h11",
+    "tenantId": "T-017",
+    "hour": 11,
+    "cpuPercent": 30.9,
+    "memoryPercent": 39.1,
+    "apiCallsPerMinute": 328
+  },
+  {
+    "id": "u-T-017-h12",
+    "tenantId": "T-017",
+    "hour": 12,
+    "cpuPercent": 31.3,
+    "memoryPercent": 39.0,
+    "apiCallsPerMinute": 336
+  },
+  {
+    "id": "u-T-017-h13",
+    "tenantId": "T-017",
+    "hour": 13,
+    "cpuPercent": 32.8,
+    "memoryPercent": 40.9,
+    "apiCallsPerMinute": 353
+  },
+  {
+    "id": "u-T-017-h14",
+    "tenantId": "T-017",
+    "hour": 14,
+    "cpuPercent": 33.8,
+    "memoryPercent": 42.4,
+    "apiCallsPerMinute": 370
+  },
+  {
+    "id": "u-T-017-h15",
+    "tenantId": "T-017",
+    "hour": 15,
+    "cpuPercent": 35.6,
+    "memoryPercent": 44.2,
+    "apiCallsPerMinute": 353
+  },
+  {
+    "id": "u-T-017-h16",
+    "tenantId": "T-017",
+    "hour": 16,
+    "cpuPercent": 34.5,
+    "memoryPercent": 45.5,
+    "apiCallsPerMinute": 368
+  },
+  {
+    "id": "u-T-017-h17",
+    "tenantId": "T-017",
+    "hour": 17,
+    "cpuPercent": 30.1,
+    "memoryPercent": 39.4,
+    "apiCallsPerMinute": 333
+  },
+  {
+    "id": "u-T-017-h18",
+    "tenantId": "T-017",
+    "hour": 18,
+    "cpuPercent": 21.7,
+    "memoryPercent": 26.5,
+    "apiCallsPerMinute": 255
+  },
+  {
+    "id": "u-T-017-h19",
+    "tenantId": "T-017",
+    "hour": 19,
+    "cpuPercent": 20.9,
+    "memoryPercent": 26.6,
+    "apiCallsPerMinute": 244
+  },
+  {
+    "id": "u-T-017-h20",
+    "tenantId": "T-017",
+    "hour": 20,
+    "cpuPercent": 17.6,
+    "memoryPercent": 25.6,
+    "apiCallsPerMinute": 177
+  },
+  {
+    "id": "u-T-017-h21",
+    "tenantId": "T-017",
+    "hour": 21,
+    "cpuPercent": 16.5,
+    "memoryPercent": 24.5,
+    "apiCallsPerMinute": 171
+  },
+  {
+    "id": "u-T-017-h22",
+    "tenantId": "T-017",
+    "hour": 22,
+    "cpuPercent": 14.9,
+    "memoryPercent": 19.6,
+    "apiCallsPerMinute": 145
+  },
+  {
+    "id": "u-T-017-h23",
+    "tenantId": "T-017",
+    "hour": 23,
+    "cpuPercent": 12.1,
+    "memoryPercent": 17.0,
+    "apiCallsPerMinute": 133
+  },
+  {
+    "id": "u-T-018-h00",
+    "tenantId": "T-018",
+    "hour": 0,
+    "cpuPercent": 9.0,
+    "memoryPercent": 12.7,
+    "apiCallsPerMinute": 92
+  },
+  {
+    "id": "u-T-018-h01",
+    "tenantId": "T-018",
+    "hour": 1,
+    "cpuPercent": 9.0,
+    "memoryPercent": 14.9,
+    "apiCallsPerMinute": 129
+  },
+  {
+    "id": "u-T-018-h02",
+    "tenantId": "T-018",
+    "hour": 2,
+    "cpuPercent": 8.7,
+    "memoryPercent": 11.1,
+    "apiCallsPerMinute": 105
+  },
+  {
+    "id": "u-T-018-h03",
+    "tenantId": "T-018",
+    "hour": 3,
+    "cpuPercent": 9.0,
+    "memoryPercent": 14.2,
+    "apiCallsPerMinute": 98
+  },
+  {
+    "id": "u-T-018-h04",
+    "tenantId": "T-018",
+    "hour": 4,
+    "cpuPercent": 8.7,
+    "memoryPercent": 12.7,
+    "apiCallsPerMinute": 88
+  },
+  {
+    "id": "u-T-018-h05",
+    "tenantId": "T-018",
+    "hour": 5,
+    "cpuPercent": 7.0,
+    "memoryPercent": 9.7,
+    "apiCallsPerMinute": 123
+  },
+  {
+    "id": "u-T-018-h06",
+    "tenantId": "T-018",
+    "hour": 6,
+    "cpuPercent": 7.7,
+    "memoryPercent": 12.8,
+    "apiCallsPerMinute": 110
+  },
+  {
+    "id": "u-T-018-h07",
+    "tenantId": "T-018",
+    "hour": 7,
+    "cpuPercent": 13.8,
+    "memoryPercent": 18.0,
+    "apiCallsPerMinute": 152
+  },
+  {
+    "id": "u-T-018-h08",
+    "tenantId": "T-018",
+    "hour": 8,
+    "cpuPercent": 21.0,
+    "memoryPercent": 27.3,
+    "apiCallsPerMinute": 246
+  },
+  {
+    "id": "u-T-018-h09",
+    "tenantId": "T-018",
+    "hour": 9,
+    "cpuPercent": 32.8,
+    "memoryPercent": 43.9,
+    "apiCallsPerMinute": 341
+  },
+  {
+    "id": "u-T-018-h10",
+    "tenantId": "T-018",
+    "hour": 10,
+    "cpuPercent": 31.4,
+    "memoryPercent": 38.9,
+    "apiCallsPerMinute": 301
+  },
+  {
+    "id": "u-T-018-h11",
+    "tenantId": "T-018",
+    "hour": 11,
+    "cpuPercent": 34.2,
+    "memoryPercent": 42.2,
+    "apiCallsPerMinute": 342
+  },
+  {
+    "id": "u-T-018-h12",
+    "tenantId": "T-018",
+    "hour": 12,
+    "cpuPercent": 34.0,
+    "memoryPercent": 45.7,
+    "apiCallsPerMinute": 320
+  },
+  {
+    "id": "u-T-018-h13",
+    "tenantId": "T-018",
+    "hour": 13,
+    "cpuPercent": 34.4,
+    "memoryPercent": 46.3,
+    "apiCallsPerMinute": 353
+  },
+  {
+    "id": "u-T-018-h14",
+    "tenantId": "T-018",
+    "hour": 14,
+    "cpuPercent": 33.5,
+    "memoryPercent": 43.4,
+    "apiCallsPerMinute": 370
+  },
+  {
+    "id": "u-T-018-h15",
+    "tenantId": "T-018",
+    "hour": 15,
+    "cpuPercent": 31.3,
+    "memoryPercent": 41.6,
+    "apiCallsPerMinute": 312
+  },
+  {
+    "id": "u-T-018-h16",
+    "tenantId": "T-018",
+    "hour": 16,
+    "cpuPercent": 36.0,
+    "memoryPercent": 47.1,
+    "apiCallsPerMinute": 378
+  },
+  {
+    "id": "u-T-018-h17",
+    "tenantId": "T-018",
+    "hour": 17,
+    "cpuPercent": 31.9,
+    "memoryPercent": 41.0,
+    "apiCallsPerMinute": 345
+  },
+  {
+    "id": "u-T-018-h18",
+    "tenantId": "T-018",
+    "hour": 18,
+    "cpuPercent": 21.4,
+    "memoryPercent": 29.5,
+    "apiCallsPerMinute": 230
+  },
+  {
+    "id": "u-T-018-h19",
+    "tenantId": "T-018",
+    "hour": 19,
+    "cpuPercent": 21.3,
+    "memoryPercent": 28.7,
+    "apiCallsPerMinute": 250
+  },
+  {
+    "id": "u-T-018-h20",
+    "tenantId": "T-018",
+    "hour": 20,
+    "cpuPercent": 17.7,
+    "memoryPercent": 25.1,
+    "apiCallsPerMinute": 196
+  },
+  {
+    "id": "u-T-018-h21",
+    "tenantId": "T-018",
+    "hour": 21,
+    "cpuPercent": 16.7,
+    "memoryPercent": 20.3,
+    "apiCallsPerMinute": 172
+  },
+  {
+    "id": "u-T-018-h22",
+    "tenantId": "T-018",
+    "hour": 22,
+    "cpuPercent": 14.3,
+    "memoryPercent": 21.8,
+    "apiCallsPerMinute": 169
+  },
+  {
+    "id": "u-T-018-h23",
+    "tenantId": "T-018",
+    "hour": 23,
+    "cpuPercent": 15.4,
+    "memoryPercent": 21.2,
+    "apiCallsPerMinute": 164
+  },
+  {
+    "id": "u-T-019-h00",
+    "tenantId": "T-019",
+    "hour": 0,
+    "cpuPercent": 7.8,
+    "memoryPercent": 10.3,
+    "apiCallsPerMinute": 101
+  },
+  {
+    "id": "u-T-019-h01",
+    "tenantId": "T-019",
+    "hour": 1,
+    "cpuPercent": 8.0,
+    "memoryPercent": 14.0,
+    "apiCallsPerMinute": 102
+  },
+  {
+    "id": "u-T-019-h02",
+    "tenantId": "T-019",
+    "hour": 2,
+    "cpuPercent": 6.2,
+    "memoryPercent": 9.3,
+    "apiCallsPerMinute": 119
+  },
+  {
+    "id": "u-T-019-h03",
+    "tenantId": "T-019",
+    "hour": 3,
+    "cpuPercent": 8.2,
+    "memoryPercent": 14.3,
+    "apiCallsPerMinute": 106
+  },
+  {
+    "id": "u-T-019-h04",
+    "tenantId": "T-019",
+    "hour": 4,
+    "cpuPercent": 9.0,
+    "memoryPercent": 13.3,
+    "apiCallsPerMinute": 121
+  },
+  {
+    "id": "u-T-019-h05",
+    "tenantId": "T-019",
+    "hour": 5,
+    "cpuPercent": 9.0,
+    "memoryPercent": 13.4,
+    "apiCallsPerMinute": 139
+  },
+  {
+    "id": "u-T-019-h06",
+    "tenantId": "T-019",
+    "hour": 6,
+    "cpuPercent": 7.7,
+    "memoryPercent": 9.7,
+    "apiCallsPerMinute": 115
+  },
+  {
+    "id": "u-T-019-h07",
+    "tenantId": "T-019",
+    "hour": 7,
+    "cpuPercent": 14.8,
+    "memoryPercent": 20.5,
+    "apiCallsPerMinute": 162
+  },
+  {
+    "id": "u-T-019-h08",
+    "tenantId": "T-019",
+    "hour": 8,
+    "cpuPercent": 19.4,
+    "memoryPercent": 26.6,
+    "apiCallsPerMinute": 203
+  },
+  {
+    "id": "u-T-019-h09",
+    "tenantId": "T-019",
+    "hour": 9,
+    "cpuPercent": 31.9,
+    "memoryPercent": 41.7,
+    "apiCallsPerMinute": 318
+  },
+  {
+    "id": "u-T-019-h10",
+    "tenantId": "T-019",
+    "hour": 10,
+    "cpuPercent": 30.1,
+    "memoryPercent": 37.9,
+    "apiCallsPerMinute": 341
+  },
+  {
+    "id": "u-T-019-h11",
+    "tenantId": "T-019",
+    "hour": 11,
+    "cpuPercent": 31.8,
+    "memoryPercent": 42.8,
+    "apiCallsPerMinute": 300
+  },
+  {
+    "id": "u-T-019-h12",
+    "tenantId": "T-019",
+    "hour": 12,
+    "cpuPercent": 31.9,
+    "memoryPercent": 42.3,
+    "apiCallsPerMinute": 337
+  },
+  {
+    "id": "u-T-019-h13",
+    "tenantId": "T-019",
+    "hour": 13,
+    "cpuPercent": 33.0,
+    "memoryPercent": 42.6,
+    "apiCallsPerMinute": 353
+  },
+  {
+    "id": "u-T-019-h14",
+    "tenantId": "T-019",
+    "hour": 14,
+    "cpuPercent": 27.7,
+    "memoryPercent": 37.1,
+    "apiCallsPerMinute": 281
+  },
+  {
+    "id": "u-T-019-h15",
+    "tenantId": "T-019",
+    "hour": 15,
+    "cpuPercent": 31.1,
+    "memoryPercent": 40.4,
+    "apiCallsPerMinute": 330
+  },
+  {
+    "id": "u-T-019-h16",
+    "tenantId": "T-019",
+    "hour": 16,
+    "cpuPercent": 33.6,
+    "memoryPercent": 44.2,
+    "apiCallsPerMinute": 347
+  },
+  {
+    "id": "u-T-019-h17",
+    "tenantId": "T-019",
+    "hour": 17,
+    "cpuPercent": 31.4,
+    "memoryPercent": 40.9,
+    "apiCallsPerMinute": 307
+  },
+  {
+    "id": "u-T-019-h18",
+    "tenantId": "T-019",
+    "hour": 18,
+    "cpuPercent": 19.4,
+    "memoryPercent": 27.0,
+    "apiCallsPerMinute": 214
+  },
+  {
+    "id": "u-T-019-h19",
+    "tenantId": "T-019",
+    "hour": 19,
+    "cpuPercent": 18.7,
+    "memoryPercent": 25.2,
+    "apiCallsPerMinute": 193
+  },
+  {
+    "id": "u-T-019-h20",
+    "tenantId": "T-019",
+    "hour": 20,
+    "cpuPercent": 16.8,
+    "memoryPercent": 22.4,
+    "apiCallsPerMinute": 220
+  },
+  {
+    "id": "u-T-019-h21",
+    "tenantId": "T-019",
+    "hour": 21,
+    "cpuPercent": 15.3,
+    "memoryPercent": 22.9,
+    "apiCallsPerMinute": 177
+  },
+  {
+    "id": "u-T-019-h22",
+    "tenantId": "T-019",
+    "hour": 22,
+    "cpuPercent": 13.3,
+    "memoryPercent": 20.2,
+    "apiCallsPerMinute": 156
+  },
+  {
+    "id": "u-T-019-h23",
+    "tenantId": "T-019",
+    "hour": 23,
+    "cpuPercent": 14.1,
+    "memoryPercent": 19.1,
+    "apiCallsPerMinute": 141
+  },
+  {
+    "id": "u-T-020-h00",
+    "tenantId": "T-020",
+    "hour": 0,
+    "cpuPercent": 7.6,
+    "memoryPercent": 13.3,
+    "apiCallsPerMinute": 97
+  },
+  {
+    "id": "u-T-020-h01",
+    "tenantId": "T-020",
+    "hour": 1,
+    "cpuPercent": 6.7,
+    "memoryPercent": 8.4,
+    "apiCallsPerMinute": 103
+  },
+  {
+    "id": "u-T-020-h02",
+    "tenantId": "T-020",
+    "hour": 2,
+    "cpuPercent": 8.5,
+    "memoryPercent": 14.4,
+    "apiCallsPerMinute": 129
+  },
+  {
+    "id": "u-T-020-h03",
+    "tenantId": "T-020",
+    "hour": 3,
+    "cpuPercent": 8.7,
+    "memoryPercent": 13.7,
+    "apiCallsPerMinute": 136
+  },
+  {
+    "id": "u-T-020-h04",
+    "tenantId": "T-020",
+    "hour": 4,
+    "cpuPercent": 7.6,
+    "memoryPercent": 9.8,
+    "apiCallsPerMinute": 90
+  },
+  {
+    "id": "u-T-020-h05",
+    "tenantId": "T-020",
+    "hour": 5,
+    "cpuPercent": 6.7,
+    "memoryPercent": 11.9,
+    "apiCallsPerMinute": 71
+  },
+  {
+    "id": "u-T-020-h06",
+    "tenantId": "T-020",
+    "hour": 6,
+    "cpuPercent": 7.2,
+    "memoryPercent": 10.5,
+    "apiCallsPerMinute": 123
+  },
+  {
+    "id": "u-T-020-h07",
+    "tenantId": "T-020",
+    "hour": 7,
+    "cpuPercent": 14.0,
+    "memoryPercent": 19.8,
+    "apiCallsPerMinute": 141
+  },
+  {
+    "id": "u-T-020-h08",
+    "tenantId": "T-020",
+    "hour": 8,
+    "cpuPercent": 20.1,
+    "memoryPercent": 29.1,
+    "apiCallsPerMinute": 233
+  },
+  {
+    "id": "u-T-020-h09",
+    "tenantId": "T-020",
+    "hour": 9,
+    "cpuPercent": 32.4,
+    "memoryPercent": 43.0,
+    "apiCallsPerMinute": 306
+  },
+  {
+    "id": "u-T-020-h10",
+    "tenantId": "T-020",
+    "hour": 10,
+    "cpuPercent": 34.5,
+    "memoryPercent": 43.7,
+    "apiCallsPerMinute": 361
+  },
+  {
+    "id": "u-T-020-h11",
+    "tenantId": "T-020",
+    "hour": 11,
+    "cpuPercent": 31.8,
+    "memoryPercent": 42.0,
+    "apiCallsPerMinute": 334
+  },
+  {
+    "id": "u-T-020-h12",
+    "tenantId": "T-020",
+    "hour": 12,
+    "cpuPercent": 31.1,
+    "memoryPercent": 39.5,
+    "apiCallsPerMinute": 344
+  },
+  {
+    "id": "u-T-020-h13",
+    "tenantId": "T-020",
+    "hour": 13,
+    "cpuPercent": 27.9,
+    "memoryPercent": 34.3,
+    "apiCallsPerMinute": 271
+  },
+  {
+    "id": "u-T-020-h14",
+    "tenantId": "T-020",
+    "hour": 14,
+    "cpuPercent": 31.1,
+    "memoryPercent": 39.1,
+    "apiCallsPerMinute": 346
+  },
+  {
+    "id": "u-T-020-h15",
+    "tenantId": "T-020",
+    "hour": 15,
+    "cpuPercent": 34.7,
+    "memoryPercent": 42.9,
+    "apiCallsPerMinute": 360
+  },
+  {
+    "id": "u-T-020-h16",
+    "tenantId": "T-020",
+    "hour": 16,
+    "cpuPercent": 30.6,
+    "memoryPercent": 38.3,
+    "apiCallsPerMinute": 317
+  },
+  {
+    "id": "u-T-020-h17",
+    "tenantId": "T-020",
+    "hour": 17,
+    "cpuPercent": 30.5,
+    "memoryPercent": 41.3,
+    "apiCallsPerMinute": 293
+  },
+  {
+    "id": "u-T-020-h18",
+    "tenantId": "T-020",
+    "hour": 18,
+    "cpuPercent": 21.0,
+    "memoryPercent": 28.8,
+    "apiCallsPerMinute": 235
+  },
+  {
+    "id": "u-T-020-h19",
+    "tenantId": "T-020",
+    "hour": 19,
+    "cpuPercent": 20.0,
+    "memoryPercent": 26.8,
+    "apiCallsPerMinute": 239
+  },
+  {
+    "id": "u-T-020-h20",
+    "tenantId": "T-020",
+    "hour": 20,
+    "cpuPercent": 16.0,
+    "memoryPercent": 19.5,
+    "apiCallsPerMinute": 192
+  },
+  {
+    "id": "u-T-020-h21",
+    "tenantId": "T-020",
+    "hour": 21,
+    "cpuPercent": 16.1,
+    "memoryPercent": 22.6,
+    "apiCallsPerMinute": 201
+  },
+  {
+    "id": "u-T-020-h22",
+    "tenantId": "T-020",
+    "hour": 22,
+    "cpuPercent": 14.1,
+    "memoryPercent": 20.1,
+    "apiCallsPerMinute": 167
+  },
+  {
+    "id": "u-T-020-h23",
+    "tenantId": "T-020",
+    "hour": 23,
+    "cpuPercent": 13.2,
+    "memoryPercent": 17.3,
+    "apiCallsPerMinute": 186
+  },
+  {
+    "id": "u-T-021-h00",
+    "tenantId": "T-021",
+    "hour": 0,
+    "cpuPercent": 7.0,
+    "memoryPercent": 12.4,
+    "apiCallsPerMinute": 113
+  },
+  {
+    "id": "u-T-021-h01",
+    "tenantId": "T-021",
+    "hour": 1,
+    "cpuPercent": 6.6,
+    "memoryPercent": 8.2,
+    "apiCallsPerMinute": 72
+  },
+  {
+    "id": "u-T-021-h02",
+    "tenantId": "T-021",
+    "hour": 2,
+    "cpuPercent": 7.1,
+    "memoryPercent": 11.0,
+    "apiCallsPerMinute": 86
+  },
+  {
+    "id": "u-T-021-h03",
+    "tenantId": "T-021",
+    "hour": 3,
+    "cpuPercent": 7.8,
+    "memoryPercent": 10.9,
+    "apiCallsPerMinute": 123
+  },
+  {
+    "id": "u-T-021-h04",
+    "tenantId": "T-021",
+    "hour": 4,
+    "cpuPercent": 8.3,
+    "memoryPercent": 14.3,
+    "apiCallsPerMinute": 143
+  },
+  {
+    "id": "u-T-021-h05",
+    "tenantId": "T-021",
+    "hour": 5,
+    "cpuPercent": 6.6,
+    "memoryPercent": 9.8,
+    "apiCallsPerMinute": 103
+  },
+  {
+    "id": "u-T-021-h06",
+    "tenantId": "T-021",
+    "hour": 6,
+    "cpuPercent": 6.5,
+    "memoryPercent": 10.1,
+    "apiCallsPerMinute": 84
+  },
+  {
+    "id": "u-T-021-h07",
+    "tenantId": "T-021",
+    "hour": 7,
+    "cpuPercent": 13.1,
+    "memoryPercent": 16.1,
+    "apiCallsPerMinute": 144
+  },
+  {
+    "id": "u-T-021-h08",
+    "tenantId": "T-021",
+    "hour": 8,
+    "cpuPercent": 20.2,
+    "memoryPercent": 27.4,
+    "apiCallsPerMinute": 207
+  },
+  {
+    "id": "u-T-021-h09",
+    "tenantId": "T-021",
+    "hour": 9,
+    "cpuPercent": 32.4,
+    "memoryPercent": 40.5,
+    "apiCallsPerMinute": 336
+  },
+  {
+    "id": "u-T-021-h10",
+    "tenantId": "T-021",
+    "hour": 10,
+    "cpuPercent": 31.2,
+    "memoryPercent": 39.9,
+    "apiCallsPerMinute": 321
+  },
+  {
+    "id": "u-T-021-h11",
+    "tenantId": "T-021",
+    "hour": 11,
+    "cpuPercent": 30.8,
+    "memoryPercent": 37.1,
+    "apiCallsPerMinute": 344
+  },
+  {
+    "id": "u-T-021-h12",
+    "tenantId": "T-021",
+    "hour": 12,
+    "cpuPercent": 32.9,
+    "memoryPercent": 40.5,
+    "apiCallsPerMinute": 326
+  },
+  {
+    "id": "u-T-021-h13",
+    "tenantId": "T-021",
+    "hour": 13,
+    "cpuPercent": 29.0,
+    "memoryPercent": 39.2,
+    "apiCallsPerMinute": 309
+  },
+  {
+    "id": "u-T-021-h14",
+    "tenantId": "T-021",
+    "hour": 14,
+    "cpuPercent": 31.4,
+    "memoryPercent": 41.9,
+    "apiCallsPerMinute": 318
+  },
+  {
+    "id": "u-T-021-h15",
+    "tenantId": "T-021",
+    "hour": 15,
+    "cpuPercent": 34.2,
+    "memoryPercent": 44.9,
+    "apiCallsPerMinute": 339
+  },
+  {
+    "id": "u-T-021-h16",
+    "tenantId": "T-021",
+    "hour": 16,
+    "cpuPercent": 31.1,
+    "memoryPercent": 38.3,
+    "apiCallsPerMinute": 323
+  },
+  {
+    "id": "u-T-021-h17",
+    "tenantId": "T-021",
+    "hour": 17,
+    "cpuPercent": 29.1,
+    "memoryPercent": 38.7,
+    "apiCallsPerMinute": 288
+  },
+  {
+    "id": "u-T-021-h18",
+    "tenantId": "T-021",
+    "hour": 18,
+    "cpuPercent": 22.0,
+    "memoryPercent": 29.8,
+    "apiCallsPerMinute": 214
+  },
+  {
+    "id": "u-T-021-h19",
+    "tenantId": "T-021",
+    "hour": 19,
+    "cpuPercent": 20.4,
+    "memoryPercent": 26.4,
+    "apiCallsPerMinute": 241
+  },
+  {
+    "id": "u-T-021-h20",
+    "tenantId": "T-021",
+    "hour": 20,
+    "cpuPercent": 16.9,
+    "memoryPercent": 25.0,
+    "apiCallsPerMinute": 207
+  },
+  {
+    "id": "u-T-021-h21",
+    "tenantId": "T-021",
+    "hour": 21,
+    "cpuPercent": 15.0,
+    "memoryPercent": 20.5,
+    "apiCallsPerMinute": 174
+  },
+  {
+    "id": "u-T-021-h22",
+    "tenantId": "T-021",
+    "hour": 22,
+    "cpuPercent": 13.0,
+    "memoryPercent": 16.3,
+    "apiCallsPerMinute": 146
+  },
+  {
+    "id": "u-T-021-h23",
+    "tenantId": "T-021",
+    "hour": 23,
+    "cpuPercent": 12.7,
+    "memoryPercent": 17.6,
+    "apiCallsPerMinute": 160
+  },
+  {
+    "id": "u-T-022-h00",
+    "tenantId": "T-022",
+    "hour": 0,
+    "cpuPercent": 7.1,
+    "memoryPercent": 10.2,
+    "apiCallsPerMinute": 111
+  },
+  {
+    "id": "u-T-022-h01",
+    "tenantId": "T-022",
+    "hour": 1,
+    "cpuPercent": 6.2,
+    "memoryPercent": 12.4,
+    "apiCallsPerMinute": 110
+  },
+  {
+    "id": "u-T-022-h02",
+    "tenantId": "T-022",
+    "hour": 2,
+    "cpuPercent": 6.8,
+    "memoryPercent": 9.8,
+    "apiCallsPerMinute": 120
+  },
+  {
+    "id": "u-T-022-h03",
+    "tenantId": "T-022",
+    "hour": 3,
+    "cpuPercent": 7.6,
+    "memoryPercent": 12.7,
+    "apiCallsPerMinute": 96
+  },
+  {
+    "id": "u-T-022-h04",
+    "tenantId": "T-022",
+    "hour": 4,
+    "cpuPercent": 8.6,
+    "memoryPercent": 12.2,
+    "apiCallsPerMinute": 127
+  },
+  {
+    "id": "u-T-022-h05",
+    "tenantId": "T-022",
+    "hour": 5,
+    "cpuPercent": 9.2,
+    "memoryPercent": 14.0,
+    "apiCallsPerMinute": 140
+  },
+  {
+    "id": "u-T-022-h06",
+    "tenantId": "T-022",
+    "hour": 6,
+    "cpuPercent": 7.8,
+    "memoryPercent": 12.8,
+    "apiCallsPerMinute": 81
+  },
+  {
+    "id": "u-T-022-h07",
+    "tenantId": "T-022",
+    "hour": 7,
+    "cpuPercent": 13.9,
+    "memoryPercent": 21.5,
+    "apiCallsPerMinute": 181
+  },
+  {
+    "id": "u-T-022-h08",
+    "tenantId": "T-022",
+    "hour": 8,
+    "cpuPercent": 21.7,
+    "memoryPercent": 28.9,
+    "apiCallsPerMinute": 248
+  },
+  {
+    "id": "u-T-022-h09",
+    "tenantId": "T-022",
+    "hour": 9,
+    "cpuPercent": 31.3,
+    "memoryPercent": 40.7,
+    "apiCallsPerMinute": 328
+  },
+  {
+    "id": "u-T-022-h10",
+    "tenantId": "T-022",
+    "hour": 10,
+    "cpuPercent": 32.6,
+    "memoryPercent": 42.6,
+    "apiCallsPerMinute": 305
+  },
+  {
+    "id": "u-T-022-h11",
+    "tenantId": "T-022",
+    "hour": 11,
+    "cpuPercent": 33.1,
+    "memoryPercent": 39.8,
+    "apiCallsPerMinute": 326
+  },
+  {
+    "id": "u-T-022-h12",
+    "tenantId": "T-022",
+    "hour": 12,
+    "cpuPercent": 30.5,
+    "memoryPercent": 38.6,
+    "apiCallsPerMinute": 330
+  },
+  {
+    "id": "u-T-022-h13",
+    "tenantId": "T-022",
+    "hour": 13,
+    "cpuPercent": 35.3,
+    "memoryPercent": 46.0,
+    "apiCallsPerMinute": 331
+  },
+  {
+    "id": "u-T-022-h14",
+    "tenantId": "T-022",
+    "hour": 14,
+    "cpuPercent": 28.9,
+    "memoryPercent": 36.3,
+    "apiCallsPerMinute": 310
+  },
+  {
+    "id": "u-T-022-h15",
+    "tenantId": "T-022",
+    "hour": 15,
+    "cpuPercent": 31.4,
+    "memoryPercent": 38.5,
+    "apiCallsPerMinute": 347
+  },
+  {
+    "id": "u-T-022-h16",
+    "tenantId": "T-022",
+    "hour": 16,
+    "cpuPercent": 30.5,
+    "memoryPercent": 40.5,
+    "apiCallsPerMinute": 327
+  },
+  {
+    "id": "u-T-022-h17",
+    "tenantId": "T-022",
+    "hour": 17,
+    "cpuPercent": 33.2,
+    "memoryPercent": 42.9,
+    "apiCallsPerMinute": 320
+  },
+  {
+    "id": "u-T-022-h18",
+    "tenantId": "T-022",
+    "hour": 18,
+    "cpuPercent": 20.0,
+    "memoryPercent": 26.8,
+    "apiCallsPerMinute": 203
+  },
+  {
+    "id": "u-T-022-h19",
+    "tenantId": "T-022",
+    "hour": 19,
+    "cpuPercent": 20.6,
+    "memoryPercent": 26.2,
+    "apiCallsPerMinute": 212
+  },
+  {
+    "id": "u-T-022-h20",
+    "tenantId": "T-022",
+    "hour": 20,
+    "cpuPercent": 16.8,
+    "memoryPercent": 23.6,
+    "apiCallsPerMinute": 179
+  },
+  {
+    "id": "u-T-022-h21",
+    "tenantId": "T-022",
+    "hour": 21,
+    "cpuPercent": 15.6,
+    "memoryPercent": 23.4,
+    "apiCallsPerMinute": 198
+  },
+  {
+    "id": "u-T-022-h22",
+    "tenantId": "T-022",
+    "hour": 22,
+    "cpuPercent": 13.8,
+    "memoryPercent": 17.2,
+    "apiCallsPerMinute": 175
+  },
+  {
+    "id": "u-T-022-h23",
+    "tenantId": "T-022",
+    "hour": 23,
+    "cpuPercent": 12.6,
+    "memoryPercent": 20.0,
+    "apiCallsPerMinute": 172
+  },
+  {
+    "id": "u-T-023-h00",
+    "tenantId": "T-023",
+    "hour": 0,
+    "cpuPercent": 8.4,
+    "memoryPercent": 14.1,
+    "apiCallsPerMinute": 102
+  },
+  {
+    "id": "u-T-023-h01",
+    "tenantId": "T-023",
+    "hour": 1,
+    "cpuPercent": 6.5,
+    "memoryPercent": 11.4,
+    "apiCallsPerMinute": 89
+  },
+  {
+    "id": "u-T-023-h02",
+    "tenantId": "T-023",
+    "hour": 2,
+    "cpuPercent": 7.1,
+    "memoryPercent": 9.8,
+    "apiCallsPerMinute": 102
+  },
+  {
+    "id": "u-T-023-h03",
+    "tenantId": "T-023",
+    "hour": 3,
+    "cpuPercent": 6.5,
+    "memoryPercent": 10.5,
+    "apiCallsPerMinute": 124
+  },
+  {
+    "id": "u-T-023-h04",
+    "tenantId": "T-023",
+    "hour": 4,
+    "cpuPercent": 8.1,
+    "memoryPercent": 10.5,
+    "apiCallsPerMinute": 120
+  },
+  {
+    "id": "u-T-023-h05",
+    "tenantId": "T-023",
+    "hour": 5,
+    "cpuPercent": 8.0,
+    "memoryPercent": 10.8,
+    "apiCallsPerMinute": 121
+  },
+  {
+    "id": "u-T-023-h06",
+    "tenantId": "T-023",
+    "hour": 6,
+    "cpuPercent": 7.1,
+    "memoryPercent": 11.7,
+    "apiCallsPerMinute": 76
+  },
+  {
+    "id": "u-T-023-h07",
+    "tenantId": "T-023",
+    "hour": 7,
+    "cpuPercent": 13.5,
+    "memoryPercent": 19.8,
+    "apiCallsPerMinute": 137
+  },
+  {
+    "id": "u-T-023-h08",
+    "tenantId": "T-023",
+    "hour": 8,
+    "cpuPercent": 21.3,
+    "memoryPercent": 25.6,
+    "apiCallsPerMinute": 234
+  },
+  {
+    "id": "u-T-023-h09",
+    "tenantId": "T-023",
+    "hour": 9,
+    "cpuPercent": 33.3,
+    "memoryPercent": 44.7,
+    "apiCallsPerMinute": 362
+  },
+  {
+    "id": "u-T-023-h10",
+    "tenantId": "T-023",
+    "hour": 10,
+    "cpuPercent": 30.3,
+    "memoryPercent": 41.1,
+    "apiCallsPerMinute": 301
+  },
+  {
+    "id": "u-T-023-h11",
+    "tenantId": "T-023",
+    "hour": 11,
+    "cpuPercent": 33.3,
+    "memoryPercent": 40.4,
+    "apiCallsPerMinute": 344
+  },
+  {
+    "id": "u-T-023-h12",
+    "tenantId": "T-023",
+    "hour": 12,
+    "cpuPercent": 32.1,
+    "memoryPercent": 43.3,
+    "apiCallsPerMinute": 354
+  },
+  {
+    "id": "u-T-023-h13",
+    "tenantId": "T-023",
+    "hour": 13,
+    "cpuPercent": 30.7,
+    "memoryPercent": 37.7,
+    "apiCallsPerMinute": 341
+  },
+  {
+    "id": "u-T-023-h14",
+    "tenantId": "T-023",
+    "hour": 14,
+    "cpuPercent": 33.7,
+    "memoryPercent": 42.9,
+    "apiCallsPerMinute": 369
+  },
+  {
+    "id": "u-T-023-h15",
+    "tenantId": "T-023",
+    "hour": 15,
+    "cpuPercent": 35.1,
+    "memoryPercent": 46.5,
+    "apiCallsPerMinute": 326
+  },
+  {
+    "id": "u-T-023-h16",
+    "tenantId": "T-023",
+    "hour": 16,
+    "cpuPercent": 30.5,
+    "memoryPercent": 41.5,
+    "apiCallsPerMinute": 301
+  },
+  {
+    "id": "u-T-023-h17",
+    "tenantId": "T-023",
+    "hour": 17,
+    "cpuPercent": 34.1,
+    "memoryPercent": 43.4,
+    "apiCallsPerMinute": 372
+  },
+  {
+    "id": "u-T-023-h18",
+    "tenantId": "T-023",
+    "hour": 18,
+    "cpuPercent": 21.5,
+    "memoryPercent": 28.1,
+    "apiCallsPerMinute": 214
+  },
+  {
+    "id": "u-T-023-h19",
+    "tenantId": "T-023",
+    "hour": 19,
+    "cpuPercent": 17.7,
+    "memoryPercent": 22.1,
+    "apiCallsPerMinute": 196
+  },
+  {
+    "id": "u-T-023-h20",
+    "tenantId": "T-023",
+    "hour": 20,
+    "cpuPercent": 16.6,
+    "memoryPercent": 20.9,
+    "apiCallsPerMinute": 203
+  },
+  {
+    "id": "u-T-023-h21",
+    "tenantId": "T-023",
+    "hour": 21,
+    "cpuPercent": 16.7,
+    "memoryPercent": 22.9,
+    "apiCallsPerMinute": 205
+  },
+  {
+    "id": "u-T-023-h22",
+    "tenantId": "T-023",
+    "hour": 22,
+    "cpuPercent": 13.3,
+    "memoryPercent": 20.2,
+    "apiCallsPerMinute": 183
+  },
+  {
+    "id": "u-T-023-h23",
+    "tenantId": "T-023",
+    "hour": 23,
+    "cpuPercent": 13.7,
+    "memoryPercent": 19.1,
+    "apiCallsPerMinute": 138
+  },
+  {
+    "id": "u-T-024-h00",
+    "tenantId": "T-024",
+    "hour": 0,
+    "cpuPercent": 7.7,
+    "memoryPercent": 10.2,
+    "apiCallsPerMinute": 87
+  },
+  {
+    "id": "u-T-024-h01",
+    "tenantId": "T-024",
+    "hour": 1,
+    "cpuPercent": 6.8,
+    "memoryPercent": 9.4,
+    "apiCallsPerMinute": 87
+  },
+  {
+    "id": "u-T-024-h02",
+    "tenantId": "T-024",
+    "hour": 2,
+    "cpuPercent": 6.7,
+    "memoryPercent": 11.8,
+    "apiCallsPerMinute": 127
+  },
+  {
+    "id": "u-T-024-h03",
+    "tenantId": "T-024",
+    "hour": 3,
+    "cpuPercent": 7.1,
+    "memoryPercent": 12.1,
+    "apiCallsPerMinute": 74
+  },
+  {
+    "id": "u-T-024-h04",
+    "tenantId": "T-024",
+    "hour": 4,
+    "cpuPercent": 8.3,
+    "memoryPercent": 13.4,
+    "apiCallsPerMinute": 88
+  },
+  {
+    "id": "u-T-024-h05",
+    "tenantId": "T-024",
+    "hour": 5,
+    "cpuPercent": 6.8,
+    "memoryPercent": 9.7,
+    "apiCallsPerMinute": 95
+  },
+  {
+    "id": "u-T-024-h06",
+    "tenantId": "T-024",
+    "hour": 6,
+    "cpuPercent": 7.2,
+    "memoryPercent": 13.1,
+    "apiCallsPerMinute": 117
+  },
+  {
+    "id": "u-T-024-h07",
+    "tenantId": "T-024",
+    "hour": 7,
+    "cpuPercent": 13.7,
+    "memoryPercent": 17.0,
+    "apiCallsPerMinute": 188
+  },
+  {
+    "id": "u-T-024-h08",
+    "tenantId": "T-024",
+    "hour": 8,
+    "cpuPercent": 20.7,
+    "memoryPercent": 27.9,
+    "apiCallsPerMinute": 209
+  },
+  {
+    "id": "u-T-024-h09",
+    "tenantId": "T-024",
+    "hour": 9,
+    "cpuPercent": 29.4,
+    "memoryPercent": 39.0,
+    "apiCallsPerMinute": 311
+  },
+  {
+    "id": "u-T-024-h10",
+    "tenantId": "T-024",
+    "hour": 10,
+    "cpuPercent": 32.2,
+    "memoryPercent": 41.0,
+    "apiCallsPerMinute": 332
+  },
+  {
+    "id": "u-T-024-h11",
+    "tenantId": "T-024",
+    "hour": 11,
+    "cpuPercent": 32.6,
+    "memoryPercent": 40.4,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-024-h12",
+    "tenantId": "T-024",
+    "hour": 12,
+    "cpuPercent": 33.4,
+    "memoryPercent": 42.3,
+    "apiCallsPerMinute": 352
+  },
+  {
+    "id": "u-T-024-h13",
+    "tenantId": "T-024",
+    "hour": 13,
+    "cpuPercent": 30.3,
+    "memoryPercent": 36.7,
+    "apiCallsPerMinute": 315
+  },
+  {
+    "id": "u-T-024-h14",
+    "tenantId": "T-024",
+    "hour": 14,
+    "cpuPercent": 32.8,
+    "memoryPercent": 40.1,
+    "apiCallsPerMinute": 324
+  },
+  {
+    "id": "u-T-024-h15",
+    "tenantId": "T-024",
+    "hour": 15,
+    "cpuPercent": 31.5,
+    "memoryPercent": 38.8,
+    "apiCallsPerMinute": 328
+  },
+  {
+    "id": "u-T-024-h16",
+    "tenantId": "T-024",
+    "hour": 16,
+    "cpuPercent": 30.2,
+    "memoryPercent": 40.3,
+    "apiCallsPerMinute": 309
+  },
+  {
+    "id": "u-T-024-h17",
+    "tenantId": "T-024",
+    "hour": 17,
+    "cpuPercent": 32.5,
+    "memoryPercent": 39.3,
+    "apiCallsPerMinute": 330
+  },
+  {
+    "id": "u-T-024-h18",
+    "tenantId": "T-024",
+    "hour": 18,
+    "cpuPercent": 22.1,
+    "memoryPercent": 30.2,
+    "apiCallsPerMinute": 232
+  },
+  {
+    "id": "u-T-024-h19",
+    "tenantId": "T-024",
+    "hour": 19,
+    "cpuPercent": 20.6,
+    "memoryPercent": 28.4,
+    "apiCallsPerMinute": 229
+  },
+  {
+    "id": "u-T-024-h20",
+    "tenantId": "T-024",
+    "hour": 20,
+    "cpuPercent": 16.7,
+    "memoryPercent": 21.7,
+    "apiCallsPerMinute": 163
+  },
+  {
+    "id": "u-T-024-h21",
+    "tenantId": "T-024",
+    "hour": 21,
+    "cpuPercent": 17.9,
+    "memoryPercent": 26.2,
+    "apiCallsPerMinute": 175
+  },
+  {
+    "id": "u-T-024-h22",
+    "tenantId": "T-024",
+    "hour": 22,
+    "cpuPercent": 16.2,
+    "memoryPercent": 19.5,
+    "apiCallsPerMinute": 179
+  },
+  {
+    "id": "u-T-024-h23",
+    "tenantId": "T-024",
+    "hour": 23,
+    "cpuPercent": 14.1,
+    "memoryPercent": 20.7,
+    "apiCallsPerMinute": 195
+  },
+  {
+    "id": "u-T-025-h00",
+    "tenantId": "T-025",
+    "hour": 0,
+    "cpuPercent": 7.6,
+    "memoryPercent": 11.2,
+    "apiCallsPerMinute": 137
+  },
+  {
+    "id": "u-T-025-h01",
+    "tenantId": "T-025",
+    "hour": 1,
+    "cpuPercent": 6.9,
+    "memoryPercent": 12.6,
+    "apiCallsPerMinute": 126
+  },
+  {
+    "id": "u-T-025-h02",
+    "tenantId": "T-025",
+    "hour": 2,
+    "cpuPercent": 7.0,
+    "memoryPercent": 11.9,
+    "apiCallsPerMinute": 112
+  },
+  {
+    "id": "u-T-025-h03",
+    "tenantId": "T-025",
+    "hour": 3,
+    "cpuPercent": 7.7,
+    "memoryPercent": 12.5,
+    "apiCallsPerMinute": 99
+  },
+  {
+    "id": "u-T-025-h04",
+    "tenantId": "T-025",
+    "hour": 4,
+    "cpuPercent": 6.7,
+    "memoryPercent": 10.8,
+    "apiCallsPerMinute": 102
+  },
+  {
+    "id": "u-T-025-h05",
+    "tenantId": "T-025",
+    "hour": 5,
+    "cpuPercent": 8.5,
+    "memoryPercent": 11.3,
+    "apiCallsPerMinute": 86
+  },
+  {
+    "id": "u-T-025-h06",
+    "tenantId": "T-025",
+    "hour": 6,
+    "cpuPercent": 5.7,
+    "memoryPercent": 8.3,
+    "apiCallsPerMinute": 101
+  },
+  {
+    "id": "u-T-025-h07",
+    "tenantId": "T-025",
+    "hour": 7,
+    "cpuPercent": 14.2,
+    "memoryPercent": 19.7,
+    "apiCallsPerMinute": 186
+  },
+  {
+    "id": "u-T-025-h08",
+    "tenantId": "T-025",
+    "hour": 8,
+    "cpuPercent": 20.2,
+    "memoryPercent": 25.9,
+    "apiCallsPerMinute": 208
+  },
+  {
+    "id": "u-T-025-h09",
+    "tenantId": "T-025",
+    "hour": 9,
+    "cpuPercent": 35.1,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 374
+  },
+  {
+    "id": "u-T-025-h10",
+    "tenantId": "T-025",
+    "hour": 10,
+    "cpuPercent": 32.3,
+    "memoryPercent": 43.2,
+    "apiCallsPerMinute": 301
+  },
+  {
+    "id": "u-T-025-h11",
+    "tenantId": "T-025",
+    "hour": 11,
+    "cpuPercent": 29.1,
+    "memoryPercent": 35.1,
+    "apiCallsPerMinute": 308
+  },
+  {
+    "id": "u-T-025-h12",
+    "tenantId": "T-025",
+    "hour": 12,
+    "cpuPercent": 31.8,
+    "memoryPercent": 41.8,
+    "apiCallsPerMinute": 319
+  },
+  {
+    "id": "u-T-025-h13",
+    "tenantId": "T-025",
+    "hour": 13,
+    "cpuPercent": 29.6,
+    "memoryPercent": 39.9,
+    "apiCallsPerMinute": 280
+  },
+  {
+    "id": "u-T-025-h14",
+    "tenantId": "T-025",
+    "hour": 14,
+    "cpuPercent": 31.4,
+    "memoryPercent": 41.7,
+    "apiCallsPerMinute": 336
+  },
+  {
+    "id": "u-T-025-h15",
+    "tenantId": "T-025",
+    "hour": 15,
+    "cpuPercent": 31.3,
+    "memoryPercent": 40.9,
+    "apiCallsPerMinute": 310
+  },
+  {
+    "id": "u-T-025-h16",
+    "tenantId": "T-025",
+    "hour": 16,
+    "cpuPercent": 29.8,
+    "memoryPercent": 39.1,
+    "apiCallsPerMinute": 291
+  },
+  {
+    "id": "u-T-025-h17",
+    "tenantId": "T-025",
+    "hour": 17,
+    "cpuPercent": 29.5,
+    "memoryPercent": 40.2,
+    "apiCallsPerMinute": 328
+  },
+  {
+    "id": "u-T-025-h18",
+    "tenantId": "T-025",
+    "hour": 18,
+    "cpuPercent": 22.1,
+    "memoryPercent": 29.6,
+    "apiCallsPerMinute": 234
+  },
+  {
+    "id": "u-T-025-h19",
+    "tenantId": "T-025",
+    "hour": 19,
+    "cpuPercent": 19.3,
+    "memoryPercent": 28.0,
+    "apiCallsPerMinute": 239
+  },
+  {
+    "id": "u-T-025-h20",
+    "tenantId": "T-025",
+    "hour": 20,
+    "cpuPercent": 18.2,
+    "memoryPercent": 25.8,
+    "apiCallsPerMinute": 193
+  },
+  {
+    "id": "u-T-025-h21",
+    "tenantId": "T-025",
+    "hour": 21,
+    "cpuPercent": 15.9,
+    "memoryPercent": 19.8,
+    "apiCallsPerMinute": 175
+  },
+  {
+    "id": "u-T-025-h22",
+    "tenantId": "T-025",
+    "hour": 22,
+    "cpuPercent": 15.4,
+    "memoryPercent": 20.8,
+    "apiCallsPerMinute": 199
+  },
+  {
+    "id": "u-T-025-h23",
+    "tenantId": "T-025",
+    "hour": 23,
+    "cpuPercent": 12.4,
+    "memoryPercent": 18.5,
+    "apiCallsPerMinute": 170
+  },
+  {
+    "id": "u-T-026-h00",
+    "tenantId": "T-026",
+    "hour": 0,
+    "cpuPercent": 9.0,
+    "memoryPercent": 13.6,
+    "apiCallsPerMinute": 148
+  },
+  {
+    "id": "u-T-026-h01",
+    "tenantId": "T-026",
+    "hour": 1,
+    "cpuPercent": 8.1,
+    "memoryPercent": 10.4,
+    "apiCallsPerMinute": 97
+  },
+  {
+    "id": "u-T-026-h02",
+    "tenantId": "T-026",
+    "hour": 2,
+    "cpuPercent": 7.2,
+    "memoryPercent": 11.8,
+    "apiCallsPerMinute": 129
+  },
+  {
+    "id": "u-T-026-h03",
+    "tenantId": "T-026",
+    "hour": 3,
+    "cpuPercent": 9.2,
+    "memoryPercent": 11.6,
+    "apiCallsPerMinute": 136
+  },
+  {
+    "id": "u-T-026-h04",
+    "tenantId": "T-026",
+    "hour": 4,
+    "cpuPercent": 7.4,
+    "memoryPercent": 10.3,
+    "apiCallsPerMinute": 117
+  },
+  {
+    "id": "u-T-026-h05",
+    "tenantId": "T-026",
+    "hour": 5,
+    "cpuPercent": 8.8,
+    "memoryPercent": 15.0,
+    "apiCallsPerMinute": 100
+  },
+  {
+    "id": "u-T-026-h06",
+    "tenantId": "T-026",
+    "hour": 6,
+    "cpuPercent": 8.5,
+    "memoryPercent": 13.9,
+    "apiCallsPerMinute": 120
+  },
+  {
+    "id": "u-T-026-h07",
+    "tenantId": "T-026",
+    "hour": 7,
+    "cpuPercent": 15.4,
+    "memoryPercent": 22.8,
+    "apiCallsPerMinute": 168
+  },
+  {
+    "id": "u-T-026-h08",
+    "tenantId": "T-026",
+    "hour": 8,
+    "cpuPercent": 24.6,
+    "memoryPercent": 29.6,
+    "apiCallsPerMinute": 287
+  },
+  {
+    "id": "u-T-026-h09",
+    "tenantId": "T-026",
+    "hour": 9,
+    "cpuPercent": 37.3,
+    "memoryPercent": 49.7,
+    "apiCallsPerMinute": 374
+  },
+  {
+    "id": "u-T-026-h10",
+    "tenantId": "T-026",
+    "hour": 10,
+    "cpuPercent": 34.3,
+    "memoryPercent": 42.2,
+    "apiCallsPerMinute": 373
+  },
+  {
+    "id": "u-T-026-h11",
+    "tenantId": "T-026",
+    "hour": 11,
+    "cpuPercent": 36.7,
+    "memoryPercent": 46.0,
+    "apiCallsPerMinute": 372
+  },
+  {
+    "id": "u-T-026-h12",
+    "tenantId": "T-026",
+    "hour": 12,
+    "cpuPercent": 34.0,
+    "memoryPercent": 43.3,
+    "apiCallsPerMinute": 345
+  },
+  {
+    "id": "u-T-026-h13",
+    "tenantId": "T-026",
+    "hour": 13,
+    "cpuPercent": 34.5,
+    "memoryPercent": 43.8,
+    "apiCallsPerMinute": 371
+  },
+  {
+    "id": "u-T-026-h14",
+    "tenantId": "T-026",
+    "hour": 14,
+    "cpuPercent": 37.7,
+    "memoryPercent": 47.4,
+    "apiCallsPerMinute": 383
+  },
+  {
+    "id": "u-T-026-h15",
+    "tenantId": "T-026",
+    "hour": 15,
+    "cpuPercent": 32.8,
+    "memoryPercent": 40.6,
+    "apiCallsPerMinute": 361
+  },
+  {
+    "id": "u-T-026-h16",
+    "tenantId": "T-026",
+    "hour": 16,
+    "cpuPercent": 35.8,
+    "memoryPercent": 43.7,
+    "apiCallsPerMinute": 352
+  },
+  {
+    "id": "u-T-026-h17",
+    "tenantId": "T-026",
+    "hour": 17,
+    "cpuPercent": 35.8,
+    "memoryPercent": 45.5,
+    "apiCallsPerMinute": 371
+  },
+  {
+    "id": "u-T-026-h18",
+    "tenantId": "T-026",
+    "hour": 18,
+    "cpuPercent": 23.8,
+    "memoryPercent": 29.8,
+    "apiCallsPerMinute": 273
+  },
+  {
+    "id": "u-T-026-h19",
+    "tenantId": "T-026",
+    "hour": 19,
+    "cpuPercent": 22.9,
+    "memoryPercent": 30.6,
+    "apiCallsPerMinute": 245
+  },
+  {
+    "id": "u-T-026-h20",
+    "tenantId": "T-026",
+    "hour": 20,
+    "cpuPercent": 18.7,
+    "memoryPercent": 26.4,
+    "apiCallsPerMinute": 188
+  },
+  {
+    "id": "u-T-026-h21",
+    "tenantId": "T-026",
+    "hour": 21,
+    "cpuPercent": 18.6,
+    "memoryPercent": 24.8,
+    "apiCallsPerMinute": 232
+  },
+  {
+    "id": "u-T-026-h22",
+    "tenantId": "T-026",
+    "hour": 22,
+    "cpuPercent": 16.4,
+    "memoryPercent": 22.8,
+    "apiCallsPerMinute": 160
+  },
+  {
+    "id": "u-T-026-h23",
+    "tenantId": "T-026",
+    "hour": 23,
+    "cpuPercent": 13.1,
+    "memoryPercent": 20.0,
+    "apiCallsPerMinute": 184
+  },
+  {
+    "id": "u-T-027-h00",
+    "tenantId": "T-027",
+    "hour": 0,
+    "cpuPercent": 7.5,
+    "memoryPercent": 12.8,
+    "apiCallsPerMinute": 102
+  },
+  {
+    "id": "u-T-027-h01",
+    "tenantId": "T-027",
+    "hour": 1,
+    "cpuPercent": 8.2,
+    "memoryPercent": 11.0,
+    "apiCallsPerMinute": 125
+  },
+  {
+    "id": "u-T-027-h02",
+    "tenantId": "T-027",
+    "hour": 2,
+    "cpuPercent": 5.8,
+    "memoryPercent": 9.5,
+    "apiCallsPerMinute": 84
+  },
+  {
+    "id": "u-T-027-h03",
+    "tenantId": "T-027",
+    "hour": 3,
+    "cpuPercent": 7.8,
+    "memoryPercent": 12.7,
+    "apiCallsPerMinute": 116
+  },
+  {
+    "id": "u-T-027-h04",
+    "tenantId": "T-027",
+    "hour": 4,
+    "cpuPercent": 7.5,
+    "memoryPercent": 11.5,
+    "apiCallsPerMinute": 77
+  },
+  {
+    "id": "u-T-027-h05",
+    "tenantId": "T-027",
+    "hour": 5,
+    "cpuPercent": 7.9,
+    "memoryPercent": 9.5,
+    "apiCallsPerMinute": 112
+  },
+  {
+    "id": "u-T-027-h06",
+    "tenantId": "T-027",
+    "hour": 6,
+    "cpuPercent": 6.3,
+    "memoryPercent": 12.5,
+    "apiCallsPerMinute": 67
+  },
+  {
+    "id": "u-T-027-h07",
+    "tenantId": "T-027",
+    "hour": 7,
+    "cpuPercent": 14.7,
+    "memoryPercent": 21.0,
+    "apiCallsPerMinute": 190
+  },
+  {
+    "id": "u-T-027-h08",
+    "tenantId": "T-027",
+    "hour": 8,
+    "cpuPercent": 21.7,
+    "memoryPercent": 26.6,
+    "apiCallsPerMinute": 211
+  },
+  {
+    "id": "u-T-027-h09",
+    "tenantId": "T-027",
+    "hour": 9,
+    "cpuPercent": 28.4,
+    "memoryPercent": 36.8,
+    "apiCallsPerMinute": 314
+  },
+  {
+    "id": "u-T-027-h10",
+    "tenantId": "T-027",
+    "hour": 10,
+    "cpuPercent": 29.7,
+    "memoryPercent": 37.5,
+    "apiCallsPerMinute": 301
+  },
+  {
+    "id": "u-T-027-h11",
+    "tenantId": "T-027",
+    "hour": 11,
+    "cpuPercent": 33.1,
+    "memoryPercent": 40.9,
+    "apiCallsPerMinute": 348
+  },
+  {
+    "id": "u-T-027-h12",
+    "tenantId": "T-027",
+    "hour": 12,
+    "cpuPercent": 33.6,
+    "memoryPercent": 44.7,
+    "apiCallsPerMinute": 358
+  },
+  {
+    "id": "u-T-027-h13",
+    "tenantId": "T-027",
+    "hour": 13,
+    "cpuPercent": 28.7,
+    "memoryPercent": 37.2,
+    "apiCallsPerMinute": 271
+  },
+  {
+    "id": "u-T-027-h14",
+    "tenantId": "T-027",
+    "hour": 14,
+    "cpuPercent": 27.6,
+    "memoryPercent": 35.6,
+    "apiCallsPerMinute": 284
+  },
+  {
+    "id": "u-T-027-h15",
+    "tenantId": "T-027",
+    "hour": 15,
+    "cpuPercent": 33.0,
+    "memoryPercent": 43.9,
+    "apiCallsPerMinute": 312
+  },
+  {
+    "id": "u-T-027-h16",
+    "tenantId": "T-027",
+    "hour": 16,
+    "cpuPercent": 30.1,
+    "memoryPercent": 37.1,
+    "apiCallsPerMinute": 332
+  },
+  {
+    "id": "u-T-027-h17",
+    "tenantId": "T-027",
+    "hour": 17,
+    "cpuPercent": 33.3,
+    "memoryPercent": 40.2,
+    "apiCallsPerMinute": 314
+  },
+  {
+    "id": "u-T-027-h18",
+    "tenantId": "T-027",
+    "hour": 18,
+    "cpuPercent": 21.7,
+    "memoryPercent": 30.5,
+    "apiCallsPerMinute": 238
+  },
+  {
+    "id": "u-T-027-h19",
+    "tenantId": "T-027",
+    "hour": 19,
+    "cpuPercent": 17.5,
+    "memoryPercent": 25.6,
+    "apiCallsPerMinute": 186
+  },
+  {
+    "id": "u-T-027-h20",
+    "tenantId": "T-027",
+    "hour": 20,
+    "cpuPercent": 18.7,
+    "memoryPercent": 25.4,
+    "apiCallsPerMinute": 223
+  },
+  {
+    "id": "u-T-027-h21",
+    "tenantId": "T-027",
+    "hour": 21,
+    "cpuPercent": 16.4,
+    "memoryPercent": 21.7,
+    "apiCallsPerMinute": 162
+  },
+  {
+    "id": "u-T-027-h22",
+    "tenantId": "T-027",
+    "hour": 22,
+    "cpuPercent": 13.3,
+    "memoryPercent": 17.1,
+    "apiCallsPerMinute": 179
+  },
+  {
+    "id": "u-T-027-h23",
+    "tenantId": "T-027",
+    "hour": 23,
+    "cpuPercent": 12.4,
+    "memoryPercent": 19.4,
+    "apiCallsPerMinute": 141
+  },
+  {
+    "id": "u-T-028-h00",
+    "tenantId": "T-028",
+    "hour": 0,
+    "cpuPercent": 7.8,
+    "memoryPercent": 10.0,
+    "apiCallsPerMinute": 139
+  },
+  {
+    "id": "u-T-028-h01",
+    "tenantId": "T-028",
+    "hour": 1,
+    "cpuPercent": 7.8,
+    "memoryPercent": 11.9,
+    "apiCallsPerMinute": 138
+  },
+  {
+    "id": "u-T-028-h02",
+    "tenantId": "T-028",
+    "hour": 2,
+    "cpuPercent": 6.0,
+    "memoryPercent": 9.3,
+    "apiCallsPerMinute": 113
+  },
+  {
+    "id": "u-T-028-h03",
+    "tenantId": "T-028",
+    "hour": 3,
+    "cpuPercent": 7.0,
+    "memoryPercent": 12.2,
+    "apiCallsPerMinute": 129
+  },
+  {
+    "id": "u-T-028-h04",
+    "tenantId": "T-028",
+    "hour": 4,
+    "cpuPercent": 7.3,
+    "memoryPercent": 12.6,
+    "apiCallsPerMinute": 77
+  },
+  {
+    "id": "u-T-028-h05",
+    "tenantId": "T-028",
+    "hour": 5,
+    "cpuPercent": 7.0,
+    "memoryPercent": 13.4,
+    "apiCallsPerMinute": 102
+  },
+  {
+    "id": "u-T-028-h06",
+    "tenantId": "T-028",
+    "hour": 6,
+    "cpuPercent": 6.6,
+    "memoryPercent": 12.6,
+    "apiCallsPerMinute": 95
+  },
+  {
+    "id": "u-T-028-h07",
+    "tenantId": "T-028",
+    "hour": 7,
+    "cpuPercent": 14.3,
+    "memoryPercent": 20.5,
+    "apiCallsPerMinute": 144
+  },
+  {
+    "id": "u-T-028-h08",
+    "tenantId": "T-028",
+    "hour": 8,
+    "cpuPercent": 20.9,
+    "memoryPercent": 29.1,
+    "apiCallsPerMinute": 241
+  },
+  {
+    "id": "u-T-028-h09",
+    "tenantId": "T-028",
+    "hour": 9,
+    "cpuPercent": 28.1,
+    "memoryPercent": 37.2,
+    "apiCallsPerMinute": 300
+  },
+  {
+    "id": "u-T-028-h10",
+    "tenantId": "T-028",
+    "hour": 10,
+    "cpuPercent": 32.2,
+    "memoryPercent": 39.1,
+    "apiCallsPerMinute": 299
+  },
+  {
+    "id": "u-T-028-h11",
+    "tenantId": "T-028",
+    "hour": 11,
+    "cpuPercent": 29.9,
+    "memoryPercent": 37.3,
+    "apiCallsPerMinute": 287
+  },
+  {
+    "id": "u-T-028-h12",
+    "tenantId": "T-028",
+    "hour": 12,
+    "cpuPercent": 29.5,
+    "memoryPercent": 38.2,
+    "apiCallsPerMinute": 300
+  },
+  {
+    "id": "u-T-028-h13",
+    "tenantId": "T-028",
+    "hour": 13,
+    "cpuPercent": 28.4,
+    "memoryPercent": 34.5,
+    "apiCallsPerMinute": 301
+  },
+  {
+    "id": "u-T-028-h14",
+    "tenantId": "T-028",
+    "hour": 14,
+    "cpuPercent": 30.1,
+    "memoryPercent": 37.6,
+    "apiCallsPerMinute": 304
+  },
+  {
+    "id": "u-T-028-h15",
+    "tenantId": "T-028",
+    "hour": 15,
+    "cpuPercent": 30.3,
+    "memoryPercent": 40.9,
+    "apiCallsPerMinute": 341
+  },
+  {
+    "id": "u-T-028-h16",
+    "tenantId": "T-028",
+    "hour": 16,
+    "cpuPercent": 30.8,
+    "memoryPercent": 38.9,
+    "apiCallsPerMinute": 295
+  },
+  {
+    "id": "u-T-028-h17",
+    "tenantId": "T-028",
+    "hour": 17,
+    "cpuPercent": 30.3,
+    "memoryPercent": 36.7,
+    "apiCallsPerMinute": 308
+  },
+  {
+    "id": "u-T-028-h18",
+    "tenantId": "T-028",
+    "hour": 18,
+    "cpuPercent": 20.2,
+    "memoryPercent": 26.7,
+    "apiCallsPerMinute": 196
+  },
+  {
+    "id": "u-T-028-h19",
+    "tenantId": "T-028",
+    "hour": 19,
+    "cpuPercent": 18.2,
+    "memoryPercent": 23.1,
+    "apiCallsPerMinute": 211
+  },
+  {
+    "id": "u-T-028-h20",
+    "tenantId": "T-028",
+    "hour": 20,
+    "cpuPercent": 17.7,
+    "memoryPercent": 22.2,
+    "apiCallsPerMinute": 175
+  },
+  {
+    "id": "u-T-028-h21",
+    "tenantId": "T-028",
+    "hour": 21,
+    "cpuPercent": 15.3,
+    "memoryPercent": 23.1,
+    "apiCallsPerMinute": 167
+  },
+  {
+    "id": "u-T-028-h22",
+    "tenantId": "T-028",
+    "hour": 22,
+    "cpuPercent": 14.7,
+    "memoryPercent": 21.7,
+    "apiCallsPerMinute": 162
+  },
+  {
+    "id": "u-T-028-h23",
+    "tenantId": "T-028",
+    "hour": 23,
+    "cpuPercent": 12.3,
+    "memoryPercent": 18.8,
+    "apiCallsPerMinute": 172
+  },
+  {
+    "id": "u-T-029-h00",
+    "tenantId": "T-029",
+    "hour": 0,
+    "cpuPercent": 8.6,
+    "memoryPercent": 11.0,
+    "apiCallsPerMinute": 106
+  },
+  {
+    "id": "u-T-029-h01",
+    "tenantId": "T-029",
+    "hour": 1,
+    "cpuPercent": 8.6,
+    "memoryPercent": 11.4,
+    "apiCallsPerMinute": 106
+  },
+  {
+    "id": "u-T-029-h02",
+    "tenantId": "T-029",
+    "hour": 2,
+    "cpuPercent": 8.8,
+    "memoryPercent": 15.4,
+    "apiCallsPerMinute": 106
+  },
+  {
+    "id": "u-T-029-h03",
+    "tenantId": "T-029",
+    "hour": 3,
+    "cpuPercent": 8.2,
+    "memoryPercent": 12.2,
+    "apiCallsPerMinute": 117
+  },
+  {
+    "id": "u-T-029-h04",
+    "tenantId": "T-029",
+    "hour": 4,
+    "cpuPercent": 6.9,
+    "memoryPercent": 10.2,
+    "apiCallsPerMinute": 121
+  },
+  {
+    "id": "u-T-029-h05",
+    "tenantId": "T-029",
+    "hour": 5,
+    "cpuPercent": 7.5,
+    "memoryPercent": 9.6,
+    "apiCallsPerMinute": 111
+  },
+  {
+    "id": "u-T-029-h06",
+    "tenantId": "T-029",
+    "hour": 6,
+    "cpuPercent": 7.4,
+    "memoryPercent": 11.6,
+    "apiCallsPerMinute": 117
+  },
+  {
+    "id": "u-T-029-h07",
+    "tenantId": "T-029",
+    "hour": 7,
+    "cpuPercent": 14.2,
+    "memoryPercent": 21.8,
+    "apiCallsPerMinute": 165
+  },
+  {
+    "id": "u-T-029-h08",
+    "tenantId": "T-029",
+    "hour": 8,
+    "cpuPercent": 21.6,
+    "memoryPercent": 28.2,
+    "apiCallsPerMinute": 222
+  },
+  {
+    "id": "u-T-029-h09",
+    "tenantId": "T-029",
+    "hour": 9,
+    "cpuPercent": 34.1,
+    "memoryPercent": 44.9,
+    "apiCallsPerMinute": 341
+  },
+  {
+    "id": "u-T-029-h10",
+    "tenantId": "T-029",
+    "hour": 10,
+    "cpuPercent": 32.5,
+    "memoryPercent": 40.2,
+    "apiCallsPerMinute": 341
+  },
+  {
+    "id": "u-T-029-h11",
+    "tenantId": "T-029",
+    "hour": 11,
+    "cpuPercent": 34.2,
+    "memoryPercent": 41.4,
+    "apiCallsPerMinute": 376
+  },
+  {
+    "id": "u-T-029-h12",
+    "tenantId": "T-029",
+    "hour": 12,
+    "cpuPercent": 31.7,
+    "memoryPercent": 40.6,
+    "apiCallsPerMinute": 350
+  },
+  {
+    "id": "u-T-029-h13",
+    "tenantId": "T-029",
+    "hour": 13,
+    "cpuPercent": 33.3,
+    "memoryPercent": 43.9,
+    "apiCallsPerMinute": 331
+  },
+  {
+    "id": "u-T-029-h14",
+    "tenantId": "T-029",
+    "hour": 14,
+    "cpuPercent": 34.4,
+    "memoryPercent": 44.5,
+    "apiCallsPerMinute": 324
+  },
+  {
+    "id": "u-T-029-h15",
+    "tenantId": "T-029",
+    "hour": 15,
+    "cpuPercent": 34.1,
+    "memoryPercent": 42.7,
+    "apiCallsPerMinute": 355
+  },
+  {
+    "id": "u-T-029-h16",
+    "tenantId": "T-029",
+    "hour": 16,
+    "cpuPercent": 31.0,
+    "memoryPercent": 40.6,
+    "apiCallsPerMinute": 313
+  },
+  {
+    "id": "u-T-029-h17",
+    "tenantId": "T-029",
+    "hour": 17,
+    "cpuPercent": 34.9,
+    "memoryPercent": 44.0,
+    "apiCallsPerMinute": 324
+  },
+  {
+    "id": "u-T-029-h18",
+    "tenantId": "T-029",
+    "hour": 18,
+    "cpuPercent": 20.2,
+    "memoryPercent": 26.8,
+    "apiCallsPerMinute": 223
+  },
+  {
+    "id": "u-T-029-h19",
+    "tenantId": "T-029",
+    "hour": 19,
+    "cpuPercent": 19.6,
+    "memoryPercent": 26.4,
+    "apiCallsPerMinute": 213
+  },
+  {
+    "id": "u-T-029-h20",
+    "tenantId": "T-029",
+    "hour": 20,
+    "cpuPercent": 17.5,
+    "memoryPercent": 24.8,
+    "apiCallsPerMinute": 202
+  },
+  {
+    "id": "u-T-029-h21",
+    "tenantId": "T-029",
+    "hour": 21,
+    "cpuPercent": 16.2,
+    "memoryPercent": 21.2,
+    "apiCallsPerMinute": 157
+  },
+  {
+    "id": "u-T-029-h22",
+    "tenantId": "T-029",
+    "hour": 22,
+    "cpuPercent": 13.5,
+    "memoryPercent": 18.2,
+    "apiCallsPerMinute": 188
+  },
+  {
+    "id": "u-T-029-h23",
+    "tenantId": "T-029",
+    "hour": 23,
+    "cpuPercent": 11.9,
+    "memoryPercent": 19.0,
+    "apiCallsPerMinute": 125
+  },
+  {
+    "id": "u-T-030-h00",
+    "tenantId": "T-030",
+    "hour": 0,
+    "cpuPercent": 6.5,
+    "memoryPercent": 10.1,
+    "apiCallsPerMinute": 81
+  },
+  {
+    "id": "u-T-030-h01",
+    "tenantId": "T-030",
+    "hour": 1,
+    "cpuPercent": 7.2,
+    "memoryPercent": 11.0,
+    "apiCallsPerMinute": 101
+  },
+  {
+    "id": "u-T-030-h02",
+    "tenantId": "T-030",
+    "hour": 2,
+    "cpuPercent": 8.0,
+    "memoryPercent": 11.2,
+    "apiCallsPerMinute": 99
+  },
+  {
+    "id": "u-T-030-h03",
+    "tenantId": "T-030",
+    "hour": 3,
+    "cpuPercent": 8.5,
+    "memoryPercent": 10.7,
+    "apiCallsPerMinute": 137
+  },
+  {
+    "id": "u-T-030-h04",
+    "tenantId": "T-030",
+    "hour": 4,
+    "cpuPercent": 8.1,
+    "memoryPercent": 13.1,
+    "apiCallsPerMinute": 92
+  },
+  {
+    "id": "u-T-030-h05",
+    "tenantId": "T-030",
+    "hour": 5,
+    "cpuPercent": 9.3,
+    "memoryPercent": 12.3,
+    "apiCallsPerMinute": 103
+  },
+  {
+    "id": "u-T-030-h06",
+    "tenantId": "T-030",
+    "hour": 6,
+    "cpuPercent": 6.1,
+    "memoryPercent": 10.1,
+    "apiCallsPerMinute": 122
+  },
+  {
+    "id": "u-T-030-h07",
+    "tenantId": "T-030",
+    "hour": 7,
+    "cpuPercent": 13.2,
+    "memoryPercent": 17.9,
+    "apiCallsPerMinute": 139
+  },
+  {
+    "id": "u-T-030-h08",
+    "tenantId": "T-030",
+    "hour": 8,
+    "cpuPercent": 21.3,
+    "memoryPercent": 27.7,
+    "apiCallsPerMinute": 203
+  },
+  {
+    "id": "u-T-030-h09",
+    "tenantId": "T-030",
+    "hour": 9,
+    "cpuPercent": 31.6,
+    "memoryPercent": 40.9,
+    "apiCallsPerMinute": 317
+  },
+  {
+    "id": "u-T-030-h10",
+    "tenantId": "T-030",
+    "hour": 10,
+    "cpuPercent": 32.1,
+    "memoryPercent": 42.3,
+    "apiCallsPerMinute": 347
+  },
+  {
+    "id": "u-T-030-h11",
+    "tenantId": "T-030",
+    "hour": 11,
+    "cpuPercent": 28.3,
+    "memoryPercent": 38.3,
+    "apiCallsPerMinute": 275
+  },
+  {
+    "id": "u-T-030-h12",
+    "tenantId": "T-030",
+    "hour": 12,
+    "cpuPercent": 30.8,
+    "memoryPercent": 38.3,
+    "apiCallsPerMinute": 338
+  },
+  {
+    "id": "u-T-030-h13",
+    "tenantId": "T-030",
+    "hour": 13,
+    "cpuPercent": 32.5,
+    "memoryPercent": 41.9,
+    "apiCallsPerMinute": 338
+  },
+  {
+    "id": "u-T-030-h14",
+    "tenantId": "T-030",
+    "hour": 14,
+    "cpuPercent": 31.9,
+    "memoryPercent": 42.5,
+    "apiCallsPerMinute": 334
+  },
+  {
+    "id": "u-T-030-h15",
+    "tenantId": "T-030",
+    "hour": 15,
+    "cpuPercent": 34.3,
+    "memoryPercent": 42.6,
+    "apiCallsPerMinute": 355
+  },
+  {
+    "id": "u-T-030-h16",
+    "tenantId": "T-030",
+    "hour": 16,
+    "cpuPercent": 28.5,
+    "memoryPercent": 34.8,
+    "apiCallsPerMinute": 284
+  },
+  {
+    "id": "u-T-030-h17",
+    "tenantId": "T-030",
+    "hour": 17,
+    "cpuPercent": 30.7,
+    "memoryPercent": 39.4,
+    "apiCallsPerMinute": 311
+  },
+  {
+    "id": "u-T-030-h18",
+    "tenantId": "T-030",
+    "hour": 18,
+    "cpuPercent": 19.7,
+    "memoryPercent": 25.6,
+    "apiCallsPerMinute": 198
+  },
+  {
+    "id": "u-T-030-h19",
+    "tenantId": "T-030",
+    "hour": 19,
+    "cpuPercent": 19.6,
+    "memoryPercent": 27.0,
+    "apiCallsPerMinute": 225
+  },
+  {
+    "id": "u-T-030-h20",
+    "tenantId": "T-030",
+    "hour": 20,
+    "cpuPercent": 19.2,
+    "memoryPercent": 25.8,
+    "apiCallsPerMinute": 212
+  },
+  {
+    "id": "u-T-030-h21",
+    "tenantId": "T-030",
+    "hour": 21,
+    "cpuPercent": 15.0,
+    "memoryPercent": 19.6,
+    "apiCallsPerMinute": 172
+  },
+  {
+    "id": "u-T-030-h22",
+    "tenantId": "T-030",
+    "hour": 22,
+    "cpuPercent": 13.2,
+    "memoryPercent": 17.7,
+    "apiCallsPerMinute": 129
+  },
+  {
+    "id": "u-T-030-h23",
+    "tenantId": "T-030",
+    "hour": 23,
+    "cpuPercent": 11.9,
+    "memoryPercent": 18.4,
+    "apiCallsPerMinute": 175
+  }
+]

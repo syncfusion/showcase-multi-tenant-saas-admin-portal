@@ -1,0 +1,206 @@
+.tenant-page {
+  padding: 16px;
+  display: grid;
+  gap: 16px;
+}
+
+/* Full-viewport host for dialogs portaled to #root. */
+.app-dialog-host {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.app-dialog-host .e-dlg-container {
+  pointer-events: auto;
+}
+
+.tenant-tree .e-row.tenant-row--enterprise .e-rowcell {
+  font-weight: 700;
+}
+
+/* Align the page-size dropdown with the numeric pager. */
+@media (min-width: 770px) {
+  #tenant-treegrid .e-pager {
+    display: flex;
+    align-items: center;
+  }
+
+  #tenant-treegrid .e-pager .e-pagercontainer {
+    order: 1;
+    margin: 0;
+    vertical-align: middle;
+  }
+
+  /* Numeric pager, then page size, then the page count on the right. */
+  #tenant-treegrid .e-pager .e-pagesizes {
+    order: 2;
+    display: inline-flex;
+    align-items: center;
+    margin: 0 0 0 10px;
+    vertical-align: middle;
+  }
+
+  #tenant-treegrid .e-pager .e-pagerdropdown {
+    display: inline-flex;
+    align-items: center;
+    height: 32px;
+    margin: 0;
+    vertical-align: middle;
+  }
+
+  #tenant-treegrid .e-pager .e-pagerconstant {
+    display: inline-flex;
+    align-items: center;
+    margin: 0 0 0 8px;
+    line-height: 1;
+  }
+
+  #tenant-treegrid .e-pager div.e-parentmsgbar {
+    order: 3;
+    float: none;
+    margin-left: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+#tenant-treegrid .e-pager .e-pagerdropdown .e-input-group {
+  display: inline-flex;
+  align-items: center;
+  height: 32px;
+}
+
+#tenant-treegrid .e-pager .e-pagerdropdown .e-input-group-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tenant-dialog {
+  display: grid;
+  gap: 16px;
+  padding-top: 4px;
+}
+
+.tenant-dialog__stepper {
+  width: 100%;
+  margin-bottom: 4px;
+}
+
+/* Icon and label sit on one row, centered on the progress line. */
+.tenant-dialog__stepper.e-stepper .e-step-container {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+.tenant-dialog__stepper.e-stepper .e-indicator {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  flex: 0 0 28px;
+  margin: 0;
+  border-radius: 50%;
+  line-height: 1;
+  font-size: 14px;
+}
+.tenant-dialog__stepper.e-stepper .e-step-label-container {
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  line-height: 1.2;
+}
+.tenant-dialog__stepper.e-stepper .e-step-label {
+  margin: 0;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+.tenant-dialog__stepper.e-stepper .e-indicator.e-icons {
+  font-size: 14px;
+}
+.tenant-dialog__stepper.e-stepper .e-step-selected .e-indicator,
+.tenant-dialog__stepper.e-stepper .e-step-inprogress .e-indicator {
+  background: var(--color-sf-fg-brand-primary);
+  border-color: var(--color-sf-fg-brand-primary);
+  color: #fff;
+}
+.tenant-dialog__stepper.e-stepper .e-step-selected .e-step-label,
+.tenant-dialog__stepper.e-stepper .e-step-inprogress .e-step-label {
+  color: var(--color-sf-fg-brand-primary);
+  font-weight: 650;
+}
+.tenant-dialog__stepper.e-stepper .e-step-completed .e-indicator {
+  background: var(--color-sf-bg-success-primary);
+  border-color: var(--color-sf-fg-success-primary);
+  color: var(--color-sf-fg-success-primary);
+}
+.tenant-dialog__stepper.e-stepper .e-step-completed .e-step-label {
+  color: var(--color-sf-fg-primary);
+}
+.tenant-dialog__stepper.e-stepper .e-step-notstarted .e-indicator {
+  background: var(--color-sf-bg-neutral-primary);
+  color: var(--color-sf-fg-secondary);
+}
+.tenant-dialog__stepper.e-stepper .e-step-notstarted .e-step-label {
+  color: var(--color-sf-fg-secondary);
+}
+
+.tenant-dialog__error {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--color-sf-fg-danger-primary);
+}
+
+.tenant-dialog__fields {
+  display: grid;
+  gap: 12px;
+}
+
+.tenant-dialog__split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.tenant-plan-summary.e-card {
+  background: var(--color-sf-bg-surface);
+  border: 1px solid var(--color-sf-border-primary);
+}
+
+.tenant-plan-summary .e-card-content {
+  max-height: 180px;
+  overflow: auto;
+  padding: 12px 16px;
+}
+
+.tenant-plan-summary ul {
+  margin: 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 4px;
+  font-size: 13px;
+  color: var(--color-sf-fg-primary);
+}
+
+.tenant-dialog__radios {
+  display: grid;
+  gap: 10px;
+}
+
+.tenant-dialog__actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.tenant-delete-copy {
+  margin: 0 0 16px;
+  font-size: 13px;
+  color: var(--color-sf-fg-primary);
+  line-height: 1.45;
+}

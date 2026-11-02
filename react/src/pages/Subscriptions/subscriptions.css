@@ -1,0 +1,154 @@
+/* Subscriptions page — tabs, gantt, grid */
+
+.subscriptions-page {
+  padding: 16px;
+  display: grid;
+  gap: 16px;
+  /* Let the column shrink with the viewport. */
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.subscriptions-page > * {
+  min-width: 0;
+}
+
+/* Full-viewport host for dialogs portaled to #root. */
+.app-dialog-host {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.app-dialog-host .e-dlg-container {
+  pointer-events: auto;
+}
+
+.subscriptions-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.subscriptions-tabs.e-tab {
+  background: transparent;
+}
+
+.subscriptions-tabs .e-tab-header {
+  background: transparent;
+  border-bottom: 1px solid var(--color-sf-border-primary);
+  margin-bottom: 0;
+}
+
+.subscriptions-tabs .e-tab-header .e-toolbar-item .e-tab-wrap .e-tab-text {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.subscriptions-tabs .e-content {
+  display: none;
+}
+
+.subscriptions-panel {
+  padding-top: 16px;
+}
+
+.subscriptions-gantt-card.e-card,
+.subscriptions-grid-card.e-card {
+  background: var(--color-sf-bg-surface);
+  border: 1px solid var(--color-sf-border-primary);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.subscriptions-gantt-card .e-card-content,
+.subscriptions-grid-card .e-card-content {
+  padding: 16px;
+}
+
+.subscriptions-card-header.e-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.invoice-badge,
+.pay-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 650;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+.invoice-badge--success,
+.pay-badge--ach { color: var(--color-sf-fg-success-primary); background: var(--color-sf-bg-success-primary); }
+.invoice-badge--warning,
+.pay-badge--wire { color: var(--color-sf-fg-warning-primary); background: var(--color-sf-bg-warning-primary); }
+.invoice-badge--danger { color: var(--color-sf-fg-danger-primary); background: var(--color-sf-bg-danger-primary); }
+.invoice-badge--neutral,
+.pay-badge--neutral { color: var(--color-sf-fg-neutral-primary); background: var(--color-sf-bg-neutral-primary); }
+.pay-badge--card { color: var(--color-sf-fg-info-primary); background: var(--color-sf-bg-info-primary); }
+
+.invoice-form {
+  display: grid;
+  gap: 12px;
+  padding-top: 4px;
+}
+.invoice-form__actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+/* Gantt bar tones */
+.gantt-bar {
+  height: 100%;
+  border-radius: 4px;
+  background: var(--sf-slate-200);
+  position: relative;
+  overflow: hidden;
+}
+.gantt-bar__progress {
+  position: absolute;
+  inset: 0 auto 0 0;
+  background: var(--sf-slate-500);
+  border-radius: 4px 0 0 4px;
+}
+.gantt-status--completed { background: var(--sf-green-100); }
+.gantt-status--completed .gantt-bar__progress { background: var(--sf-green-500); }
+.gantt-status--progress { background: var(--sf-blue-100); }
+.gantt-status--progress .gantt-bar__progress { background: var(--sf-blue-500); }
+.gantt-status--pending { background: var(--sf-slate-200); }
+.gantt-status--pending .gantt-bar__progress { background: var(--sf-slate-400); }
+
+.gantt-right-label {
+  font-size: 11px;
+  color: var(--color-sf-fg-secondary);
+  white-space: nowrap;
+}
+
+.gantt-tooltip {
+  padding: 8px 10px;
+  font-size: 12px;
+  display: grid;
+  gap: 2px;
+  line-height: 1.4;
+}
+.gantt-tooltip__title {
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.gantt-today-marker.e-gantt-current-indicator {
+  border-color: var(--color-sf-fg-brand-primary);
+}
+
+.gantt-theme--dark .e-gantt {
+  color: var(--color-sf-fg-primary);
+}

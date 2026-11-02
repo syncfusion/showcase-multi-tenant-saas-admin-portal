@@ -1,0 +1,127 @@
+/* Kanban cards wrap the subject. */
+.support-board.e-kanban .e-card,
+.support-board.e-kanban .e-card-header,
+.support-board.e-kanban .e-card-header-caption,
+.support-board.e-kanban .e-card-header-title,
+.support-board.e-kanban .e-card-content {
+  height: auto;
+  max-height: none;
+  overflow: visible;
+  white-space: normal;
+  line-height: 1.35;
+  text-overflow: unset;
+}
+.support-board.e-kanban .e-card > .kanban-card {
+  display: grid;
+  grid-auto-rows: min-content;
+  justify-content: start;
+  align-items: start;
+  align-content: start;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  height: auto;
+}
+.support-board.e-kanban .kanban-card > * {
+  min-width: 0;
+  max-width: 100%;
+}
+.support-board.e-kanban .e-card-header {
+  padding-top: 8px;
+}
+.support-board.e-kanban .e-card-content {
+  padding: 8px 10px 10px;
+}
+.kanban-card {
+  display: grid;
+  gap: 4px;
+  border-left: 3px solid var(--color-sf-border-primary);
+  padding: 2px 2px 2px 8px;
+  color: var(--color-sf-fg-primary);
+}
+.kanban-card__id {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--color-sf-fg-secondary);
+}
+.kanban-card__subject {
+  font-size: 13px;
+  font-weight: 650;
+  line-height: 1.35;
+  white-space: normal;
+  overflow: visible;
+  overflow-wrap: break-word;
+  color: var(--color-sf-fg-primary);
+}
+.kanban-card__meta,
+.kanban-card__foot {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+  font-size: 11px;
+  color: var(--color-sf-fg-secondary);
+}
+@media (max-width: 1023.98px) {
+  .support-board.e-kanban {
+    overflow-x: auto;
+  }
+  .support-board.e-kanban .e-kanban-header,
+  .support-board.e-kanban .e-kanban-content {
+    min-width: 960px;
+  }
+  .support-board.e-kanban .e-header-cells,
+  .support-board.e-kanban .e-content-cells {
+    width: 240px;
+    min-width: 240px;
+  }
+}
+.kanban-card__badge {
+  padding: 1px 8px;
+  border-radius: 10px;
+  font-weight: 600;
+  background: var(--color-sf-bg-neutral-primary);
+}
+
+/* Compact month-view event bars. */
+.schedule-event {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  min-height: 0;
+  padding: 0 6px;
+  line-height: 1.2;
+  overflow: hidden;
+  box-sizing: border-box;
+  color: #fff;
+}
+.schedule-event__title {
+  font-size: 11px;
+  font-weight: 650;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: inherit;
+}
+.support-schedule.e-schedule .e-appointment,
+.support-schedule.e-schedule .e-appointment .e-appointment-details {
+  overflow: hidden;
+  color: #fff;
+}
+.support-schedule.e-schedule .e-month-view .e-appointment .schedule-event {
+  height: 100%;
+}
+.schedule-tooltip {
+  padding: 8px 10px;
+  display: grid;
+  gap: 2px;
+  font-size: 12px;
+  line-height: 1.4;
+  max-width: 280px;
+}
+.schedule-tooltip__title {
+  font-weight: 650;
+  margin-bottom: 2px;
+}

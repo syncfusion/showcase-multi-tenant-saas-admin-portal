@@ -1,0 +1,88 @@
+/* Design tokens */
+
+/* === Primitive tokens === */
+:root {
+  --sf-blue-50: #eff6ff; --sf-blue-100: #dbeafe; --sf-blue-200: #bfdbfe; --sf-blue-500: #3b82f6; --sf-blue-600: #2563eb; --sf-blue-700: #1d4ed8; --sf-blue-800: #1e40af;
+  --sf-teal-50: #f0fdfa; --sf-teal-100: #ccfbf1; --sf-teal-500: #14b8a6; --sf-teal-600: #0d9488;
+  --sf-fuchsia-600: #a21caf; --sf-fuchsia-700: #86198f;
+  --sf-slate-50: #f8fafc; --sf-slate-100: #f1f5f9; --sf-slate-200: #e2e8f0; --sf-slate-300: #cbd5e1; --sf-slate-400: #94a3b8; --sf-slate-500: #64748b; --sf-slate-600: #475569; --sf-slate-700: #334155; --sf-slate-800: #1e293b; --sf-slate-900: #0f172a;
+  --sf-sky-500: #0ea5e9; --sf-sky-600: #0284c7;
+  --sf-cyan-500: #06b6d4; --sf-cyan-600: #0891b2;
+  --sf-purple-500: #a855f7; --sf-purple-600: #9333ea;
+  --sf-indigo-400: #818cf8; --sf-indigo-500: #6366f1;
+  --sf-green-50: #ecfdf5; --sf-green-100: #d1fae5; --sf-green-500: #22c55e; --sf-green-600: #16a34a; --sf-green-700: #15803d;
+  --sf-amber-50: #fffbeb; --sf-amber-100: #fef3c7; --sf-amber-500: #f59e0b; --sf-amber-600: #d97706;
+  --sf-red-50: #fef2f2; --sf-red-100: #fee2e2; --sf-red-500: #ef4444; --sf-red-600: #dc2626; --sf-red-700: #b91c1c;
+  --sf-space-1: 4px; --sf-space-2: 8px; --sf-space-3: 12px; --sf-space-4: 16px; --sf-space-5: 20px; --sf-space-6: 24px;
+}
+
+/* === Semantic tokens: light === */
+:root[data-theme="light"] {
+  --color-sf-bg-base: #f6f8fb;
+  --color-sf-bg-surface: #ffffff;
+  --color-sf-bg-surface-hover: #f1f5f9;
+  --color-sf-bg-brand-subtle: #eef4ff;
+  --color-sf-fg-primary: #172033;
+  --color-sf-fg-secondary: #667085;
+  --color-sf-fg-brand-primary: #175cd3;
+  --color-sf-border-primary: #e5e9f0;
+  --color-sf-border-secondary: #e5e9f0;
+
+  --color-sf-bg-success-primary: #ecfdf5; --color-sf-fg-success-primary: #027a48;
+  --color-sf-bg-warning-primary: #fffbeb; --color-sf-fg-warning-primary: #b54708;
+  --color-sf-bg-danger-primary: #fef2f2; --color-sf-fg-danger-primary: #b42318;
+  --color-sf-bg-info-primary: #eff6ff; --color-sf-fg-info-primary: #175cd3;
+  --color-sf-bg-neutral-primary: #f8fafc; --color-sf-fg-neutral-primary: #667085;
+}
+
+/* === Semantic tokens: dark === */
+:root[data-theme="dark"] {
+  --color-sf-bg-base: #020617;
+  --color-sf-bg-surface: #0f172a;
+  --color-sf-bg-surface-hover: #1e293b;
+  --color-sf-bg-brand-subtle: #172554;
+  --color-sf-fg-primary: #f8fafc;
+  --color-sf-fg-secondary: #94a3b8;
+  --color-sf-fg-brand-primary: #60a5fa;
+  --color-sf-border-primary: #334155;
+  --color-sf-border-secondary: #334155;
+
+  --color-sf-bg-success-primary: #052e16; --color-sf-fg-success-primary: #86efac;
+  --color-sf-bg-warning-primary: #451a03; --color-sf-fg-warning-primary: #fbbf24;
+  --color-sf-bg-danger-primary: #450a0a; --color-sf-fg-danger-primary: #fca5a5;
+  --color-sf-bg-info-primary: #172554; --color-sf-fg-info-primary: #93c5fd;
+  --color-sf-bg-neutral-primary: #1e293b; --color-sf-fg-neutral-primary: #94a3b8;
+}
+
+/* === Component tokens === */
+:root {
+  --app-shell-bg: var(--color-sf-bg-base);
+  --app-focus-ring: var(--color-sf-fg-brand-primary);
+  --app-nav-active-bg: var(--color-sf-bg-brand-subtle);
+  --app-nav-active-fg: var(--color-sf-fg-brand-primary);
+  --app-card-bg: var(--color-sf-bg-surface);
+  --app-card-border: var(--color-sf-border-primary);
+  --app-card-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  --app-card-radius: 12px;
+  --app-filter-gap: 16px;
+  --app-filter-field-period: 230px;
+  --app-filter-field-select: 200px;
+  --app-filter-field-wide: 320px;
+  --app-filter-reset-fg: var(--color-sf-fg-secondary);
+  --app-filter-reset-border: var(--color-sf-border-primary);
+  --app-filter-chip-bg: var(--color-sf-bg-surface);
+  --app-filter-chip-border: var(--color-sf-border-primary);
+  --app-filter-chip-fg: var(--color-sf-fg-secondary);
+  --app-filter-chip-radius: 20px;
+  --app-kpi-bg: var(--color-sf-bg-surface);
+  --app-kpi-card-bg: var(--color-sf-bg-surface);
+  --app-kpi-card-border: var(--color-sf-border-primary);
+  --app-kpi-content-inset-inline: var(--sf-space-4);
+  --app-kpi-content-inset-block: var(--sf-space-4);
+  --app-kpi-min-height: 136px;
+  --app-kpi-icon-size: 32px;
+  --app-kpi-icon-inset-inline: var(--sf-space-4);
+  --app-kpi-icon-title-offset: calc(var(--sf-space-4) + 1px);
+  --app-kpi-value-size: 28px;
+  --app-kpi-value-weight: 700;
+}

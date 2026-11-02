@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "aud-0125",
+    "tenantId": "T-003",
+    "action": "bulk_operation",
+    "resource": "report",
+    "userId": "u-0014",
+    "timestamp": "2024-01-01T05:59:42.850Z",
+    "details": "Bulk deleted 30 report records"
+  },
+  {
+    "id": "aud-0041",
+    "tenantId": "T-023",
+    "action": "login",
+    "resource": "support_ticket",
+    "userId": "u-0098",
+    "timestamp": "2024-01-02T16:26:08.490Z",
+    "details": "MFA challenge completed"
+  },
+  {
+    "id": "aud-0234",
+    "tenantId": "T-014",
+    "action": "api_key_revoke",
+    "resource": "audit_log",
+    "userId": "u-0065",
+    "timestamp": "2024-01-02T17:06:41.075Z",
+    "details": "Rotated all API keys for security audit"
+  },
+  {
+    "id": "aud-0246",
+    "tenantId": "T-014",
+    "action": "login",
+    "resource": "integration",
+    "userId": "u-0066",
+    "timestamp": "2024-01-02T23:14:56.268Z",
+    "details": "Successful login from IP 10.0.229.81"
+  },
+  {
+    "id": "aud-0205",
+    "tenantId": "T-026",
+    "action": "logout",
+    "resource": "webhook",
+    "userId": "u-0107",
+    "timestamp": "2024-01-03T11:00:59.712Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0325",
+    "tenantId": "T-001",
+    "action": "role_change",
+    "resource": "integration",
+    "userId": "u-0005",
+    "timestamp": "2024-01-04T19:36:18.906Z",
+    "details": "Downgraded to Viewer role"
+  },
+  {
+    "id": "aud-0166",
+    "tenantId": "T-002",
+    "action": "logout",
+    "resource": "settings",
+    "userId": "u-0007",
+    "timestamp": "2024-01-05T16:22:40.974Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0485",
+    "tenantId": "T-017",
+    "action": "delete",
+    "resource": "billing",
+    "userId": "u-0075",
+    "timestamp": "2024-01-06T23:52:18.234Z",
+    "details": "Permanently removed billing"
+  },
+  {
+    "id": "aud-0247",
+    "tenantId": "T-017",
+    "action": "import",
+    "resource": "invoice",
+    "userId": "u-0076",
+    "timestamp": "2024-01-12T01:48:45.883Z",
+    "details": "Data migration: invoice"
+  },
+  {
+    "id": "aud-0212",
+    "tenantId": "T-019",
+    "action": "api_key_generate",
+    "resource": "user",
+    "userId": "u-0083",
+    "timestamp": "2024-01-14T16:10:29.413Z",
+    "details": "Created sandbox API key"
+  },
+  {
+    "id": "aud-0420",
+    "tenantId": "T-002",
+    "action": "webhook_configure",
+    "resource": "integration",
+    "userId": "u-0008",
+    "timestamp": "2024-01-17T12:16:41.260Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0398",
+    "tenantId": "T-010",
+    "action": "delete",
+    "resource": "data_export",
+    "userId": "u-0050",
+    "timestamp": "2024-01-18T11:55:23.002Z",
+    "details": "Bulk deleted 271 data_export records"
+  },
+  {
+    "id": "aud-0196",
+    "tenantId": "T-027",
+    "action": "permission_grant",
+    "resource": "tenant",
+    "userId": "u-0109",
+    "timestamp": "2024-01-20T02:28:45.578Z",
+    "details": "Extended temporary access for 342 days"
+  },
+  {
+    "id": "aud-0371",
+    "tenantId": "T-010",
+    "action": "delete",
+    "resource": "settings",
+    "userId": "u-0049",
+    "timestamp": "2024-01-21T04:55:57.649Z",
+    "details": "Bulk deleted 57 settings records"
+  },
+  {
+    "id": "aud-0054",
+    "tenantId": "T-023",
+    "action": "export",
+    "resource": "security_policy",
+    "userId": "u-0099",
+    "timestamp": "2024-01-23T21:01:46.668Z",
+    "details": "Exported security_policy data to CSV"
+  },
+  {
+    "id": "aud-0447",
+    "tenantId": "T-021",
+    "action": "webhook_configure",
+    "resource": "storage",
+    "userId": "u-0091",
+    "timestamp": "2024-01-26T11:30:45.374Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0254",
+    "tenantId": "T-007",
+    "action": "export",
+    "resource": "integration",
+    "userId": "u-0031",
+    "timestamp": "2024-01-28T00:41:12.285Z",
+    "details": "Scheduled recurring integration export"
+  },
+  {
+    "id": "aud-0365",
+    "tenantId": "T-007",
+    "action": "login",
+    "resource": "sso_config",
+    "userId": "u-0034",
+    "timestamp": "2024-01-31T18:55:40.613Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0295",
+    "tenantId": "T-011",
+    "action": "password_reset",
+    "resource": "sso_config",
+    "userId": "u-0051",
+    "timestamp": "2024-02-02T15:07:02.624Z",
+    "details": "Admin-initiated password reset"
+  },
+  {
+    "id": "aud-0431",
+    "tenantId": "T-020",
+    "action": "role_change",
+    "resource": "report",
+    "userId": "u-0090",
+    "timestamp": "2024-02-02T21:36:40.538Z",
+    "details": "Downgraded to Viewer role"
+  },
+  {
+    "id": "aud-0097",
+    "tenantId": "T-002",
+    "action": "delete",
+    "resource": "user",
+    "userId": "u-0007",
+    "timestamp": "2024-02-06T22:41:32.958Z",
+    "details": "Bulk deleted 56 user records"
+  },
+  {
+    "id": "aud-0443",
+    "tenantId": "T-023",
+    "action": "view",
+    "resource": "tenant",
+    "userId": "u-0098",
+    "timestamp": "2024-02-08T05:41:55.964Z",
+    "details": "Viewed tenant details"
+  },
+  {
+    "id": "aud-0428",
+    "tenantId": "T-005",
+    "action": "plan_change",
+    "resource": "billing",
+    "userId": "u-0024",
+    "timestamp": "2024-02-08T14:07:13.095Z",
+    "details": "Upgraded plan to plan-enterprise"
+  },
+  {
+    "id": "aud-0128",
+    "tenantId": "T-022",
+    "action": "export",
+    "resource": "sso_config",
+    "userId": "u-0094",
+    "timestamp": "2024-02-09T17:24:23.288Z",
+    "details": "Generated sso_config PDF report"
+  },
+  {
+    "id": "aud-0411",
+    "tenantId": "T-016",
+    "action": "update",
+    "resource": "role",
+    "userId": "u-0071",
+    "timestamp": "2024-02-11T13:42:22.433Z",
+    "details": "Patched role metadata"
+  },
+  {
+    "id": "aud-0031",
+    "tenantId": "T-022",
+    "action": "permission_grant",
+    "resource": "notification",
+    "userId": "u-0096",
+    "timestamp": "2024-02-13T01:48:52.038Z",
+    "details": "Extended temporary access for 141 days"
+  },
+  {
+    "id": "aud-0090",
+    "tenantId": "T-008",
+    "action": "billing_update",
+    "resource": "integration",
+    "userId": "u-0040",
+    "timestamp": "2024-02-13T22:24:40.823Z",
+    "details": "Updated payment method to credit_card"
+  },
+  {
+    "id": "aud-0141",
+    "tenantId": "T-010",
+    "action": "webhook_configure",
+    "resource": "role",
+    "userId": "u-0046",
+    "timestamp": "2024-02-15T07:36:35.334Z",
+    "details": "Registered webhook endpoint: https://webhooks.starkfintech.com/prod/callback"
+  },
+  {
+    "id": "aud-0023",
+    "tenantId": "T-015",
+    "action": "view",
+    "resource": "data_export",
+    "userId": "u-0068",
+    "timestamp": "2024-02-17T08:44:02.007Z",
+    "details": "Viewed data_export details"
+  },
+  {
+    "id": "aud-0266",
+    "tenantId": "T-027",
+    "action": "api_key_revoke",
+    "resource": "security_policy",
+    "userId": "u-0109",
+    "timestamp": "2024-02-18T02:45:45.736Z",
+    "details": "Bulk revoked 464 keys"
+  },
+  {
+    "id": "aud-0130",
+    "tenantId": "T-026",
+    "action": "plan_change",
+    "resource": "settings",
+    "userId": "u-0107",
+    "timestamp": "2024-02-18T08:19:04.440Z",
+    "details": "Upgraded plan to plan-business"
+  },
+  {
+    "id": "aud-0455",
+    "tenantId": "T-022",
+    "action": "permission_revoke",
+    "resource": "audit_log",
+    "userId": "u-0095",
+    "timestamp": "2024-02-18T16:55:37.508Z",
+    "details": "Removed user from operations group"
+  },
+  {
+    "id": "aud-0013",
+    "tenantId": "T-007",
+    "action": "bulk_operation",
+    "resource": "invoice",
+    "userId": "u-0035",
+    "timestamp": "2024-02-20T22:18:16.541Z",
+    "details": "Bulk updated 144 invoice records"
+  },
+  {
+    "id": "aud-0390",
+    "tenantId": "T-019",
+    "action": "bulk_operation",
+    "resource": "billing",
+    "userId": "u-0085",
+    "timestamp": "2024-02-22T02:40:54.533Z",
+    "details": "Bulk updated 259 billing records"
+  },
+  {
+    "id": "aud-0191",
+    "tenantId": "T-022",
+    "action": "status_change",
+    "resource": "audit_log",
+    "userId": "u-0094",
+    "timestamp": "2024-02-23T04:43:43.159Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0088",
+    "tenantId": "T-022",
+    "action": "export",
+    "resource": "api_key",
+    "userId": "u-0094",
+    "timestamp": "2024-02-23T18:39:52.453Z",
+    "details": "Generated api_key PDF report"
+  },
+  {
+    "id": "aud-0133",
+    "tenantId": "T-026",
+    "action": "billing_update",
+    "resource": "storage",
+    "userId": "u-0108",
+    "timestamp": "2024-02-24T03:21:40.409Z",
+    "details": "Applied credit of $91.66"
+  },
+  {
+    "id": "aud-0459",
+    "tenantId": "T-030",
+    "action": "billing_update",
+    "resource": "support_ticket",
+    "userId": "u-0118",
+    "timestamp": "2024-02-26T00:18:47.513Z",
+    "details": "Updated payment method to ach"
+  },
+  {
+    "id": "aud-0432",
+    "tenantId": "T-018",
+    "action": "api_key_revoke",
+    "resource": "billing",
+    "userId": "u-0081",
+    "timestamp": "2024-02-26T14:51:25.788Z",
+    "details": "Revoked API key: sk-o4wc2c5e..."
+  },
+  {
+    "id": "aud-0149",
+    "tenantId": "T-001",
+    "action": "role_change",
+    "resource": "user",
+    "userId": "u-0003",
+    "timestamp": "2024-02-28T08:29:57.872Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0100",
+    "tenantId": "T-008",
+    "action": "plan_change",
+    "resource": "dashboard",
+    "userId": "u-0039",
+    "timestamp": "2024-02-28T14:01:11.677Z",
+    "details": "Plan change scheduled for next billing cycle"
+  },
+  {
+    "id": "aud-0290",
+    "tenantId": "T-016",
+    "action": "delete",
+    "resource": "integration",
+    "userId": "u-0071",
+    "timestamp": "2024-03-02T05:41:08.868Z",
+    "details": "Bulk deleted 207 integration records"
+  },
+  {
+    "id": "aud-0399",
+    "tenantId": "T-024",
+    "action": "delete",
+    "resource": "dashboard",
+    "userId": "u-0102",
+    "timestamp": "2024-03-02T09:38:45.922Z",
+    "details": "Deleted dashboard (soft delete)"
+  },
+  {
+    "id": "aud-0427",
+    "tenantId": "T-014",
+    "action": "create",
+    "resource": "invoice",
+    "userId": "u-0064",
+    "timestamp": "2024-03-03T16:39:42.866Z",
+    "details": "Created invoice record"
+  },
+  {
+    "id": "aud-0279",
+    "tenantId": "T-022",
+    "action": "status_change",
+    "resource": "user",
+    "userId": "u-0096",
+    "timestamp": "2024-03-04T15:03:16.838Z",
+    "details": "Status changed from Active to Suspended"
+  },
+  {
+    "id": "aud-0028",
+    "tenantId": "T-008",
+    "action": "plan_change",
+    "resource": "subscription",
+    "userId": "u-0036",
+    "timestamp": "2024-03-04T21:15:07.844Z",
+    "details": "Downgraded plan to plan-professional"
+  },
+  {
+    "id": "aud-0388",
+    "tenantId": "T-007",
+    "action": "logout",
+    "resource": "permission",
+    "userId": "u-0031",
+    "timestamp": "2024-03-08T23:50:07.741Z",
+    "details": "User logged out"
+  },
+  {
+    "id": "aud-0114",
+    "tenantId": "T-020",
+    "action": "api_key_generate",
+    "resource": "notification",
+    "userId": "u-0090",
+    "timestamp": "2024-03-09T04:38:20.003Z",
+    "details": "Generated new API key: sk-hwhi1kzb..."
+  },
+  {
+    "id": "aud-0006",
+    "tenantId": "T-013",
+    "action": "status_change",
+    "resource": "audit_log",
+    "userId": "u-0059",
+    "timestamp": "2024-03-09T06:18:31.902Z",
+    "details": "Account suspended — inactivity"
+  },
+  {
+    "id": "aud-0421",
+    "tenantId": "T-010",
+    "action": "create",
+    "resource": "subscription",
+    "userId": "u-0047",
+    "timestamp": "2024-03-12T07:04:47.056Z",
+    "details": "Bulk created 237 subscription records via import"
+  },
+  {
+    "id": "aud-0070",
+    "tenantId": "T-023",
+    "action": "role_change",
+    "resource": "api_key",
+    "userId": "u-0098",
+    "timestamp": "2024-03-12T11:54:36.146Z",
+    "details": "Downgraded to Viewer role"
+  },
+  {
+    "id": "aud-0308",
+    "tenantId": "T-005",
+    "action": "permission_grant",
+    "resource": "storage",
+    "userId": "u-0021",
+    "timestamp": "2024-03-16T11:56:15.715Z",
+    "details": "Granted write to user"
+  },
+  {
+    "id": "aud-0118",
+    "tenantId": "T-018",
+    "action": "plan_change",
+    "resource": "settings",
+    "userId": "u-0079",
+    "timestamp": "2024-03-17T15:40:54.847Z",
+    "details": "Plan change scheduled for next billing cycle"
+  },
+  {
+    "id": "aud-0159",
+    "tenantId": "T-001",
+    "action": "import",
+    "resource": "settings",
+    "userId": "u-0004",
+    "timestamp": "2024-03-17T20:44:33.650Z",
+    "details": "Imported 4 settings records from CSV"
+  },
+  {
+    "id": "aud-0174",
+    "tenantId": "T-024",
+    "action": "status_change",
+    "resource": "user",
+    "userId": "u-0101",
+    "timestamp": "2024-03-21T00:26:04.855Z",
+    "details": "Status changed from Suspended to Active"
+  },
+  {
+    "id": "aud-0183",
+    "tenantId": "T-018",
+    "action": "webhook_configure",
+    "resource": "audit_log",
+    "userId": "u-0079",
+    "timestamp": "2024-03-22T00:29:32.965Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0258",
+    "tenantId": "T-006",
+    "action": "billing_update",
+    "resource": "storage",
+    "userId": "u-0029",
+    "timestamp": "2024-03-22T14:36:42.258Z",
+    "details": "Updated payment method to wire_transfer"
+  },
+  {
+    "id": "aud-0265",
+    "tenantId": "T-023",
+    "action": "webhook_configure",
+    "resource": "dashboard",
+    "userId": "u-0098",
+    "timestamp": "2024-03-22T17:03:35.995Z",
+    "details": "Registered webhook endpoint: https://api.wayne-enterprises.com/v2/callback"
+  },
+  {
+    "id": "aud-0346",
+    "tenantId": "T-018",
+    "action": "import",
+    "resource": "billing",
+    "userId": "u-0082",
+    "timestamp": "2024-03-23T12:08:53.228Z",
+    "details": "Bulk billing sync from external system"
+  },
+  {
+    "id": "aud-0495",
+    "tenantId": "T-022",
+    "action": "status_change",
+    "resource": "sso_config",
+    "userId": "u-0094",
+    "timestamp": "2024-03-24T07:03:17.373Z",
+    "details": "Account suspended — TOS violation"
+  },
+  {
+    "id": "aud-0167",
+    "tenantId": "T-027",
+    "action": "status_change",
+    "resource": "role",
+    "userId": "u-0111",
+    "timestamp": "2024-03-25T23:30:24.983Z",
+    "details": "Status changed from Active to Trialing"
+  },
+  {
+    "id": "aud-0202",
+    "tenantId": "T-027",
+    "action": "api_key_generate",
+    "resource": "notification",
+    "userId": "u-0110",
+    "timestamp": "2024-03-26T18:02:35.867Z",
+    "details": "Generated new API key: sk-zi12ot5s..."
+  },
+  {
+    "id": "aud-0195",
+    "tenantId": "T-005",
+    "action": "api_key_revoke",
+    "resource": "settings",
+    "userId": "u-0023",
+    "timestamp": "2024-03-29T12:26:02.301Z",
+    "details": "Rotated all API keys for security audit"
+  },
+  {
+    "id": "aud-0275",
+    "tenantId": "T-022",
+    "action": "logout",
+    "resource": "storage",
+    "userId": "u-0094",
+    "timestamp": "2024-03-29T19:37:33.429Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0492",
+    "tenantId": "T-026",
+    "action": "api_key_generate",
+    "resource": "dashboard",
+    "userId": "u-0108",
+    "timestamp": "2024-03-30T09:06:39.874Z",
+    "details": "Created sandbox API key"
+  },
+  {
+    "id": "aud-0488",
+    "tenantId": "T-018",
+    "action": "import",
+    "resource": "subscription",
+    "userId": "u-0080",
+    "timestamp": "2024-03-31T10:03:00.234Z",
+    "details": "Data migration: subscription"
+  },
+  {
+    "id": "aud-0228",
+    "tenantId": "T-002",
+    "action": "login",
+    "resource": "invoice",
+    "userId": "u-0009",
+    "timestamp": "2024-03-31T16:44:39.761Z",
+    "details": "MFA challenge completed"
+  },
+  {
+    "id": "aud-0281",
+    "tenantId": "T-026",
+    "action": "mfa_toggle",
+    "resource": "data_export",
+    "userId": "u-0106",
+    "timestamp": "2024-04-01T04:26:17.649Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0039",
+    "tenantId": "T-022",
+    "action": "api_key_revoke",
+    "resource": "dashboard",
+    "userId": "u-0096",
+    "timestamp": "2024-04-03T05:36:24.339Z",
+    "details": "Bulk revoked 222 keys"
+  },
+  {
+    "id": "aud-0072",
+    "tenantId": "T-006",
+    "action": "role_change",
+    "resource": "support_ticket",
+    "userId": "u-0027",
+    "timestamp": "2024-04-09T02:33:07.879Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0011",
+    "tenantId": "T-021",
+    "action": "password_reset",
+    "resource": "subscription",
+    "userId": "u-0092",
+    "timestamp": "2024-04-10T05:33:34.599Z",
+    "details": "Password reset requested"
+  },
+  {
+    "id": "aud-0107",
+    "tenantId": "T-003",
+    "action": "mfa_toggle",
+    "resource": "settings",
+    "userId": "u-0015",
+    "timestamp": "2024-04-11T20:56:44.348Z",
+    "details": "MFA disabled"
+  },
+  {
+    "id": "aud-0322",
+    "tenantId": "T-011",
+    "action": "create",
+    "resource": "support_ticket",
+    "userId": "u-0054",
+    "timestamp": "2024-04-12T17:45:01.306Z",
+    "details": "Bulk created 289 support_ticket records via import"
+  },
+  {
+    "id": "aud-0049",
+    "tenantId": "T-020",
+    "action": "plan_change",
+    "resource": "invoice",
+    "userId": "u-0089",
+    "timestamp": "2024-04-13T17:32:17.911Z",
+    "details": "Upgraded plan to plan-business"
+  },
+  {
+    "id": "aud-0050",
+    "tenantId": "T-021",
+    "action": "create",
+    "resource": "audit_log",
+    "userId": "u-0093",
+    "timestamp": "2024-04-14T03:57:24.262Z",
+    "details": "Created audit_log record"
+  },
+  {
+    "id": "aud-0120",
+    "tenantId": "T-005",
+    "action": "status_change",
+    "resource": "audit_log",
+    "userId": "u-0022",
+    "timestamp": "2024-04-16T05:53:18.822Z",
+    "details": "Account suspended — TOS violation"
+  },
+  {
+    "id": "aud-0270",
+    "tenantId": "T-002",
+    "action": "logout",
+    "resource": "webhook",
+    "userId": "u-0007",
+    "timestamp": "2024-04-17T02:54:45.617Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0018",
+    "tenantId": "T-017",
+    "action": "billing_update",
+    "resource": "permission",
+    "userId": "u-0075",
+    "timestamp": "2024-04-18T18:30:32.253Z",
+    "details": "Issued refund $20.91"
+  },
+  {
+    "id": "aud-0356",
+    "tenantId": "T-022",
+    "action": "login",
+    "resource": "security_policy",
+    "userId": "u-0096",
+    "timestamp": "2024-04-20T09:12:01.207Z",
+    "details": "Successful login from IP 203.0.113.37.97"
+  },
+  {
+    "id": "aud-0476",
+    "tenantId": "T-001",
+    "action": "status_change",
+    "resource": "api_key",
+    "userId": "u-0001",
+    "timestamp": "2024-04-22T08:04:18.427Z",
+    "details": "Account suspended — payment failure"
+  },
+  {
+    "id": "aud-0171",
+    "tenantId": "T-030",
+    "action": "api_key_generate",
+    "resource": "role",
+    "userId": "u-0120",
+    "timestamp": "2024-04-24T16:40:40.577Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0044",
+    "tenantId": "T-021",
+    "action": "login",
+    "resource": "data_export",
+    "userId": "u-0093",
+    "timestamp": "2024-04-24T17:53:36.801Z",
+    "details": "MFA challenge completed"
+  },
+  {
+    "id": "aud-0391",
+    "tenantId": "T-015",
+    "action": "permission_grant",
+    "resource": "subscription",
+    "userId": "u-0067",
+    "timestamp": "2024-04-26T14:17:54.396Z",
+    "details": "Added user to admin group"
+  },
+  {
+    "id": "aud-0093",
+    "tenantId": "T-005",
+    "action": "delete",
+    "resource": "storage",
+    "userId": "u-0024",
+    "timestamp": "2024-04-27T02:16:51.098Z",
+    "details": "Permanently removed storage"
+  },
+  {
+    "id": "aud-0101",
+    "tenantId": "T-028",
+    "action": "login",
+    "resource": "api_key",
+    "userId": "u-0112",
+    "timestamp": "2024-04-28T06:27:54.454Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0046",
+    "tenantId": "T-018",
+    "action": "logout",
+    "resource": "invoice",
+    "userId": "u-0079",
+    "timestamp": "2024-04-30T02:50:05.050Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0135",
+    "tenantId": "T-028",
+    "action": "update",
+    "resource": "sso_config",
+    "userId": "u-0113",
+    "timestamp": "2024-04-30T20:48:58.368Z",
+    "details": "Updated sso_config field: rate_limit"
+  },
+  {
+    "id": "aud-0091",
+    "tenantId": "T-029",
+    "action": "webhook_configure",
+    "resource": "api_key",
+    "userId": "u-0116",
+    "timestamp": "2024-05-01T13:58:57.448Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0439",
+    "tenantId": "T-020",
+    "action": "plan_change",
+    "resource": "invoice",
+    "userId": "u-0087",
+    "timestamp": "2024-05-01T15:00:43.482Z",
+    "details": "Downgraded plan to plan-enterprise"
+  },
+  {
+    "id": "aud-0260",
+    "tenantId": "T-024",
+    "action": "plan_change",
+    "resource": "report",
+    "userId": "u-0100",
+    "timestamp": "2024-05-02T19:11:41.228Z",
+    "details": "Downgraded plan to plan-business"
+  },
+  {
+    "id": "aud-0026",
+    "tenantId": "T-025",
+    "action": "settings_update",
+    "resource": "settings",
+    "userId": "u-0104",
+    "timestamp": "2024-05-03T12:41:02.986Z",
+    "details": "Modified notification preferences"
+  },
+  {
+    "id": "aud-0314",
+    "tenantId": "T-010",
+    "action": "api_key_revoke",
+    "resource": "report",
+    "userId": "u-0047",
+    "timestamp": "2024-05-04T00:25:05.276Z",
+    "details": "Bulk revoked 372 keys"
+  },
+  {
+    "id": "aud-0251",
+    "tenantId": "T-030",
+    "action": "permission_grant",
+    "resource": "dashboard",
+    "userId": "u-0118",
+    "timestamp": "2024-05-06T05:44:30.119Z",
+    "details": "Granted report_viewer to user"
+  },
+  {
+    "id": "aud-0280",
+    "tenantId": "T-016",
+    "action": "status_change",
+    "resource": "user",
+    "userId": "u-0071",
+    "timestamp": "2024-05-07T14:05:44.556Z",
+    "details": "Status changed from Trialing to Active"
+  },
+  {
+    "id": "aud-0216",
+    "tenantId": "T-017",
+    "action": "api_key_revoke",
+    "resource": "support_ticket",
+    "userId": "u-0075",
+    "timestamp": "2024-05-09T04:25:49.602Z",
+    "details": "Revoked API key: sk-40ohu24y..."
+  },
+  {
+    "id": "aud-0364",
+    "tenantId": "T-011",
+    "action": "mfa_toggle",
+    "resource": "storage",
+    "userId": "u-0052",
+    "timestamp": "2024-05-10T15:27:17.760Z",
+    "details": "MFA method changed to hardware key"
+  },
+  {
+    "id": "aud-0232",
+    "tenantId": "T-026",
+    "action": "permission_grant",
+    "resource": "subscription",
+    "userId": "u-0106",
+    "timestamp": "2024-05-11T02:17:15.324Z",
+    "details": "Added user to operations group"
+  },
+  {
+    "id": "aud-0374",
+    "tenantId": "T-017",
+    "action": "role_change",
+    "resource": "integration",
+    "userId": "u-0075",
+    "timestamp": "2024-05-14T17:44:22.659Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0283",
+    "tenantId": "T-002",
+    "action": "billing_update",
+    "resource": "audit_log",
+    "userId": "u-0006",
+    "timestamp": "2024-05-16T09:21:25.230Z",
+    "details": "Issued refund $20.91"
+  },
+  {
+    "id": "aud-0466",
+    "tenantId": "T-015",
+    "action": "import",
+    "resource": "report",
+    "userId": "u-0070",
+    "timestamp": "2024-05-19T06:33:57.605Z",
+    "details": "Imported 136 report records from CSV"
+  },
+  {
+    "id": "aud-0020",
+    "tenantId": "T-028",
+    "action": "import",
+    "resource": "report",
+    "userId": "u-0114",
+    "timestamp": "2024-05-19T13:08:33.916Z",
+    "details": "Imported 109 report records from CSV"
+  },
+  {
+    "id": "aud-0169",
+    "tenantId": "T-002",
+    "action": "permission_revoke",
+    "resource": "api_key",
+    "userId": "u-0010",
+    "timestamp": "2024-05-20T01:28:50.856Z",
+    "details": "Removed user from support group"
+  },
+  {
+    "id": "aud-0255",
+    "tenantId": "T-007",
+    "action": "export",
+    "resource": "sso_config",
+    "userId": "u-0034",
+    "timestamp": "2024-05-20T01:45:25.640Z",
+    "details": "Scheduled recurring sso_config export"
+  },
+  {
+    "id": "aud-0215",
+    "tenantId": "T-003",
+    "action": "permission_revoke",
+    "resource": "integration",
+    "userId": "u-0015",
+    "timestamp": "2024-05-20T12:32:53.444Z",
+    "details": "Removed user from admin group"
+  },
+  {
+    "id": "aud-0156",
+    "tenantId": "T-030",
+    "action": "api_key_generate",
+    "resource": "invoice",
+    "userId": "u-0119",
+    "timestamp": "2024-05-21T20:26:49.138Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0198",
+    "tenantId": "T-003",
+    "action": "api_key_revoke",
+    "resource": "sso_config",
+    "userId": "u-0011",
+    "timestamp": "2024-05-22T18:40:23.823Z",
+    "details": "Bulk revoked 328 keys"
+  },
+  {
+    "id": "aud-0448",
+    "tenantId": "T-004",
+    "action": "webhook_configure",
+    "resource": "role",
+    "userId": "u-0019",
+    "timestamp": "2024-05-22T21:55:22.689Z",
+    "details": "Registered webhook endpoint: https://webhooks.wayne-enterprises.com/prod/callback"
+  },
+  {
+    "id": "aud-0102",
+    "tenantId": "T-024",
+    "action": "update",
+    "resource": "subscription",
+    "userId": "u-0102",
+    "timestamp": "2024-05-23T03:48:23.928Z",
+    "details": "Patched subscription metadata"
+  },
+  {
+    "id": "aud-0382",
+    "tenantId": "T-014",
+    "action": "login",
+    "resource": "notification",
+    "userId": "u-0064",
+    "timestamp": "2024-05-23T19:13:35.565Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0337",
+    "tenantId": "T-021",
+    "action": "update",
+    "resource": "security_policy",
+    "userId": "u-0092",
+    "timestamp": "2024-05-25T17:50:00.213Z",
+    "details": "Updated security_policy field: status"
+  },
+  {
+    "id": "aud-0438",
+    "tenantId": "T-027",
+    "action": "mfa_toggle",
+    "resource": "api_key",
+    "userId": "u-0110",
+    "timestamp": "2024-05-25T21:29:43.715Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0305",
+    "tenantId": "T-016",
+    "action": "update",
+    "resource": "data_export",
+    "userId": "u-0072",
+    "timestamp": "2024-05-27T03:23:10.839Z",
+    "details": "Patched data_export metadata"
+  },
+  {
+    "id": "aud-0132",
+    "tenantId": "T-008",
+    "action": "view",
+    "resource": "audit_log",
+    "userId": "u-0038",
+    "timestamp": "2024-05-28T04:02:40.418Z",
+    "details": "Downloaded audit_log report"
+  },
+  {
+    "id": "aud-0361",
+    "tenantId": "T-007",
+    "action": "webhook_configure",
+    "resource": "report",
+    "userId": "u-0031",
+    "timestamp": "2024-05-29T18:15:03.970Z",
+    "details": "Registered webhook endpoint: https://api.acmecorp.com/prod/callback"
+  },
+  {
+    "id": "aud-0119",
+    "tenantId": "T-011",
+    "action": "update",
+    "resource": "invoice",
+    "userId": "u-0053",
+    "timestamp": "2024-05-31T22:04:22.508Z",
+    "details": "Modified invoice configuration"
+  },
+  {
+    "id": "aud-0319",
+    "tenantId": "T-020",
+    "action": "password_reset",
+    "resource": "invoice",
+    "userId": "u-0088",
+    "timestamp": "2024-06-01T20:21:19.675Z",
+    "details": "Admin-initiated password reset"
+  },
+  {
+    "id": "aud-0416",
+    "tenantId": "T-026",
+    "action": "export",
+    "resource": "dashboard",
+    "userId": "u-0106",
+    "timestamp": "2024-06-03T11:11:06.966Z",
+    "details": "Generated dashboard PDF report"
+  },
+  {
+    "id": "aud-0326",
+    "tenantId": "T-027",
+    "action": "webhook_configure",
+    "resource": "security_policy",
+    "userId": "u-0109",
+    "timestamp": "2024-06-03T20:59:58.598Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0158",
+    "tenantId": "T-018",
+    "action": "api_key_generate",
+    "resource": "dashboard",
+    "userId": "u-0079",
+    "timestamp": "2024-06-05T18:17:01.199Z",
+    "details": "Created sandbox API key"
+  },
+  {
+    "id": "aud-0441",
+    "tenantId": "T-016",
+    "action": "permission_revoke",
+    "resource": "storage",
+    "userId": "u-0074",
+    "timestamp": "2024-06-06T10:35:35.132Z",
+    "details": "Removed user from support group"
+  },
+  {
+    "id": "aud-0064",
+    "tenantId": "T-015",
+    "action": "permission_revoke",
+    "resource": "security_policy",
+    "userId": "u-0069",
+    "timestamp": "2024-06-07T14:08:37.539Z",
+    "details": "Removed user from operations group"
+  },
+  {
+    "id": "aud-0201",
+    "tenantId": "T-006",
+    "action": "billing_update",
+    "resource": "billing",
+    "userId": "u-0030",
+    "timestamp": "2024-06-07T21:47:20.568Z",
+    "details": "Issued refund $20.91"
+  },
+  {
+    "id": "aud-0106",
+    "tenantId": "T-004",
+    "action": "permission_grant",
+    "resource": "audit_log",
+    "userId": "u-0016",
+    "timestamp": "2024-06-08T01:18:25.625Z",
+    "details": "Extended temporary access for 216 days"
+  },
+  {
+    "id": "aud-0278",
+    "tenantId": "T-018",
+    "action": "api_key_generate",
+    "resource": "invoice",
+    "userId": "u-0082",
+    "timestamp": "2024-06-08T03:52:15.303Z",
+    "details": "Created sandbox API key"
+  },
+  {
+    "id": "aud-0271",
+    "tenantId": "T-001",
+    "action": "import",
+    "resource": "dashboard",
+    "userId": "u-0002",
+    "timestamp": "2024-06-08T10:09:10.705Z",
+    "details": "Imported 320 dashboard records from CSV"
+  },
+  {
+    "id": "aud-0022",
+    "tenantId": "T-022",
+    "action": "logout",
+    "resource": "integration",
+    "userId": "u-0095",
+    "timestamp": "2024-06-09T13:20:44.813Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0003",
+    "tenantId": "T-017",
+    "action": "status_change",
+    "resource": "security_policy",
+    "userId": "u-0078",
+    "timestamp": "2024-06-11T12:41:40.430Z",
+    "details": "Status changed from Active to Active"
+  },
+  {
+    "id": "aud-0474",
+    "tenantId": "T-014",
+    "action": "status_change",
+    "resource": "security_policy",
+    "userId": "u-0065",
+    "timestamp": "2024-06-11T16:15:07.862Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0434",
+    "tenantId": "T-018",
+    "action": "plan_change",
+    "resource": "data_export",
+    "userId": "u-0080",
+    "timestamp": "2024-06-11T18:50:57.750Z",
+    "details": "Downgraded plan to plan-business"
+  },
+  {
+    "id": "aud-0001",
+    "tenantId": "T-004",
+    "action": "settings_update",
+    "resource": "notification",
+    "userId": "u-0018",
+    "timestamp": "2024-06-14T06:52:04.341Z",
+    "details": "Modified notification preferences"
+  },
+  {
+    "id": "aud-0307",
+    "tenantId": "T-026",
+    "action": "webhook_configure",
+    "resource": "security_policy",
+    "userId": "u-0106",
+    "timestamp": "2024-06-14T16:37:04.052Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0264",
+    "tenantId": "T-016",
+    "action": "create",
+    "resource": "support_ticket",
+    "userId": "u-0074",
+    "timestamp": "2024-06-14T23:53:54.574Z",
+    "details": "Created support_ticket record"
+  },
+  {
+    "id": "aud-0139",
+    "tenantId": "T-018",
+    "action": "permission_revoke",
+    "resource": "security_policy",
+    "userId": "u-0080",
+    "timestamp": "2024-06-18T07:58:55.313Z",
+    "details": "Revoked report_viewer from user"
+  },
+  {
+    "id": "aud-0286",
+    "tenantId": "T-030",
+    "action": "update",
+    "resource": "support_ticket",
+    "userId": "u-0120",
+    "timestamp": "2024-06-18T20:41:31.683Z",
+    "details": "Modified support_ticket configuration"
+  },
+  {
+    "id": "aud-0075",
+    "tenantId": "T-003",
+    "action": "logout",
+    "resource": "report",
+    "userId": "u-0015",
+    "timestamp": "2024-06-19T13:18:25.181Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0062",
+    "tenantId": "T-009",
+    "action": "permission_grant",
+    "resource": "tenant",
+    "userId": "u-0044",
+    "timestamp": "2024-06-19T22:41:35.517Z",
+    "details": "Extended temporary access for 276 days"
+  },
+  {
+    "id": "aud-0243",
+    "tenantId": "T-018",
+    "action": "view",
+    "resource": "tenant",
+    "userId": "u-0082",
+    "timestamp": "2024-06-23T03:26:59.931Z",
+    "details": "Listed tenant with filters"
+  },
+  {
+    "id": "aud-0108",
+    "tenantId": "T-024",
+    "action": "login",
+    "resource": "webhook",
+    "userId": "u-0102",
+    "timestamp": "2024-06-26T07:53:39.179Z",
+    "details": "Successful login from IP 10.0.239.241"
+  },
+  {
+    "id": "aud-0229",
+    "tenantId": "T-005",
+    "action": "webhook_configure",
+    "resource": "webhook",
+    "userId": "u-0024",
+    "timestamp": "2024-06-26T10:27:32.169Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0121",
+    "tenantId": "T-014",
+    "action": "settings_update",
+    "resource": "settings",
+    "userId": "u-0064",
+    "timestamp": "2024-07-02T12:30:33.517Z",
+    "details": "Updated security settings"
+  },
+  {
+    "id": "aud-0467",
+    "tenantId": "T-002",
+    "action": "import",
+    "resource": "subscription",
+    "userId": "u-0007",
+    "timestamp": "2024-07-03T15:05:31.240Z",
+    "details": "Bulk subscription sync from external system"
+  },
+  {
+    "id": "aud-0157",
+    "tenantId": "T-004",
+    "action": "logout",
+    "resource": "settings",
+    "userId": "u-0019",
+    "timestamp": "2024-07-04T05:32:10.440Z",
+    "details": "User logged out"
+  },
+  {
+    "id": "aud-0103",
+    "tenantId": "T-011",
+    "action": "settings_update",
+    "resource": "user",
+    "userId": "u-0051",
+    "timestamp": "2024-07-05T08:05:24.800Z",
+    "details": "Updated security settings"
+  },
+  {
+    "id": "aud-0211",
+    "tenantId": "T-023",
+    "action": "plan_change",
+    "resource": "audit_log",
+    "userId": "u-0098",
+    "timestamp": "2024-07-06T17:22:02.997Z",
+    "details": "Plan change scheduled for next billing cycle"
+  },
+  {
+    "id": "aud-0368",
+    "tenantId": "T-012",
+    "action": "login",
+    "resource": "dashboard",
+    "userId": "u-0057",
+    "timestamp": "2024-07-08T19:04:19.533Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0173",
+    "tenantId": "T-009",
+    "action": "import",
+    "resource": "api_key",
+    "userId": "u-0044",
+    "timestamp": "2024-07-13T21:11:34.031Z",
+    "details": "Bulk api_key sync from external system"
+  },
+  {
+    "id": "aud-0032",
+    "tenantId": "T-005",
+    "action": "role_change",
+    "resource": "user",
+    "userId": "u-0021",
+    "timestamp": "2024-07-16T15:20:31.075Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0235",
+    "tenantId": "T-003",
+    "action": "export",
+    "resource": "permission",
+    "userId": "u-0015",
+    "timestamp": "2024-07-17T01:32:50.887Z",
+    "details": "Scheduled recurring permission export"
+  },
+  {
+    "id": "aud-0294",
+    "tenantId": "T-011",
+    "action": "create",
+    "resource": "sso_config",
+    "userId": "u-0052",
+    "timestamp": "2024-07-17T10:10:17.661Z",
+    "details": "Bulk created 219 sso_config records via import"
+  },
+  {
+    "id": "aud-0209",
+    "tenantId": "T-004",
+    "action": "status_change",
+    "resource": "data_export",
+    "userId": "u-0017",
+    "timestamp": "2024-07-18T06:35:42.630Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0012",
+    "tenantId": "T-012",
+    "action": "webhook_configure",
+    "resource": "report",
+    "userId": "u-0057",
+    "timestamp": "2024-07-18T13:01:29.877Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0051",
+    "tenantId": "T-001",
+    "action": "api_key_generate",
+    "resource": "notification",
+    "userId": "u-0004",
+    "timestamp": "2024-07-19T00:29:42.610Z",
+    "details": "Created sandbox API key"
+  },
+  {
+    "id": "aud-0203",
+    "tenantId": "T-024",
+    "action": "mfa_toggle",
+    "resource": "notification",
+    "userId": "u-0100",
+    "timestamp": "2024-07-20T15:01:22.999Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0199",
+    "tenantId": "T-002",
+    "action": "webhook_configure",
+    "resource": "invoice",
+    "userId": "u-0008",
+    "timestamp": "2024-07-21T12:50:13.483Z",
+    "details": "Registered webhook endpoint: https://hooks.wayne-enterprises.com/v2/callback"
+  },
+  {
+    "id": "aud-0350",
+    "tenantId": "T-030",
+    "action": "create",
+    "resource": "security_policy",
+    "userId": "u-0120",
+    "timestamp": "2024-07-21T16:12:29.100Z",
+    "details": "Bulk created 409 security_policy records via import"
+  },
+  {
+    "id": "aud-0165",
+    "tenantId": "T-013",
+    "action": "logout",
+    "resource": "integration",
+    "userId": "u-0061",
+    "timestamp": "2024-07-21T19:21:31.378Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0034",
+    "tenantId": "T-006",
+    "action": "api_key_revoke",
+    "resource": "data_export",
+    "userId": "u-0028",
+    "timestamp": "2024-07-23T15:15:07.466Z",
+    "details": "Bulk revoked 362 keys"
+  },
+  {
+    "id": "aud-0414",
+    "tenantId": "T-004",
+    "action": "update",
+    "resource": "notification",
+    "userId": "u-0019",
+    "timestamp": "2024-07-24T01:37:16.262Z",
+    "details": "Patched notification metadata"
+  },
+  {
+    "id": "aud-0267",
+    "tenantId": "T-003",
+    "action": "settings_update",
+    "resource": "dashboard",
+    "userId": "u-0013",
+    "timestamp": "2024-07-26T17:30:01.852Z",
+    "details": "Modified notification preferences"
+  },
+  {
+    "id": "aud-0355",
+    "tenantId": "T-022",
+    "action": "bulk_operation",
+    "resource": "audit_log",
+    "userId": "u-0095",
+    "timestamp": "2024-07-27T08:10:33.432Z",
+    "details": "Mass archive operation completed"
+  },
+  {
+    "id": "aud-0373",
+    "tenantId": "T-002",
+    "action": "delete",
+    "resource": "support_ticket",
+    "userId": "u-0008",
+    "timestamp": "2024-07-29T21:44:54.529Z",
+    "details": "Bulk deleted 380 support_ticket records"
+  },
+  {
+    "id": "aud-0182",
+    "tenantId": "T-008",
+    "action": "update",
+    "resource": "webhook",
+    "userId": "u-0036",
+    "timestamp": "2024-07-30T17:58:09.014Z",
+    "details": "Modified webhook configuration"
+  },
+  {
+    "id": "aud-0087",
+    "tenantId": "T-026",
+    "action": "logout",
+    "resource": "security_policy",
+    "userId": "u-0108",
+    "timestamp": "2024-08-01T09:24:15.181Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0077",
+    "tenantId": "T-013",
+    "action": "api_key_generate",
+    "resource": "settings",
+    "userId": "u-0061",
+    "timestamp": "2024-08-01T20:55:17.804Z",
+    "details": "Generated new API key: sk-fjejpr0y..."
+  },
+  {
+    "id": "aud-0252",
+    "tenantId": "T-012",
+    "action": "password_reset",
+    "resource": "tenant",
+    "userId": "u-0057",
+    "timestamp": "2024-08-02T22:16:00.694Z",
+    "details": "Password reset requested"
+  },
+  {
+    "id": "aud-0105",
+    "tenantId": "T-004",
+    "action": "logout",
+    "resource": "invoice",
+    "userId": "u-0016",
+    "timestamp": "2024-08-04T17:38:42.101Z",
+    "details": "User logged out"
+  },
+  {
+    "id": "aud-0426",
+    "tenantId": "T-002",
+    "action": "mfa_toggle",
+    "resource": "role",
+    "userId": "u-0009",
+    "timestamp": "2024-08-10T05:57:32.855Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0369",
+    "tenantId": "T-007",
+    "action": "login",
+    "resource": "integration",
+    "userId": "u-0034",
+    "timestamp": "2024-08-10T14:02:38.199Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0348",
+    "tenantId": "T-013",
+    "action": "api_key_revoke",
+    "resource": "role",
+    "userId": "u-0059",
+    "timestamp": "2024-08-11T22:47:36.369Z",
+    "details": "Rotated all API keys for security audit"
+  },
+  {
+    "id": "aud-0045",
+    "tenantId": "T-007",
+    "action": "role_change",
+    "resource": "invoice",
+    "userId": "u-0034",
+    "timestamp": "2024-08-13T03:28:49.611Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0036",
+    "tenantId": "T-004",
+    "action": "status_change",
+    "resource": "webhook",
+    "userId": "u-0018",
+    "timestamp": "2024-08-13T07:38:58.919Z",
+    "details": "Status changed from Active to Active"
+  },
+  {
+    "id": "aud-0339",
+    "tenantId": "T-026",
+    "action": "view",
+    "resource": "role",
+    "userId": "u-0108",
+    "timestamp": "2024-08-15T20:40:15.454Z",
+    "details": "Downloaded role report"
+  },
+  {
+    "id": "aud-0362",
+    "tenantId": "T-010",
+    "action": "logout",
+    "resource": "support_ticket",
+    "userId": "u-0046",
+    "timestamp": "2024-08-16T03:21:17.777Z",
+    "details": "User logged out"
+  },
+  {
+    "id": "aud-0300",
+    "tenantId": "T-009",
+    "action": "export",
+    "resource": "user",
+    "userId": "u-0042",
+    "timestamp": "2024-08-17T08:02:45.069Z",
+    "details": "Generated user PDF report"
+  },
+  {
+    "id": "aud-0213",
+    "tenantId": "T-030",
+    "action": "settings_update",
+    "resource": "storage",
+    "userId": "u-0118",
+    "timestamp": "2024-08-17T10:34:09.705Z",
+    "details": "Changed retention policy to 275 days"
+  },
+  {
+    "id": "aud-0089",
+    "tenantId": "T-028",
+    "action": "api_key_generate",
+    "resource": "audit_log",
+    "userId": "u-0112",
+    "timestamp": "2024-08-17T17:41:49.719Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0484",
+    "tenantId": "T-016",
+    "action": "bulk_operation",
+    "resource": "dashboard",
+    "userId": "u-0071",
+    "timestamp": "2024-08-19T12:43:17.191Z",
+    "details": "Mass archive operation completed"
+  },
+  {
+    "id": "aud-0104",
+    "tenantId": "T-003",
+    "action": "api_key_revoke",
+    "resource": "user",
+    "userId": "u-0014",
+    "timestamp": "2024-08-21T17:13:50.736Z",
+    "details": "Rotated all API keys for security audit"
+  },
+  {
+    "id": "aud-0052",
+    "tenantId": "T-027",
+    "action": "delete",
+    "resource": "settings",
+    "userId": "u-0111",
+    "timestamp": "2024-08-23T13:42:07.239Z",
+    "details": "Permanently removed settings"
+  },
+  {
+    "id": "aud-0498",
+    "tenantId": "T-028",
+    "action": "export",
+    "resource": "invoice",
+    "userId": "u-0113",
+    "timestamp": "2024-08-24T13:59:04.071Z",
+    "details": "Exported invoice data to CSV"
+  },
+  {
+    "id": "aud-0304",
+    "tenantId": "T-017",
+    "action": "import",
+    "resource": "subscription",
+    "userId": "u-0078",
+    "timestamp": "2024-08-25T18:28:40.949Z",
+    "details": "Data migration: subscription"
+  },
+  {
+    "id": "aud-0479",
+    "tenantId": "T-002",
+    "action": "export",
+    "resource": "sso_config",
+    "userId": "u-0009",
+    "timestamp": "2024-08-26T06:24:42.788Z",
+    "details": "Exported sso_config data to CSV"
+  },
+  {
+    "id": "aud-0240",
+    "tenantId": "T-013",
+    "action": "delete",
+    "resource": "support_ticket",
+    "userId": "u-0059",
+    "timestamp": "2024-08-26T07:01:07.836Z",
+    "details": "Bulk deleted 171 support_ticket records"
+  },
+  {
+    "id": "aud-0276",
+    "tenantId": "T-007",
+    "action": "api_key_generate",
+    "resource": "security_policy",
+    "userId": "u-0032",
+    "timestamp": "2024-08-26T19:41:12.921Z",
+    "details": "Generated new API key: sk-uug1tq8y..."
+  },
+  {
+    "id": "aud-0298",
+    "tenantId": "T-017",
+    "action": "mfa_toggle",
+    "resource": "webhook",
+    "userId": "u-0078",
+    "timestamp": "2024-08-27T05:26:54.974Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0085",
+    "tenantId": "T-003",
+    "action": "logout",
+    "resource": "sso_config",
+    "userId": "u-0013",
+    "timestamp": "2024-08-30T18:54:29.020Z",
+    "details": "User logged out"
+  },
+  {
+    "id": "aud-0306",
+    "tenantId": "T-006",
+    "action": "delete",
+    "resource": "support_ticket",
+    "userId": "u-0029",
+    "timestamp": "2024-08-31T12:46:18.189Z",
+    "details": "Permanently removed support_ticket"
+  },
+  {
+    "id": "aud-0273",
+    "tenantId": "T-021",
+    "action": "import",
+    "resource": "billing",
+    "userId": "u-0092",
+    "timestamp": "2024-09-02T18:42:38.921Z",
+    "details": "Bulk billing sync from external system"
+  },
+  {
+    "id": "aud-0440",
+    "tenantId": "T-010",
+    "action": "logout",
+    "resource": "dashboard",
+    "userId": "u-0046",
+    "timestamp": "2024-09-02T22:48:26.645Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0143",
+    "tenantId": "T-026",
+    "action": "api_key_revoke",
+    "resource": "data_export",
+    "userId": "u-0108",
+    "timestamp": "2024-09-04T14:47:38.306Z",
+    "details": "Rotated all API keys for security audit"
+  },
+  {
+    "id": "aud-0296",
+    "tenantId": "T-003",
+    "action": "api_key_generate",
+    "resource": "billing",
+    "userId": "u-0012",
+    "timestamp": "2024-09-05T18:45:14.780Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0178",
+    "tenantId": "T-004",
+    "action": "role_change",
+    "resource": "sso_config",
+    "userId": "u-0016",
+    "timestamp": "2024-09-06T20:03:29.482Z",
+    "details": "Changed role from Viewer to Developer"
+  },
+  {
+    "id": "aud-0353",
+    "tenantId": "T-013",
+    "action": "permission_revoke",
+    "resource": "invoice",
+    "userId": "u-0060",
+    "timestamp": "2024-09-07T11:26:30.369Z",
+    "details": "Removed user from admin group"
+  },
+  {
+    "id": "aud-0318",
+    "tenantId": "T-028",
+    "action": "mfa_toggle",
+    "resource": "support_ticket",
+    "userId": "u-0114",
+    "timestamp": "2024-09-09T12:44:37.715Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0067",
+    "tenantId": "T-027",
+    "action": "permission_grant",
+    "resource": "security_policy",
+    "userId": "u-0111",
+    "timestamp": "2024-09-09T21:06:54.035Z",
+    "details": "Extended temporary access for 153 days"
+  },
+  {
+    "id": "aud-0038",
+    "tenantId": "T-007",
+    "action": "import",
+    "resource": "user",
+    "userId": "u-0035",
+    "timestamp": "2024-09-11T16:22:39.215Z",
+    "details": "Data migration: user"
+  },
+  {
+    "id": "aud-0310",
+    "tenantId": "T-004",
+    "action": "api_key_revoke",
+    "resource": "storage",
+    "userId": "u-0019",
+    "timestamp": "2024-09-12T09:00:17.232Z",
+    "details": "Revoked API key: sk-sxxp8lb6..."
+  },
+  {
+    "id": "aud-0179",
+    "tenantId": "T-017",
+    "action": "mfa_toggle",
+    "resource": "data_export",
+    "userId": "u-0076",
+    "timestamp": "2024-09-13T08:36:49.562Z",
+    "details": "MFA method changed to hardware key"
+  },
+  {
+    "id": "aud-0181",
+    "tenantId": "T-006",
+    "action": "webhook_configure",
+    "resource": "permission",
+    "userId": "u-0026",
+    "timestamp": "2024-09-14T04:08:06.280Z",
+    "details": "Registered webhook endpoint: https://events.starkfintech.com/staging/callback"
+  },
+  {
+    "id": "aud-0395",
+    "tenantId": "T-028",
+    "action": "status_change",
+    "resource": "dashboard",
+    "userId": "u-0112",
+    "timestamp": "2024-09-14T04:49:04.746Z",
+    "details": "Account suspended — security review"
+  },
+  {
+    "id": "aud-0142",
+    "tenantId": "T-003",
+    "action": "bulk_operation",
+    "resource": "api_key",
+    "userId": "u-0012",
+    "timestamp": "2024-09-16T10:05:13.237Z",
+    "details": "Bulk updated 80 api_key records"
+  },
+  {
+    "id": "aud-0154",
+    "tenantId": "T-002",
+    "action": "mfa_toggle",
+    "resource": "notification",
+    "userId": "u-0010",
+    "timestamp": "2024-09-17T03:41:31.268Z",
+    "details": "MFA disabled"
+  },
+  {
+    "id": "aud-0177",
+    "tenantId": "T-019",
+    "action": "view",
+    "resource": "data_export",
+    "userId": "u-0084",
+    "timestamp": "2024-09-17T11:07:33.325Z",
+    "details": "Listed data_export with filters"
+  },
+  {
+    "id": "aud-0302",
+    "tenantId": "T-017",
+    "action": "create",
+    "resource": "notification",
+    "userId": "u-0077",
+    "timestamp": "2024-09-18T16:27:45.410Z",
+    "details": "Bulk created 371 notification records via import"
+  },
+  {
+    "id": "aud-0059",
+    "tenantId": "T-024",
+    "action": "mfa_toggle",
+    "resource": "webhook",
+    "userId": "u-0100",
+    "timestamp": "2024-09-20T15:30:40.104Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0352",
+    "tenantId": "T-025",
+    "action": "login",
+    "resource": "invoice",
+    "userId": "u-0104",
+    "timestamp": "2024-09-20T15:44:46.437Z",
+    "details": "Successful login from IP 192.168.16.79"
+  },
+  {
+    "id": "aud-0136",
+    "tenantId": "T-017",
+    "action": "settings_update",
+    "resource": "billing",
+    "userId": "u-0076",
+    "timestamp": "2024-09-21T20:04:09.051Z",
+    "details": "Updated security settings"
+  },
+  {
+    "id": "aud-0423",
+    "tenantId": "T-027",
+    "action": "export",
+    "resource": "webhook",
+    "userId": "u-0110",
+    "timestamp": "2024-09-22T09:55:35.255Z",
+    "details": "Generated webhook PDF report"
+  },
+  {
+    "id": "aud-0168",
+    "tenantId": "T-019",
+    "action": "api_key_generate",
+    "resource": "audit_log",
+    "userId": "u-0086",
+    "timestamp": "2024-09-23T23:57:54.133Z",
+    "details": "Created sandbox API key"
+  },
+  {
+    "id": "aud-0409",
+    "tenantId": "T-009",
+    "action": "status_change",
+    "resource": "notification",
+    "userId": "u-0044",
+    "timestamp": "2024-09-24T10:49:29.715Z",
+    "details": "Account suspended — payment failure"
+  },
+  {
+    "id": "aud-0095",
+    "tenantId": "T-007",
+    "action": "bulk_operation",
+    "resource": "notification",
+    "userId": "u-0034",
+    "timestamp": "2024-09-24T19:23:09.314Z",
+    "details": "Bulk updated 166 notification records"
+  },
+  {
+    "id": "aud-0376",
+    "tenantId": "T-009",
+    "action": "login",
+    "resource": "audit_log",
+    "userId": "u-0045",
+    "timestamp": "2024-09-25T16:01:18.743Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0284",
+    "tenantId": "T-025",
+    "action": "update",
+    "resource": "report",
+    "userId": "u-0104",
+    "timestamp": "2024-09-26T03:38:11.731Z",
+    "details": "Modified report configuration"
+  },
+  {
+    "id": "aud-0477",
+    "tenantId": "T-021",
+    "action": "permission_revoke",
+    "resource": "settings",
+    "userId": "u-0093",
+    "timestamp": "2024-09-26T11:21:20.232Z",
+    "details": "Revoked billing_admin from user"
+  },
+  {
+    "id": "aud-0021",
+    "tenantId": "T-020",
+    "action": "webhook_configure",
+    "resource": "integration",
+    "userId": "u-0087",
+    "timestamp": "2024-09-26T18:40:06.508Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0061",
+    "tenantId": "T-005",
+    "action": "view",
+    "resource": "settings",
+    "userId": "u-0025",
+    "timestamp": "2024-09-27T08:27:00.573Z",
+    "details": "Downloaded settings report"
+  },
+  {
+    "id": "aud-0245",
+    "tenantId": "T-024",
+    "action": "billing_update",
+    "resource": "security_policy",
+    "userId": "u-0102",
+    "timestamp": "2024-09-29T15:12:49.575Z",
+    "details": "Applied credit of $91.66"
+  },
+  {
+    "id": "aud-0009",
+    "tenantId": "T-020",
+    "action": "role_change",
+    "resource": "dashboard",
+    "userId": "u-0090",
+    "timestamp": "2024-10-02T15:39:15.450Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0024",
+    "tenantId": "T-008",
+    "action": "login",
+    "resource": "storage",
+    "userId": "u-0037",
+    "timestamp": "2024-10-04T05:37:52.387Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0116",
+    "tenantId": "T-023",
+    "action": "permission_revoke",
+    "resource": "user",
+    "userId": "u-0097",
+    "timestamp": "2024-10-04T14:44:29.534Z",
+    "details": "Temporary access expired"
+  },
+  {
+    "id": "aud-0236",
+    "tenantId": "T-001",
+    "action": "create",
+    "resource": "api_key",
+    "userId": "u-0001",
+    "timestamp": "2024-10-05T03:15:41.346Z",
+    "details": "Created api_key record"
+  },
+  {
+    "id": "aud-0094",
+    "tenantId": "T-021",
+    "action": "delete",
+    "resource": "invoice",
+    "userId": "u-0093",
+    "timestamp": "2024-10-06T01:22:07.285Z",
+    "details": "Permanently removed invoice"
+  },
+  {
+    "id": "aud-0004",
+    "tenantId": "T-028",
+    "action": "role_change",
+    "resource": "integration",
+    "userId": "u-0112",
+    "timestamp": "2024-10-08T23:14:01.412Z",
+    "details": "Downgraded to Viewer role"
+  },
+  {
+    "id": "aud-0363",
+    "tenantId": "T-006",
+    "action": "bulk_operation",
+    "resource": "webhook",
+    "userId": "u-0030",
+    "timestamp": "2024-10-09T18:50:42.953Z",
+    "details": "Bulk deleted 336 webhook records"
+  },
+  {
+    "id": "aud-0176",
+    "tenantId": "T-015",
+    "action": "billing_update",
+    "resource": "notification",
+    "userId": "u-0070",
+    "timestamp": "2024-10-12T11:56:24.749Z",
+    "details": "Applied credit of $91.66"
+  },
+  {
+    "id": "aud-0460",
+    "tenantId": "T-011",
+    "action": "webhook_configure",
+    "resource": "security_policy",
+    "userId": "u-0053",
+    "timestamp": "2024-10-14T05:32:28.713Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0217",
+    "tenantId": "T-003",
+    "action": "bulk_operation",
+    "resource": "report",
+    "userId": "u-0012",
+    "timestamp": "2024-10-14T06:59:38.944Z",
+    "details": "Bulk updated 111 report records"
+  },
+  {
+    "id": "aud-0005",
+    "tenantId": "T-025",
+    "action": "permission_revoke",
+    "resource": "support_ticket",
+    "userId": "u-0104",
+    "timestamp": "2024-10-14T13:04:04.561Z",
+    "details": "Revoked admin from user"
+  },
+  {
+    "id": "aud-0131",
+    "tenantId": "T-018",
+    "action": "import",
+    "resource": "tenant",
+    "userId": "u-0082",
+    "timestamp": "2024-10-16T20:16:30.699Z",
+    "details": "Data migration: tenant"
+  },
+  {
+    "id": "aud-0231",
+    "tenantId": "T-011",
+    "action": "update",
+    "resource": "storage",
+    "userId": "u-0052",
+    "timestamp": "2024-10-17T23:58:43.831Z",
+    "details": "Modified storage configuration"
+  },
+  {
+    "id": "aud-0309",
+    "tenantId": "T-014",
+    "action": "update",
+    "resource": "sso_config",
+    "userId": "u-0063",
+    "timestamp": "2024-10-18T07:19:43.121Z",
+    "details": "Modified sso_config configuration"
+  },
+  {
+    "id": "aud-0008",
+    "tenantId": "T-028",
+    "action": "import",
+    "resource": "notification",
+    "userId": "u-0112",
+    "timestamp": "2024-10-19T08:50:51.673Z",
+    "details": "Data migration: notification"
+  },
+  {
+    "id": "aud-0016",
+    "tenantId": "T-014",
+    "action": "permission_grant",
+    "resource": "notification",
+    "userId": "u-0063",
+    "timestamp": "2024-10-20T02:36:37.026Z",
+    "details": "Extended temporary access for 122 days"
+  },
+  {
+    "id": "aud-0007",
+    "tenantId": "T-029",
+    "action": "export",
+    "resource": "report",
+    "userId": "u-0115",
+    "timestamp": "2024-10-20T10:50:48.320Z",
+    "details": "Exported report data to CSV"
+  },
+  {
+    "id": "aud-0494",
+    "tenantId": "T-027",
+    "action": "login",
+    "resource": "user",
+    "userId": "u-0110",
+    "timestamp": "2024-10-21T17:03:25.303Z",
+    "details": "MFA challenge completed"
+  },
+  {
+    "id": "aud-0483",
+    "tenantId": "T-021",
+    "action": "import",
+    "resource": "subscription",
+    "userId": "u-0093",
+    "timestamp": "2024-10-24T01:42:18.465Z",
+    "details": "Data migration: subscription"
+  },
+  {
+    "id": "aud-0269",
+    "tenantId": "T-024",
+    "action": "import",
+    "resource": "support_ticket",
+    "userId": "u-0102",
+    "timestamp": "2024-10-25T21:42:20.324Z",
+    "details": "Bulk support_ticket sync from external system"
+  },
+  {
+    "id": "aud-0261",
+    "tenantId": "T-002",
+    "action": "password_reset",
+    "resource": "sso_config",
+    "userId": "u-0010",
+    "timestamp": "2024-10-26T02:11:29.652Z",
+    "details": "Password reset requested"
+  },
+  {
+    "id": "aud-0429",
+    "tenantId": "T-013",
+    "action": "webhook_configure",
+    "resource": "webhook",
+    "userId": "u-0060",
+    "timestamp": "2024-10-26T10:38:36.453Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0015",
+    "tenantId": "T-014",
+    "action": "webhook_configure",
+    "resource": "role",
+    "userId": "u-0063",
+    "timestamp": "2024-11-02T15:45:58.390Z",
+    "details": "Registered webhook endpoint: https://api.wayne-enterprises.com/v2/callback"
+  },
+  {
+    "id": "aud-0450",
+    "tenantId": "T-012",
+    "action": "update",
+    "resource": "support_ticket",
+    "userId": "u-0056",
+    "timestamp": "2024-11-03T01:09:05.376Z",
+    "details": "Modified support_ticket configuration"
+  },
+  {
+    "id": "aud-0124",
+    "tenantId": "T-009",
+    "action": "bulk_operation",
+    "resource": "integration",
+    "userId": "u-0043",
+    "timestamp": "2024-11-03T07:41:45.017Z",
+    "details": "Bulk deleted 368 integration records"
+  },
+  {
+    "id": "aud-0204",
+    "tenantId": "T-027",
+    "action": "api_key_generate",
+    "resource": "subscription",
+    "userId": "u-0109",
+    "timestamp": "2024-11-03T08:27:47.861Z",
+    "details": "Created sandbox API key"
+  },
+  {
+    "id": "aud-0218",
+    "tenantId": "T-013",
+    "action": "api_key_revoke",
+    "resource": "integration",
+    "userId": "u-0061",
+    "timestamp": "2024-11-05T00:27:14.299Z",
+    "details": "Revoked API key: sk-54cqfs8r..."
+  },
+  {
+    "id": "aud-0375",
+    "tenantId": "T-014",
+    "action": "role_change",
+    "resource": "support_ticket",
+    "userId": "u-0065",
+    "timestamp": "2024-11-05T12:26:18.598Z",
+    "details": "Changed role from Billing to Developer"
+  },
+  {
+    "id": "aud-0164",
+    "tenantId": "T-020",
+    "action": "password_reset",
+    "resource": "role",
+    "userId": "u-0089",
+    "timestamp": "2024-11-05T18:20:27.613Z",
+    "details": "Password changed successfully"
+  },
+  {
+    "id": "aud-0086",
+    "tenantId": "T-026",
+    "action": "export",
+    "resource": "subscription",
+    "userId": "u-0106",
+    "timestamp": "2024-11-06T04:20:40.166Z",
+    "details": "Exported subscription data to CSV"
+  },
+  {
+    "id": "aud-0287",
+    "tenantId": "T-028",
+    "action": "webhook_configure",
+    "resource": "notification",
+    "userId": "u-0112",
+    "timestamp": "2024-11-08T00:52:45.792Z",
+    "details": "Registered webhook endpoint: https://api.wayne-enterprises.com/prod/callback"
+  },
+  {
+    "id": "aud-0393",
+    "tenantId": "T-027",
+    "action": "import",
+    "resource": "role",
+    "userId": "u-0111",
+    "timestamp": "2024-11-09T13:08:03.760Z",
+    "details": "Data migration: role"
+  },
+  {
+    "id": "aud-0208",
+    "tenantId": "T-015",
+    "action": "webhook_configure",
+    "resource": "invoice",
+    "userId": "u-0069",
+    "timestamp": "2024-11-10T00:26:06.992Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0471",
+    "tenantId": "T-003",
+    "action": "logout",
+    "resource": "tenant",
+    "userId": "u-0014",
+    "timestamp": "2024-11-10T07:53:10.920Z",
+    "details": "User logged out"
+  },
+  {
+    "id": "aud-0327",
+    "tenantId": "T-024",
+    "action": "mfa_toggle",
+    "resource": "permission",
+    "userId": "u-0101",
+    "timestamp": "2024-11-11T23:20:00.193Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0200",
+    "tenantId": "T-001",
+    "action": "mfa_toggle",
+    "resource": "storage",
+    "userId": "u-0003",
+    "timestamp": "2024-11-12T07:53:24.435Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0098",
+    "tenantId": "T-013",
+    "action": "password_reset",
+    "resource": "dashboard",
+    "userId": "u-0062",
+    "timestamp": "2024-11-13T09:59:06.300Z",
+    "details": "Password changed successfully"
+  },
+  {
+    "id": "aud-0185",
+    "tenantId": "T-015",
+    "action": "view",
+    "resource": "audit_log",
+    "userId": "u-0069",
+    "timestamp": "2024-11-17T20:25:50.746Z",
+    "details": "Downloaded audit_log report"
+  },
+  {
+    "id": "aud-0367",
+    "tenantId": "T-012",
+    "action": "delete",
+    "resource": "sso_config",
+    "userId": "u-0055",
+    "timestamp": "2024-11-18T06:27:17.610Z",
+    "details": "Bulk deleted 278 sso_config records"
+  },
+  {
+    "id": "aud-0456",
+    "tenantId": "T-019",
+    "action": "api_key_generate",
+    "resource": "audit_log",
+    "userId": "u-0084",
+    "timestamp": "2024-11-21T09:57:25.495Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0146",
+    "tenantId": "T-018",
+    "action": "billing_update",
+    "resource": "support_ticket",
+    "userId": "u-0081",
+    "timestamp": "2024-11-23T09:18:07.648Z",
+    "details": "Updated payment method to invoice"
+  },
+  {
+    "id": "aud-0433",
+    "tenantId": "T-008",
+    "action": "status_change",
+    "resource": "notification",
+    "userId": "u-0039",
+    "timestamp": "2024-11-25T02:02:20.297Z",
+    "details": "Account suspended — security review"
+  },
+  {
+    "id": "aud-0406",
+    "tenantId": "T-028",
+    "action": "permission_revoke",
+    "resource": "storage",
+    "userId": "u-0114",
+    "timestamp": "2024-11-27T17:24:34.966Z",
+    "details": "Revoked read from user"
+  },
+  {
+    "id": "aud-0336",
+    "tenantId": "T-014",
+    "action": "mfa_toggle",
+    "resource": "subscription",
+    "userId": "u-0066",
+    "timestamp": "2024-11-27T22:11:00.608Z",
+    "details": "MFA method changed to hardware key"
+  },
+  {
+    "id": "aud-0397",
+    "tenantId": "T-013",
+    "action": "plan_change",
+    "resource": "sso_config",
+    "userId": "u-0059",
+    "timestamp": "2024-11-28T03:51:54.954Z",
+    "details": "Upgraded plan to plan-professional"
+  },
+  {
+    "id": "aud-0449",
+    "tenantId": "T-006",
+    "action": "status_change",
+    "resource": "billing",
+    "userId": "u-0028",
+    "timestamp": "2024-11-29T21:59:48.647Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0384",
+    "tenantId": "T-021",
+    "action": "permission_grant",
+    "resource": "notification",
+    "userId": "u-0092",
+    "timestamp": "2024-12-04T06:54:43.105Z",
+    "details": "Added user to engineering group"
+  },
+  {
+    "id": "aud-0241",
+    "tenantId": "T-030",
+    "action": "permission_grant",
+    "resource": "integration",
+    "userId": "u-0119",
+    "timestamp": "2024-12-04T22:55:31.175Z",
+    "details": "Extended temporary access for 181 days"
+  },
+  {
+    "id": "aud-0127",
+    "tenantId": "T-004",
+    "action": "delete",
+    "resource": "api_key",
+    "userId": "u-0016",
+    "timestamp": "2024-12-07T18:25:28.752Z",
+    "details": "Bulk deleted 456 api_key records"
+  },
+  {
+    "id": "aud-0055",
+    "tenantId": "T-007",
+    "action": "settings_update",
+    "resource": "settings",
+    "userId": "u-0032",
+    "timestamp": "2024-12-08T01:19:21.420Z",
+    "details": "Updated security settings"
+  },
+  {
+    "id": "aud-0408",
+    "tenantId": "T-013",
+    "action": "logout",
+    "resource": "tenant",
+    "userId": "u-0060",
+    "timestamp": "2024-12-08T11:24:54.886Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0193",
+    "tenantId": "T-014",
+    "action": "create",
+    "resource": "api_key",
+    "userId": "u-0065",
+    "timestamp": "2024-12-10T01:38:42.123Z",
+    "details": "Created api_key record"
+  },
+  {
+    "id": "aud-0341",
+    "tenantId": "T-022",
+    "action": "logout",
+    "resource": "tenant",
+    "userId": "u-0096",
+    "timestamp": "2024-12-10T15:00:37.212Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0486",
+    "tenantId": "T-020",
+    "action": "api_key_generate",
+    "resource": "report",
+    "userId": "u-0088",
+    "timestamp": "2024-12-12T00:00:40.775Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0288",
+    "tenantId": "T-019",
+    "action": "plan_change",
+    "resource": "settings",
+    "userId": "u-0083",
+    "timestamp": "2024-12-12T13:58:48.359Z",
+    "details": "Upgraded plan to plan-starter"
+  },
+  {
+    "id": "aud-0225",
+    "tenantId": "T-011",
+    "action": "delete",
+    "resource": "tenant",
+    "userId": "u-0054",
+    "timestamp": "2024-12-13T05:37:35.025Z",
+    "details": "Bulk deleted 69 tenant records"
+  },
+  {
+    "id": "aud-0190",
+    "tenantId": "T-025",
+    "action": "logout",
+    "resource": "permission",
+    "userId": "u-0103",
+    "timestamp": "2024-12-13T06:06:40.074Z",
+    "details": "User logged out"
+  },
+  {
+    "id": "aud-0347",
+    "tenantId": "T-020",
+    "action": "bulk_operation",
+    "resource": "subscription",
+    "userId": "u-0087",
+    "timestamp": "2024-12-13T22:13:19.378Z",
+    "details": "Mass delete operation completed"
+  },
+  {
+    "id": "aud-0010",
+    "tenantId": "T-015",
+    "action": "login",
+    "resource": "sso_config",
+    "userId": "u-0069",
+    "timestamp": "2024-12-14T21:13:46.647Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0117",
+    "tenantId": "T-020",
+    "action": "permission_revoke",
+    "resource": "user",
+    "userId": "u-0089",
+    "timestamp": "2024-12-14T23:06:06.620Z",
+    "details": "Revoked billing_admin from user"
+  },
+  {
+    "id": "aud-0162",
+    "tenantId": "T-016",
+    "action": "plan_change",
+    "resource": "subscription",
+    "userId": "u-0072",
+    "timestamp": "2024-12-15T13:24:58.695Z",
+    "details": "Upgraded plan to plan-business"
+  },
+  {
+    "id": "aud-0111",
+    "tenantId": "T-025",
+    "action": "permission_grant",
+    "resource": "settings",
+    "userId": "u-0103",
+    "timestamp": "2024-12-18T02:02:09.805Z",
+    "details": "Extended temporary access for 184 days"
+  },
+  {
+    "id": "aud-0360",
+    "tenantId": "T-007",
+    "action": "api_key_revoke",
+    "resource": "dashboard",
+    "userId": "u-0034",
+    "timestamp": "2024-12-20T16:33:19.039Z",
+    "details": "Rotated all API keys for security audit"
+  },
+  {
+    "id": "aud-0152",
+    "tenantId": "T-011",
+    "action": "export",
+    "resource": "dashboard",
+    "userId": "u-0051",
+    "timestamp": "2024-12-21T17:26:10.683Z",
+    "details": "Exported dashboard data to CSV"
+  },
+  {
+    "id": "aud-0313",
+    "tenantId": "T-006",
+    "action": "login",
+    "resource": "sso_config",
+    "userId": "u-0026",
+    "timestamp": "2024-12-22T22:18:51.092Z",
+    "details": "Failed login attempt from IP 203.0.113.79.143"
+  },
+  {
+    "id": "aud-0194",
+    "tenantId": "T-028",
+    "action": "create",
+    "resource": "subscription",
+    "userId": "u-0114",
+    "timestamp": "2024-12-23T01:52:34.391Z",
+    "details": "Created subscription record"
+  },
+  {
+    "id": "aud-0053",
+    "tenantId": "T-026",
+    "action": "view",
+    "resource": "sso_config",
+    "userId": "u-0107",
+    "timestamp": "2024-12-23T22:07:23.408Z",
+    "details": "Listed sso_config with filters"
+  },
+  {
+    "id": "aud-0238",
+    "tenantId": "T-007",
+    "action": "login",
+    "resource": "billing",
+    "userId": "u-0032",
+    "timestamp": "2024-12-24T11:56:54.447Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0442",
+    "tenantId": "T-020",
+    "action": "delete",
+    "resource": "support_ticket",
+    "userId": "u-0087",
+    "timestamp": "2024-12-27T15:41:44.394Z",
+    "details": "Deleted support_ticket (soft delete)"
+  },
+  {
+    "id": "aud-0316",
+    "tenantId": "T-009",
+    "action": "logout",
+    "resource": "role",
+    "userId": "u-0043",
+    "timestamp": "2024-12-27T21:38:30.425Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0487",
+    "tenantId": "T-015",
+    "action": "status_change",
+    "resource": "dashboard",
+    "userId": "u-0070",
+    "timestamp": "2024-12-28T16:48:08.914Z",
+    "details": "Account suspended — payment failure"
+  },
+  {
+    "id": "aud-0311",
+    "tenantId": "T-018",
+    "action": "create",
+    "resource": "tenant",
+    "userId": "u-0082",
+    "timestamp": "2025-01-01T20:15:03.294Z",
+    "details": "Created tenant record"
+  },
+  {
+    "id": "aud-0017",
+    "tenantId": "T-006",
+    "action": "login",
+    "resource": "data_export",
+    "userId": "u-0028",
+    "timestamp": "2025-01-01T21:51:40.134Z",
+    "details": "MFA challenge completed"
+  },
+  {
+    "id": "aud-0047",
+    "tenantId": "T-023",
+    "action": "login",
+    "resource": "api_key",
+    "userId": "u-0099",
+    "timestamp": "2025-01-02T19:17:17.842Z",
+    "details": "Successful login from IP 10.0.115.22"
+  },
+  {
+    "id": "aud-0268",
+    "tenantId": "T-005",
+    "action": "permission_revoke",
+    "resource": "subscription",
+    "userId": "u-0021",
+    "timestamp": "2025-01-05T00:08:46.206Z",
+    "details": "Revoked read from user"
+  },
+  {
+    "id": "aud-0257",
+    "tenantId": "T-016",
+    "action": "role_change",
+    "resource": "subscription",
+    "userId": "u-0073",
+    "timestamp": "2025-01-07T20:22:03.497Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0030",
+    "tenantId": "T-020",
+    "action": "permission_revoke",
+    "resource": "storage",
+    "userId": "u-0090",
+    "timestamp": "2025-01-08T06:44:46.107Z",
+    "details": "Revoked billing_admin from user"
+  },
+  {
+    "id": "aud-0060",
+    "tenantId": "T-017",
+    "action": "permission_revoke",
+    "resource": "tenant",
+    "userId": "u-0078",
+    "timestamp": "2025-01-09T13:19:32.231Z",
+    "details": "Revoked user_manager from user"
+  },
+  {
+    "id": "aud-0454",
+    "tenantId": "T-004",
+    "action": "api_key_generate",
+    "resource": "api_key",
+    "userId": "u-0019",
+    "timestamp": "2025-01-09T23:45:13.860Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0224",
+    "tenantId": "T-007",
+    "action": "export",
+    "resource": "support_ticket",
+    "userId": "u-0034",
+    "timestamp": "2025-01-10T19:55:24.906Z",
+    "details": "Exported support_ticket data to CSV"
+  },
+  {
+    "id": "aud-0463",
+    "tenantId": "T-024",
+    "action": "logout",
+    "resource": "notification",
+    "userId": "u-0102",
+    "timestamp": "2025-01-11T13:57:06.053Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0417",
+    "tenantId": "T-007",
+    "action": "update",
+    "resource": "data_export",
+    "userId": "u-0033",
+    "timestamp": "2025-01-12T01:12:03.021Z",
+    "details": "Updated data_export field: name"
+  },
+  {
+    "id": "aud-0334",
+    "tenantId": "T-011",
+    "action": "logout",
+    "resource": "audit_log",
+    "userId": "u-0051",
+    "timestamp": "2025-01-13T18:02:32.903Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0386",
+    "tenantId": "T-009",
+    "action": "password_reset",
+    "resource": "dashboard",
+    "userId": "u-0042",
+    "timestamp": "2025-01-16T23:37:13.330Z",
+    "details": "Admin-initiated password reset"
+  },
+  {
+    "id": "aud-0472",
+    "tenantId": "T-008",
+    "action": "bulk_operation",
+    "resource": "security_policy",
+    "userId": "u-0037",
+    "timestamp": "2025-01-18T07:15:01.553Z",
+    "details": "Bulk updated 218 security_policy records"
+  },
+  {
+    "id": "aud-0312",
+    "tenantId": "T-011",
+    "action": "login",
+    "resource": "settings",
+    "userId": "u-0054",
+    "timestamp": "2025-01-18T15:26:40.343Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0403",
+    "tenantId": "T-002",
+    "action": "delete",
+    "resource": "api_key",
+    "userId": "u-0009",
+    "timestamp": "2025-01-19T21:01:42.967Z",
+    "details": "Bulk deleted 335 api_key records"
+  },
+  {
+    "id": "aud-0499",
+    "tenantId": "T-010",
+    "action": "import",
+    "resource": "api_key",
+    "userId": "u-0046",
+    "timestamp": "2025-01-20T05:44:21.217Z",
+    "details": "Data migration: api_key"
+  },
+  {
+    "id": "aud-0387",
+    "tenantId": "T-008",
+    "action": "permission_grant",
+    "resource": "integration",
+    "userId": "u-0037",
+    "timestamp": "2025-01-20T07:25:38.989Z",
+    "details": "Granted user_manager to user"
+  },
+  {
+    "id": "aud-0206",
+    "tenantId": "T-018",
+    "action": "plan_change",
+    "resource": "report",
+    "userId": "u-0079",
+    "timestamp": "2025-01-21T14:39:34.367Z",
+    "details": "Plan change scheduled for next billing cycle"
+  },
+  {
+    "id": "aud-0405",
+    "tenantId": "T-021",
+    "action": "login",
+    "resource": "user",
+    "userId": "u-0093",
+    "timestamp": "2025-01-24T00:12:13.544Z",
+    "details": "MFA challenge completed"
+  },
+  {
+    "id": "aud-0380",
+    "tenantId": "T-026",
+    "action": "import",
+    "resource": "security_policy",
+    "userId": "u-0108",
+    "timestamp": "2025-01-27T02:29:37.315Z",
+    "details": "Data migration: security_policy"
+  },
+  {
+    "id": "aud-0184",
+    "tenantId": "T-023",
+    "action": "bulk_operation",
+    "resource": "storage",
+    "userId": "u-0097",
+    "timestamp": "2025-01-27T08:00:03.337Z",
+    "details": "Mass update operation completed"
+  },
+  {
+    "id": "aud-0197",
+    "tenantId": "T-009",
+    "action": "login",
+    "resource": "storage",
+    "userId": "u-0042",
+    "timestamp": "2025-01-27T08:44:14.660Z",
+    "details": "Failed login attempt from IP 192.168.130.75"
+  },
+  {
+    "id": "aud-0458",
+    "tenantId": "T-007",
+    "action": "update",
+    "resource": "webhook",
+    "userId": "u-0033",
+    "timestamp": "2025-01-28T04:49:08.497Z",
+    "details": "Modified webhook configuration"
+  },
+  {
+    "id": "aud-0027",
+    "tenantId": "T-001",
+    "action": "billing_update",
+    "resource": "billing",
+    "userId": "u-0005",
+    "timestamp": "2025-01-28T22:13:07.286Z",
+    "details": "Updated payment method to credit_card"
+  },
+  {
+    "id": "aud-0437",
+    "tenantId": "T-010",
+    "action": "api_key_revoke",
+    "resource": "security_policy",
+    "userId": "u-0048",
+    "timestamp": "2025-01-29T10:02:53.197Z",
+    "details": "Revoked API key: sk-lk8a8z8k..."
+  },
+  {
+    "id": "aud-0084",
+    "tenantId": "T-007",
+    "action": "update",
+    "resource": "support_ticket",
+    "userId": "u-0031",
+    "timestamp": "2025-01-29T17:31:15.351Z",
+    "details": "Updated support_ticket field: status"
+  },
+  {
+    "id": "aud-0048",
+    "tenantId": "T-009",
+    "action": "permission_grant",
+    "resource": "sso_config",
+    "userId": "u-0041",
+    "timestamp": "2025-01-30T17:53:56.835Z",
+    "details": "Extended temporary access for 54 days"
+  },
+  {
+    "id": "aud-0134",
+    "tenantId": "T-013",
+    "action": "permission_revoke",
+    "resource": "invoice",
+    "userId": "u-0059",
+    "timestamp": "2025-01-31T03:14:37.642Z",
+    "details": "Temporary access expired"
+  },
+  {
+    "id": "aud-0481",
+    "tenantId": "T-014",
+    "action": "mfa_toggle",
+    "resource": "security_policy",
+    "userId": "u-0065",
+    "timestamp": "2025-01-31T18:59:15.638Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0385",
+    "tenantId": "T-024",
+    "action": "plan_change",
+    "resource": "dashboard",
+    "userId": "u-0100",
+    "timestamp": "2025-02-02T11:20:39.050Z",
+    "details": "Plan change scheduled for next billing cycle"
+  },
+  {
+    "id": "aud-0331",
+    "tenantId": "T-001",
+    "action": "billing_update",
+    "resource": "role",
+    "userId": "u-0001",
+    "timestamp": "2025-02-03T23:42:29.080Z",
+    "details": "Issued refund $20.91"
+  },
+  {
+    "id": "aud-0148",
+    "tenantId": "T-022",
+    "action": "export",
+    "resource": "data_export",
+    "userId": "u-0095",
+    "timestamp": "2025-02-05T18:03:55.611Z",
+    "details": "Exported data_export data to CSV"
+  },
+  {
+    "id": "aud-0338",
+    "tenantId": "T-013",
+    "action": "mfa_toggle",
+    "resource": "user",
+    "userId": "u-0059",
+    "timestamp": "2025-02-07T02:27:41.466Z",
+    "details": "MFA disabled"
+  },
+  {
+    "id": "aud-0188",
+    "tenantId": "T-001",
+    "action": "role_change",
+    "resource": "settings",
+    "userId": "u-0003",
+    "timestamp": "2025-02-08T11:33:46.703Z",
+    "details": "Changed role from Viewer to Admin"
+  },
+  {
+    "id": "aud-0392",
+    "tenantId": "T-025",
+    "action": "logout",
+    "resource": "notification",
+    "userId": "u-0105",
+    "timestamp": "2025-02-09T09:05:26.869Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0351",
+    "tenantId": "T-024",
+    "action": "create",
+    "resource": "subscription",
+    "userId": "u-0101",
+    "timestamp": "2025-02-09T09:16:35.354Z",
+    "details": "Created subscription record"
+  },
+  {
+    "id": "aud-0080",
+    "tenantId": "T-008",
+    "action": "api_key_revoke",
+    "resource": "support_ticket",
+    "userId": "u-0038",
+    "timestamp": "2025-02-11T22:41:22.634Z",
+    "details": "Bulk revoked 264 keys"
+  },
+  {
+    "id": "aud-0220",
+    "tenantId": "T-002",
+    "action": "plan_change",
+    "resource": "report",
+    "userId": "u-0007",
+    "timestamp": "2025-02-14T02:48:13.840Z",
+    "details": "Downgraded plan to plan-enterprise"
+  },
+  {
+    "id": "aud-0410",
+    "tenantId": "T-027",
+    "action": "webhook_configure",
+    "resource": "role",
+    "userId": "u-0109",
+    "timestamp": "2025-02-14T16:06:23.976Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0497",
+    "tenantId": "T-022",
+    "action": "api_key_revoke",
+    "resource": "billing",
+    "userId": "u-0094",
+    "timestamp": "2025-02-15T09:46:33.869Z",
+    "details": "Revoked API key: sk-w1t33jej..."
+  },
+  {
+    "id": "aud-0140",
+    "tenantId": "T-028",
+    "action": "mfa_toggle",
+    "resource": "data_export",
+    "userId": "u-0113",
+    "timestamp": "2025-02-15T15:12:13.573Z",
+    "details": "MFA disabled"
+  },
+  {
+    "id": "aud-0430",
+    "tenantId": "T-016",
+    "action": "export",
+    "resource": "invoice",
+    "userId": "u-0072",
+    "timestamp": "2025-02-17T09:07:26.081Z",
+    "details": "Scheduled recurring invoice export"
+  },
+  {
+    "id": "aud-0002",
+    "tenantId": "T-009",
+    "action": "permission_grant",
+    "resource": "dashboard",
+    "userId": "u-0042",
+    "timestamp": "2025-02-17T20:09:49.775Z",
+    "details": "Extended temporary access for 145 days"
+  },
+  {
+    "id": "aud-0478",
+    "tenantId": "T-016",
+    "action": "status_change",
+    "resource": "security_policy",
+    "userId": "u-0073",
+    "timestamp": "2025-02-18T19:00:46.959Z",
+    "details": "Account suspended — inactivity"
+  },
+  {
+    "id": "aud-0383",
+    "tenantId": "T-002",
+    "action": "api_key_revoke",
+    "resource": "dashboard",
+    "userId": "u-0008",
+    "timestamp": "2025-02-19T06:46:57.515Z",
+    "details": "Rotated all API keys for security audit"
+  },
+  {
+    "id": "aud-0150",
+    "tenantId": "T-010",
+    "action": "import",
+    "resource": "subscription",
+    "userId": "u-0049",
+    "timestamp": "2025-02-19T11:59:03.393Z",
+    "details": "Bulk subscription sync from external system"
+  },
+  {
+    "id": "aud-0366",
+    "tenantId": "T-018",
+    "action": "delete",
+    "resource": "user",
+    "userId": "u-0081",
+    "timestamp": "2025-02-22T09:22:35.199Z",
+    "details": "Bulk deleted 265 user records"
+  },
+  {
+    "id": "aud-0445",
+    "tenantId": "T-019",
+    "action": "webhook_configure",
+    "resource": "api_key",
+    "userId": "u-0084",
+    "timestamp": "2025-02-22T14:38:20.552Z",
+    "details": "Registered webhook endpoint: https://events.globex.com/v2/callback"
+  },
+  {
+    "id": "aud-0400",
+    "tenantId": "T-002",
+    "action": "create",
+    "resource": "api_key",
+    "userId": "u-0006",
+    "timestamp": "2025-02-26T01:41:43.389Z",
+    "details": "Bulk created 325 api_key records via import"
+  },
+  {
+    "id": "aud-0144",
+    "tenantId": "T-016",
+    "action": "permission_grant",
+    "resource": "invoice",
+    "userId": "u-0073",
+    "timestamp": "2025-03-02T13:24:33.421Z",
+    "details": "Granted user_manager to user"
+  },
+  {
+    "id": "aud-0330",
+    "tenantId": "T-023",
+    "action": "import",
+    "resource": "user",
+    "userId": "u-0099",
+    "timestamp": "2025-03-02T19:19:55.754Z",
+    "details": "Data migration: user"
+  },
+  {
+    "id": "aud-0462",
+    "tenantId": "T-010",
+    "action": "export",
+    "resource": "notification",
+    "userId": "u-0049",
+    "timestamp": "2025-03-06T03:23:55.254Z",
+    "details": "Scheduled recurring notification export"
+  },
+  {
+    "id": "aud-0436",
+    "tenantId": "T-023",
+    "action": "api_key_revoke",
+    "resource": "audit_log",
+    "userId": "u-0098",
+    "timestamp": "2025-03-06T22:48:07.696Z",
+    "details": "Rotated all API keys for security audit"
+  },
+  {
+    "id": "aud-0370",
+    "tenantId": "T-008",
+    "action": "billing_update",
+    "resource": "sso_config",
+    "userId": "u-0037",
+    "timestamp": "2025-03-09T04:03:43.948Z",
+    "details": "Applied credit of $91.66"
+  },
+  {
+    "id": "aud-0214",
+    "tenantId": "T-009",
+    "action": "billing_update",
+    "resource": "notification",
+    "userId": "u-0043",
+    "timestamp": "2025-03-09T15:19:03.356Z",
+    "details": "Issued refund $20.91"
+  },
+  {
+    "id": "aud-0469",
+    "tenantId": "T-019",
+    "action": "password_reset",
+    "resource": "report",
+    "userId": "u-0085",
+    "timestamp": "2025-03-10T13:45:00.517Z",
+    "details": "Password reset requested"
+  },
+  {
+    "id": "aud-0277",
+    "tenantId": "T-005",
+    "action": "api_key_generate",
+    "resource": "sso_config",
+    "userId": "u-0022",
+    "timestamp": "2025-03-11T19:52:33.409Z",
+    "details": "Created sandbox API key"
+  },
+  {
+    "id": "aud-0457",
+    "tenantId": "T-012",
+    "action": "delete",
+    "resource": "settings",
+    "userId": "u-0056",
+    "timestamp": "2025-03-14T05:15:47.920Z",
+    "details": "Deleted settings (soft delete)"
+  },
+  {
+    "id": "aud-0249",
+    "tenantId": "T-028",
+    "action": "export",
+    "resource": "report",
+    "userId": "u-0112",
+    "timestamp": "2025-03-14T20:48:26.808Z",
+    "details": "Exported report data to CSV"
+  },
+  {
+    "id": "aud-0340",
+    "tenantId": "T-013",
+    "action": "delete",
+    "resource": "dashboard",
+    "userId": "u-0060",
+    "timestamp": "2025-03-15T23:07:25.308Z",
+    "details": "Bulk deleted 494 dashboard records"
+  },
+  {
+    "id": "aud-0473",
+    "tenantId": "T-026",
+    "action": "login",
+    "resource": "sso_config",
+    "userId": "u-0107",
+    "timestamp": "2025-03-16T22:00:39.171Z",
+    "details": "Failed login attempt from IP 198.51.100.188.23"
+  },
+  {
+    "id": "aud-0282",
+    "tenantId": "T-014",
+    "action": "create",
+    "resource": "audit_log",
+    "userId": "u-0066",
+    "timestamp": "2025-03-18T13:44:49.790Z",
+    "details": "Bulk created 374 audit_log records via import"
+  },
+  {
+    "id": "aud-0328",
+    "tenantId": "T-014",
+    "action": "billing_update",
+    "resource": "storage",
+    "userId": "u-0065",
+    "timestamp": "2025-03-20T02:22:51.772Z",
+    "details": "Issued refund $20.91"
+  },
+  {
+    "id": "aud-0401",
+    "tenantId": "T-022",
+    "action": "export",
+    "resource": "report",
+    "userId": "u-0095",
+    "timestamp": "2025-03-21T06:31:12.301Z",
+    "details": "Generated report PDF report"
+  },
+  {
+    "id": "aud-0285",
+    "tenantId": "T-013",
+    "action": "password_reset",
+    "resource": "data_export",
+    "userId": "u-0062",
+    "timestamp": "2025-03-25T14:27:15.533Z",
+    "details": "Password reset requested"
+  },
+  {
+    "id": "aud-0230",
+    "tenantId": "T-010",
+    "action": "settings_update",
+    "resource": "role",
+    "userId": "u-0048",
+    "timestamp": "2025-03-26T18:10:24.762Z",
+    "details": "Changed retention policy to 295 days"
+  },
+  {
+    "id": "aud-0299",
+    "tenantId": "T-008",
+    "action": "role_change",
+    "resource": "webhook",
+    "userId": "u-0040",
+    "timestamp": "2025-03-27T15:21:32.958Z",
+    "details": "Changed role from Viewer to Admin"
+  },
+  {
+    "id": "aud-0043",
+    "tenantId": "T-012",
+    "action": "plan_change",
+    "resource": "permission",
+    "userId": "u-0057",
+    "timestamp": "2025-03-27T17:57:50.197Z",
+    "details": "Downgraded plan to plan-starter"
+  },
+  {
+    "id": "aud-0073",
+    "tenantId": "T-018",
+    "action": "delete",
+    "resource": "invoice",
+    "userId": "u-0082",
+    "timestamp": "2025-03-27T19:12:08.762Z",
+    "details": "Permanently removed invoice"
+  },
+  {
+    "id": "aud-0192",
+    "tenantId": "T-019",
+    "action": "webhook_configure",
+    "resource": "support_ticket",
+    "userId": "u-0085",
+    "timestamp": "2025-03-28T00:43:23.927Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0452",
+    "tenantId": "T-013",
+    "action": "webhook_configure",
+    "resource": "integration",
+    "userId": "u-0061",
+    "timestamp": "2025-03-28T13:05:49.417Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0113",
+    "tenantId": "T-001",
+    "action": "delete",
+    "resource": "notification",
+    "userId": "u-0005",
+    "timestamp": "2025-03-29T11:20:21.975Z",
+    "details": "Deleted notification (soft delete)"
+  },
+  {
+    "id": "aud-0025",
+    "tenantId": "T-023",
+    "action": "permission_grant",
+    "resource": "notification",
+    "userId": "u-0098",
+    "timestamp": "2025-03-29T16:21:31.429Z",
+    "details": "Granted report_viewer to user"
+  },
+  {
+    "id": "aud-0418",
+    "tenantId": "T-021",
+    "action": "settings_update",
+    "resource": "permission",
+    "userId": "u-0091",
+    "timestamp": "2025-03-29T17:07:51.548Z",
+    "details": "Updated security settings"
+  },
+  {
+    "id": "aud-0320",
+    "tenantId": "T-019",
+    "action": "create",
+    "resource": "security_policy",
+    "userId": "u-0086",
+    "timestamp": "2025-03-29T19:33:06.902Z",
+    "details": "Bulk created 231 security_policy records via import"
+  },
+  {
+    "id": "aud-0099",
+    "tenantId": "T-026",
+    "action": "bulk_operation",
+    "resource": "api_key",
+    "userId": "u-0108",
+    "timestamp": "2025-03-30T23:03:43.919Z",
+    "details": "Bulk deleted 304 api_key records"
+  },
+  {
+    "id": "aud-0066",
+    "tenantId": "T-012",
+    "action": "mfa_toggle",
+    "resource": "integration",
+    "userId": "u-0056",
+    "timestamp": "2025-04-01T20:37:03.038Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0063",
+    "tenantId": "T-021",
+    "action": "permission_revoke",
+    "resource": "settings",
+    "userId": "u-0091",
+    "timestamp": "2025-04-03T22:07:15.044Z",
+    "details": "Revoked read from user"
+  },
+  {
+    "id": "aud-0332",
+    "tenantId": "T-011",
+    "action": "mfa_toggle",
+    "resource": "sso_config",
+    "userId": "u-0051",
+    "timestamp": "2025-04-04T06:23:38.677Z",
+    "details": "MFA disabled"
+  },
+  {
+    "id": "aud-0424",
+    "tenantId": "T-011",
+    "action": "status_change",
+    "resource": "storage",
+    "userId": "u-0054",
+    "timestamp": "2025-04-06T11:35:36.111Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0112",
+    "tenantId": "T-022",
+    "action": "webhook_configure",
+    "resource": "data_export",
+    "userId": "u-0096",
+    "timestamp": "2025-04-11T23:51:52.479Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0321",
+    "tenantId": "T-017",
+    "action": "webhook_configure",
+    "resource": "integration",
+    "userId": "u-0078",
+    "timestamp": "2025-04-12T10:20:39.730Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0379",
+    "tenantId": "T-006",
+    "action": "create",
+    "resource": "user",
+    "userId": "u-0027",
+    "timestamp": "2025-04-13T01:19:00.212Z",
+    "details": "Created user record"
+  },
+  {
+    "id": "aud-0129",
+    "tenantId": "T-010",
+    "action": "permission_grant",
+    "resource": "dashboard",
+    "userId": "u-0050",
+    "timestamp": "2025-04-15T01:39:47.912Z",
+    "details": "Extended temporary access for 290 days"
+  },
+  {
+    "id": "aud-0394",
+    "tenantId": "T-018",
+    "action": "mfa_toggle",
+    "resource": "settings",
+    "userId": "u-0079",
+    "timestamp": "2025-04-17T04:03:53.551Z",
+    "details": "MFA disabled"
+  },
+  {
+    "id": "aud-0170",
+    "tenantId": "T-021",
+    "action": "import",
+    "resource": "role",
+    "userId": "u-0093",
+    "timestamp": "2025-04-18T21:42:12.869Z",
+    "details": "Data migration: role"
+  },
+  {
+    "id": "aud-0019",
+    "tenantId": "T-030",
+    "action": "mfa_toggle",
+    "resource": "audit_log",
+    "userId": "u-0120",
+    "timestamp": "2025-04-20T15:59:32.700Z",
+    "details": "MFA method changed to hardware key"
+  },
+  {
+    "id": "aud-0291",
+    "tenantId": "T-028",
+    "action": "permission_grant",
+    "resource": "invoice",
+    "userId": "u-0114",
+    "timestamp": "2025-04-20T22:09:53.708Z",
+    "details": "Extended temporary access for 160 days"
+  },
+  {
+    "id": "aud-0029",
+    "tenantId": "T-027",
+    "action": "bulk_operation",
+    "resource": "support_ticket",
+    "userId": "u-0109",
+    "timestamp": "2025-04-23T21:47:26.457Z",
+    "details": "Mass migrate operation completed"
+  },
+  {
+    "id": "aud-0137",
+    "tenantId": "T-006",
+    "action": "password_reset",
+    "resource": "permission",
+    "userId": "u-0029",
+    "timestamp": "2025-04-24T05:29:21.335Z",
+    "details": "Admin-initiated password reset"
+  },
+  {
+    "id": "aud-0333",
+    "tenantId": "T-012",
+    "action": "password_reset",
+    "resource": "storage",
+    "userId": "u-0057",
+    "timestamp": "2025-04-25T16:26:49.524Z",
+    "details": "Password changed successfully"
+  },
+  {
+    "id": "aud-0071",
+    "tenantId": "T-011",
+    "action": "permission_grant",
+    "resource": "api_key",
+    "userId": "u-0053",
+    "timestamp": "2025-04-27T15:57:09.602Z",
+    "details": "Granted admin to user"
+  },
+  {
+    "id": "aud-0297",
+    "tenantId": "T-007",
+    "action": "api_key_generate",
+    "resource": "billing",
+    "userId": "u-0035",
+    "timestamp": "2025-04-27T16:19:45.524Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0082",
+    "tenantId": "T-003",
+    "action": "api_key_generate",
+    "resource": "invoice",
+    "userId": "u-0011",
+    "timestamp": "2025-04-29T20:37:19.507Z",
+    "details": "Generated new API key: sk-ckrvvk6j..."
+  },
+  {
+    "id": "aud-0453",
+    "tenantId": "T-018",
+    "action": "status_change",
+    "resource": "settings",
+    "userId": "u-0080",
+    "timestamp": "2025-05-01T20:02:00.499Z",
+    "details": "Account suspended — payment failure"
+  },
+  {
+    "id": "aud-0242",
+    "tenantId": "T-018",
+    "action": "mfa_toggle",
+    "resource": "invoice",
+    "userId": "u-0082",
+    "timestamp": "2025-05-02T03:35:15.105Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0207",
+    "tenantId": "T-010",
+    "action": "bulk_operation",
+    "resource": "support_ticket",
+    "userId": "u-0047",
+    "timestamp": "2025-05-02T20:03:25.332Z",
+    "details": "Bulk updated 208 support_ticket records"
+  },
+  {
+    "id": "aud-0161",
+    "tenantId": "T-023",
+    "action": "api_key_generate",
+    "resource": "invoice",
+    "userId": "u-0099",
+    "timestamp": "2025-05-04T02:12:30.876Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0490",
+    "tenantId": "T-026",
+    "action": "settings_update",
+    "resource": "notification",
+    "userId": "u-0107",
+    "timestamp": "2025-05-05T05:43:17.376Z",
+    "details": "Changed retention policy to 236 days"
+  },
+  {
+    "id": "aud-0250",
+    "tenantId": "T-019",
+    "action": "status_change",
+    "resource": "support_ticket",
+    "userId": "u-0085",
+    "timestamp": "2025-05-08T16:58:57.925Z",
+    "details": "Account suspended — admin request"
+  },
+  {
+    "id": "aud-0461",
+    "tenantId": "T-018",
+    "action": "status_change",
+    "resource": "api_key",
+    "userId": "u-0080",
+    "timestamp": "2025-05-09T09:44:27.567Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0359",
+    "tenantId": "T-017",
+    "action": "webhook_configure",
+    "resource": "support_ticket",
+    "userId": "u-0076",
+    "timestamp": "2025-05-09T09:45:19.144Z",
+    "details": "Registered webhook endpoint: https://webhooks.wayne-enterprises.com/v2/callback"
+  },
+  {
+    "id": "aud-0065",
+    "tenantId": "T-003",
+    "action": "webhook_configure",
+    "resource": "invoice",
+    "userId": "u-0012",
+    "timestamp": "2025-05-10T01:52:41.971Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0187",
+    "tenantId": "T-008",
+    "action": "plan_change",
+    "resource": "data_export",
+    "userId": "u-0036",
+    "timestamp": "2025-05-12T22:47:41.599Z",
+    "details": "Upgraded plan to plan-starter"
+  },
+  {
+    "id": "aud-0301",
+    "tenantId": "T-015",
+    "action": "update",
+    "resource": "integration",
+    "userId": "u-0067",
+    "timestamp": "2025-05-13T12:40:07.155Z",
+    "details": "Modified integration configuration"
+  },
+  {
+    "id": "aud-0465",
+    "tenantId": "T-027",
+    "action": "mfa_toggle",
+    "resource": "subscription",
+    "userId": "u-0111",
+    "timestamp": "2025-05-14T19:33:29.842Z",
+    "details": "MFA method changed to hardware key"
+  },
+  {
+    "id": "aud-0451",
+    "tenantId": "T-014",
+    "action": "bulk_operation",
+    "resource": "support_ticket",
+    "userId": "u-0066",
+    "timestamp": "2025-05-15T13:39:54.198Z",
+    "details": "Bulk updated 331 support_ticket records"
+  },
+  {
+    "id": "aud-0233",
+    "tenantId": "T-008",
+    "action": "login",
+    "resource": "support_ticket",
+    "userId": "u-0036",
+    "timestamp": "2025-05-19T15:04:11.924Z",
+    "details": "Failed login attempt from IP 10.0.149.211"
+  },
+  {
+    "id": "aud-0057",
+    "tenantId": "T-026",
+    "action": "create",
+    "resource": "audit_log",
+    "userId": "u-0108",
+    "timestamp": "2025-05-20T09:29:27.142Z",
+    "details": "Created audit_log record"
+  },
+  {
+    "id": "aud-0413",
+    "tenantId": "T-008",
+    "action": "permission_revoke",
+    "resource": "report",
+    "userId": "u-0038",
+    "timestamp": "2025-05-21T12:00:47.890Z",
+    "details": "Revoked report_viewer from user"
+  },
+  {
+    "id": "aud-0081",
+    "tenantId": "T-021",
+    "action": "update",
+    "resource": "support_ticket",
+    "userId": "u-0093",
+    "timestamp": "2025-05-22T16:43:08.206Z",
+    "details": "Updated support_ticket field: name"
+  },
+  {
+    "id": "aud-0180",
+    "tenantId": "T-016",
+    "action": "export",
+    "resource": "api_key",
+    "userId": "u-0073",
+    "timestamp": "2025-05-23T01:51:46.459Z",
+    "details": "Exported api_key data to CSV"
+  },
+  {
+    "id": "aud-0412",
+    "tenantId": "T-025",
+    "action": "view",
+    "resource": "subscription",
+    "userId": "u-0104",
+    "timestamp": "2025-05-26T05:59:31.742Z",
+    "details": "Listed subscription with filters"
+  },
+  {
+    "id": "aud-0500",
+    "tenantId": "T-030",
+    "action": "webhook_configure",
+    "resource": "invoice",
+    "userId": "u-0118",
+    "timestamp": "2025-05-26T17:19:52.935Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0293",
+    "tenantId": "T-020",
+    "action": "update",
+    "resource": "audit_log",
+    "userId": "u-0087",
+    "timestamp": "2025-05-28T01:53:56.571Z",
+    "details": "Updated audit_log field: domain"
+  },
+  {
+    "id": "aud-0489",
+    "tenantId": "T-008",
+    "action": "create",
+    "resource": "sso_config",
+    "userId": "u-0036",
+    "timestamp": "2025-05-29T01:22:04.041Z",
+    "details": "Created sso_config record"
+  },
+  {
+    "id": "aud-0110",
+    "tenantId": "T-012",
+    "action": "export",
+    "resource": "support_ticket",
+    "userId": "u-0056",
+    "timestamp": "2025-06-01T00:47:10.498Z",
+    "details": "Exported support_ticket data to CSV"
+  },
+  {
+    "id": "aud-0381",
+    "tenantId": "T-018",
+    "action": "api_key_revoke",
+    "resource": "audit_log",
+    "userId": "u-0079",
+    "timestamp": "2025-06-01T17:55:14.469Z",
+    "details": "Revoked API key: sk-xr61g2fo..."
+  },
+  {
+    "id": "aud-0402",
+    "tenantId": "T-006",
+    "action": "permission_revoke",
+    "resource": "sso_config",
+    "userId": "u-0027",
+    "timestamp": "2025-06-02T08:54:05.944Z",
+    "details": "Revoked read from user"
+  },
+  {
+    "id": "aud-0189",
+    "tenantId": "T-022",
+    "action": "export",
+    "resource": "subscription",
+    "userId": "u-0096",
+    "timestamp": "2025-06-04T00:59:36.009Z",
+    "details": "Scheduled recurring subscription export"
+  },
+  {
+    "id": "aud-0074",
+    "tenantId": "T-029",
+    "action": "status_change",
+    "resource": "tenant",
+    "userId": "u-0116",
+    "timestamp": "2025-06-05T21:05:31.809Z",
+    "details": "Account suspended — security review"
+  },
+  {
+    "id": "aud-0323",
+    "tenantId": "T-009",
+    "action": "view",
+    "resource": "settings",
+    "userId": "u-0045",
+    "timestamp": "2025-06-11T10:59:58.020Z",
+    "details": "Listed settings with filters"
+  },
+  {
+    "id": "aud-0292",
+    "tenantId": "T-029",
+    "action": "permission_grant",
+    "resource": "invoice",
+    "userId": "u-0117",
+    "timestamp": "2025-06-12T03:09:21.341Z",
+    "details": "Extended temporary access for 248 days"
+  },
+  {
+    "id": "aud-0480",
+    "tenantId": "T-005",
+    "action": "webhook_configure",
+    "resource": "data_export",
+    "userId": "u-0022",
+    "timestamp": "2025-06-13T02:55:10.707Z",
+    "details": "Registered webhook endpoint: https://events.acmecorp.com/v2/callback"
+  },
+  {
+    "id": "aud-0153",
+    "tenantId": "T-005",
+    "action": "bulk_operation",
+    "resource": "tenant",
+    "userId": "u-0021",
+    "timestamp": "2025-06-17T21:37:01.934Z",
+    "details": "Bulk deleted 180 tenant records"
+  },
+  {
+    "id": "aud-0317",
+    "tenantId": "T-030",
+    "action": "password_reset",
+    "resource": "webhook",
+    "userId": "u-0119",
+    "timestamp": "2025-06-18T17:58:06.737Z",
+    "details": "Admin-initiated password reset"
+  },
+  {
+    "id": "aud-0407",
+    "tenantId": "T-009",
+    "action": "settings_update",
+    "resource": "security_policy",
+    "userId": "u-0043",
+    "timestamp": "2025-06-18T23:29:36.284Z",
+    "details": "Updated security settings"
+  },
+  {
+    "id": "aud-0303",
+    "tenantId": "T-025",
+    "action": "billing_update",
+    "resource": "tenant",
+    "userId": "u-0105",
+    "timestamp": "2025-06-19T14:21:05.772Z",
+    "details": "Issued refund $20.91"
+  },
+  {
+    "id": "aud-0329",
+    "tenantId": "T-008",
+    "action": "status_change",
+    "resource": "dashboard",
+    "userId": "u-0040",
+    "timestamp": "2025-06-20T17:58:16.594Z",
+    "details": "Status changed from Active to Active"
+  },
+  {
+    "id": "aud-0444",
+    "tenantId": "T-014",
+    "action": "permission_grant",
+    "resource": "report",
+    "userId": "u-0066",
+    "timestamp": "2025-06-21T04:56:56.875Z",
+    "details": "Granted admin to user"
+  },
+  {
+    "id": "aud-0160",
+    "tenantId": "T-007",
+    "action": "logout",
+    "resource": "subscription",
+    "userId": "u-0031",
+    "timestamp": "2025-06-26T04:56:28.114Z",
+    "details": "Forced logout by admin"
+  },
+  {
+    "id": "aud-0069",
+    "tenantId": "T-029",
+    "action": "plan_change",
+    "resource": "storage",
+    "userId": "u-0116",
+    "timestamp": "2025-06-29T13:56:33.350Z",
+    "details": "Upgraded plan to plan-starter"
+  },
+  {
+    "id": "aud-0042",
+    "tenantId": "T-010",
+    "action": "password_reset",
+    "resource": "invoice",
+    "userId": "u-0048",
+    "timestamp": "2025-06-30T01:56:40.529Z",
+    "details": "Admin-initiated password reset"
+  },
+  {
+    "id": "aud-0468",
+    "tenantId": "T-028",
+    "action": "logout",
+    "resource": "settings",
+    "userId": "u-0114",
+    "timestamp": "2025-07-04T12:21:49.410Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0358",
+    "tenantId": "T-009",
+    "action": "mfa_toggle",
+    "resource": "role",
+    "userId": "u-0042",
+    "timestamp": "2025-07-05T03:43:48.670Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0378",
+    "tenantId": "T-015",
+    "action": "permission_grant",
+    "resource": "billing",
+    "userId": "u-0068",
+    "timestamp": "2025-07-06T03:07:21.973Z",
+    "details": "Granted report_viewer to user"
+  },
+  {
+    "id": "aud-0464",
+    "tenantId": "T-026",
+    "action": "mfa_toggle",
+    "resource": "invoice",
+    "userId": "u-0106",
+    "timestamp": "2025-07-07T13:34:44.072Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0357",
+    "tenantId": "T-006",
+    "action": "permission_grant",
+    "resource": "report",
+    "userId": "u-0026",
+    "timestamp": "2025-07-08T14:50:37.049Z",
+    "details": "Added user to support group"
+  },
+  {
+    "id": "aud-0083",
+    "tenantId": "T-010",
+    "action": "create",
+    "resource": "settings",
+    "userId": "u-0050",
+    "timestamp": "2025-07-08T15:37:32.087Z",
+    "details": "Created settings record"
+  },
+  {
+    "id": "aud-0259",
+    "tenantId": "T-023",
+    "action": "view",
+    "resource": "tenant",
+    "userId": "u-0099",
+    "timestamp": "2025-07-11T09:25:19.937Z",
+    "details": "Listed tenant with filters"
+  },
+  {
+    "id": "aud-0354",
+    "tenantId": "T-022",
+    "action": "create",
+    "resource": "billing",
+    "userId": "u-0094",
+    "timestamp": "2025-07-12T06:43:09.533Z",
+    "details": "Created billing record"
+  },
+  {
+    "id": "aud-0126",
+    "tenantId": "T-023",
+    "action": "status_change",
+    "resource": "sso_config",
+    "userId": "u-0099",
+    "timestamp": "2025-07-13T05:58:52.347Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0491",
+    "tenantId": "T-013",
+    "action": "create",
+    "resource": "api_key",
+    "userId": "u-0062",
+    "timestamp": "2025-07-14T07:42:20.145Z",
+    "details": "Bulk created 476 api_key records via import"
+  },
+  {
+    "id": "aud-0343",
+    "tenantId": "T-011",
+    "action": "login",
+    "resource": "invoice",
+    "userId": "u-0053",
+    "timestamp": "2025-07-15T13:15:30.776Z",
+    "details": "Session expired — reauthentication required"
+  },
+  {
+    "id": "aud-0396",
+    "tenantId": "T-009",
+    "action": "password_reset",
+    "resource": "invoice",
+    "userId": "u-0044",
+    "timestamp": "2025-07-15T23:09:22.068Z",
+    "details": "Password reset requested"
+  },
+  {
+    "id": "aud-0289",
+    "tenantId": "T-020",
+    "action": "logout",
+    "resource": "data_export",
+    "userId": "u-0089",
+    "timestamp": "2025-07-16T02:25:52.561Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0244",
+    "tenantId": "T-018",
+    "action": "view",
+    "resource": "subscription",
+    "userId": "u-0080",
+    "timestamp": "2025-07-16T07:25:02.471Z",
+    "details": "Listed subscription with filters"
+  },
+  {
+    "id": "aud-0237",
+    "tenantId": "T-002",
+    "action": "mfa_toggle",
+    "resource": "support_ticket",
+    "userId": "u-0010",
+    "timestamp": "2025-07-17T08:47:45.483Z",
+    "details": "MFA enabled"
+  },
+  {
+    "id": "aud-0324",
+    "tenantId": "T-002",
+    "action": "create",
+    "resource": "support_ticket",
+    "userId": "u-0008",
+    "timestamp": "2025-07-18T11:32:31.098Z",
+    "details": "Bulk created 163 support_ticket records via import"
+  },
+  {
+    "id": "aud-0145",
+    "tenantId": "T-010",
+    "action": "webhook_configure",
+    "resource": "data_export",
+    "userId": "u-0046",
+    "timestamp": "2025-07-19T16:08:11.828Z",
+    "details": "Webhook delivery failed — endpoint unreachable"
+  },
+  {
+    "id": "aud-0122",
+    "tenantId": "T-002",
+    "action": "plan_change",
+    "resource": "storage",
+    "userId": "u-0008",
+    "timestamp": "2025-07-19T16:29:38.685Z",
+    "details": "Downgraded plan to plan-business"
+  },
+  {
+    "id": "aud-0475",
+    "tenantId": "T-009",
+    "action": "bulk_operation",
+    "resource": "user",
+    "userId": "u-0045",
+    "timestamp": "2025-07-19T16:40:14.665Z",
+    "details": "Bulk updated 206 user records"
+  },
+  {
+    "id": "aud-0342",
+    "tenantId": "T-030",
+    "action": "logout",
+    "resource": "subscription",
+    "userId": "u-0119",
+    "timestamp": "2025-07-22T17:36:34.602Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0248",
+    "tenantId": "T-028",
+    "action": "webhook_configure",
+    "resource": "integration",
+    "userId": "u-0112",
+    "timestamp": "2025-07-23T16:07:44.808Z",
+    "details": "Registered webhook endpoint: https://api.acmecorp.com/v1/callback"
+  },
+  {
+    "id": "aud-0151",
+    "tenantId": "T-018",
+    "action": "settings_update",
+    "resource": "support_ticket",
+    "userId": "u-0079",
+    "timestamp": "2025-07-25T00:50:09.103Z",
+    "details": "Changed retention policy to 79 days"
+  },
+  {
+    "id": "aud-0058",
+    "tenantId": "T-030",
+    "action": "login",
+    "resource": "sso_config",
+    "userId": "u-0119",
+    "timestamp": "2025-07-27T09:47:57.869Z",
+    "details": "MFA challenge completed"
+  },
+  {
+    "id": "aud-0221",
+    "tenantId": "T-010",
+    "action": "password_reset",
+    "resource": "integration",
+    "userId": "u-0047",
+    "timestamp": "2025-07-30T11:27:39.005Z",
+    "details": "Admin-initiated password reset"
+  },
+  {
+    "id": "aud-0115",
+    "tenantId": "T-010",
+    "action": "export",
+    "resource": "notification",
+    "userId": "u-0046",
+    "timestamp": "2025-07-30T18:35:05.886Z",
+    "details": "Exported notification data to CSV"
+  },
+  {
+    "id": "aud-0256",
+    "tenantId": "T-002",
+    "action": "logout",
+    "resource": "notification",
+    "userId": "u-0009",
+    "timestamp": "2025-07-30T23:37:33.006Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0389",
+    "tenantId": "T-012",
+    "action": "api_key_revoke",
+    "resource": "sso_config",
+    "userId": "u-0056",
+    "timestamp": "2025-08-01T01:15:43.103Z",
+    "details": "Bulk revoked 141 keys"
+  },
+  {
+    "id": "aud-0446",
+    "tenantId": "T-011",
+    "action": "settings_update",
+    "resource": "role",
+    "userId": "u-0054",
+    "timestamp": "2025-08-02T08:15:34.535Z",
+    "details": "Updated security settings"
+  },
+  {
+    "id": "aud-0092",
+    "tenantId": "T-027",
+    "action": "export",
+    "resource": "role",
+    "userId": "u-0110",
+    "timestamp": "2025-08-02T18:06:12.695Z",
+    "details": "Scheduled recurring role export"
+  },
+  {
+    "id": "aud-0315",
+    "tenantId": "T-003",
+    "action": "import",
+    "resource": "support_ticket",
+    "userId": "u-0012",
+    "timestamp": "2025-08-03T13:12:20.108Z",
+    "details": "Data migration: support_ticket"
+  },
+  {
+    "id": "aud-0226",
+    "tenantId": "T-003",
+    "action": "api_key_generate",
+    "resource": "webhook",
+    "userId": "u-0012",
+    "timestamp": "2025-08-03T21:46:38.518Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0223",
+    "tenantId": "T-006",
+    "action": "import",
+    "resource": "support_ticket",
+    "userId": "u-0029",
+    "timestamp": "2025-08-04T20:30:08.780Z",
+    "details": "Imported 417 support_ticket records from CSV"
+  },
+  {
+    "id": "aud-0138",
+    "tenantId": "T-021",
+    "action": "plan_change",
+    "resource": "data_export",
+    "userId": "u-0091",
+    "timestamp": "2025-08-07T12:58:32.423Z",
+    "details": "Upgraded plan to plan-professional"
+  },
+  {
+    "id": "aud-0419",
+    "tenantId": "T-028",
+    "action": "settings_update",
+    "resource": "integration",
+    "userId": "u-0113",
+    "timestamp": "2025-08-07T19:32:53.971Z",
+    "details": "Modified notification preferences"
+  },
+  {
+    "id": "aud-0404",
+    "tenantId": "T-006",
+    "action": "permission_grant",
+    "resource": "webhook",
+    "userId": "u-0029",
+    "timestamp": "2025-08-09T14:39:35.097Z",
+    "details": "Added user to finance group"
+  },
+  {
+    "id": "aud-0415",
+    "tenantId": "T-030",
+    "action": "import",
+    "resource": "support_ticket",
+    "userId": "u-0118",
+    "timestamp": "2025-08-09T18:12:31.461Z",
+    "details": "Bulk support_ticket sync from external system"
+  },
+  {
+    "id": "aud-0222",
+    "tenantId": "T-021",
+    "action": "view",
+    "resource": "integration",
+    "userId": "u-0091",
+    "timestamp": "2025-08-11T07:58:23.444Z",
+    "details": "Viewed integration details"
+  },
+  {
+    "id": "aud-0482",
+    "tenantId": "T-012",
+    "action": "export",
+    "resource": "data_export",
+    "userId": "u-0056",
+    "timestamp": "2025-08-14T02:22:05.057Z",
+    "details": "Exported data_export data to CSV"
+  },
+  {
+    "id": "aud-0345",
+    "tenantId": "T-014",
+    "action": "role_change",
+    "resource": "report",
+    "userId": "u-0063",
+    "timestamp": "2025-08-15T09:51:43.144Z",
+    "details": "Changed role from Billing to Admin"
+  },
+  {
+    "id": "aud-0078",
+    "tenantId": "T-003",
+    "action": "permission_grant",
+    "resource": "user",
+    "userId": "u-0012",
+    "timestamp": "2025-08-15T11:32:07.266Z",
+    "details": "Added user to operations group"
+  },
+  {
+    "id": "aud-0186",
+    "tenantId": "T-007",
+    "action": "api_key_revoke",
+    "resource": "storage",
+    "userId": "u-0033",
+    "timestamp": "2025-08-15T21:47:31.546Z",
+    "details": "Bulk revoked 43 keys"
+  },
+  {
+    "id": "aud-0335",
+    "tenantId": "T-029",
+    "action": "view",
+    "resource": "permission",
+    "userId": "u-0117",
+    "timestamp": "2025-08-16T20:07:19.170Z",
+    "details": "Listed permission with filters"
+  },
+  {
+    "id": "aud-0496",
+    "tenantId": "T-015",
+    "action": "permission_revoke",
+    "resource": "audit_log",
+    "userId": "u-0068",
+    "timestamp": "2025-08-20T01:48:07.265Z",
+    "details": "Removed user from engineering group"
+  },
+  {
+    "id": "aud-0239",
+    "tenantId": "T-014",
+    "action": "plan_change",
+    "resource": "storage",
+    "userId": "u-0063",
+    "timestamp": "2025-08-20T05:15:50.157Z",
+    "details": "Upgraded plan to plan-business"
+  },
+  {
+    "id": "aud-0253",
+    "tenantId": "T-015",
+    "action": "logout",
+    "resource": "dashboard",
+    "userId": "u-0067",
+    "timestamp": "2025-08-22T06:22:28.083Z",
+    "details": "Session terminated due to inactivity"
+  },
+  {
+    "id": "aud-0227",
+    "tenantId": "T-011",
+    "action": "settings_update",
+    "resource": "security_policy",
+    "userId": "u-0053",
+    "timestamp": "2025-08-22T17:23:18.248Z",
+    "details": "Changed retention policy to 24 days"
+  },
+  {
+    "id": "aud-0377",
+    "tenantId": "T-027",
+    "action": "api_key_generate",
+    "resource": "storage",
+    "userId": "u-0109",
+    "timestamp": "2025-08-25T11:24:28.146Z",
+    "details": "Regenerated production API key"
+  },
+  {
+    "id": "aud-0076",
+    "tenantId": "T-005",
+    "action": "export",
+    "resource": "sso_config",
+    "userId": "u-0023",
+    "timestamp": "2025-08-27T00:50:52.666Z",
+    "details": "Scheduled recurring sso_config export"
+  },
+  {
+    "id": "aud-0372",
+    "tenantId": "T-006",
+    "action": "delete",
+    "resource": "subscription",
+    "userId": "u-0028",
+    "timestamp": "2025-08-28T07:26:39.247Z",
+    "details": "Deleted subscription (soft delete)"
+  },
+  {
+    "id": "aud-0056",
+    "tenantId": "T-028",
+    "action": "status_change",
+    "resource": "storage",
+    "userId": "u-0113",
+    "timestamp": "2025-08-30T00:38:31.541Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0219",
+    "tenantId": "T-004",
+    "action": "plan_change",
+    "resource": "billing",
+    "userId": "u-0018",
+    "timestamp": "2025-08-31T06:39:11.724Z",
+    "details": "Downgraded plan to plan-business"
+  },
+  {
+    "id": "aud-0014",
+    "tenantId": "T-029",
+    "action": "role_change",
+    "resource": "subscription",
+    "userId": "u-0117",
+    "timestamp": "2025-09-01T06:02:31.443Z",
+    "details": "Changed role from Developer to Billing"
+  },
+  {
+    "id": "aud-0263",
+    "tenantId": "T-015",
+    "action": "role_change",
+    "resource": "dashboard",
+    "userId": "u-0068",
+    "timestamp": "2025-09-01T10:45:47.126Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0262",
+    "tenantId": "T-025",
+    "action": "password_reset",
+    "resource": "user",
+    "userId": "u-0105",
+    "timestamp": "2025-09-01T15:36:18.573Z",
+    "details": "Password reset requested"
+  },
+  {
+    "id": "aud-0422",
+    "tenantId": "T-024",
+    "action": "permission_grant",
+    "resource": "storage",
+    "userId": "u-0100",
+    "timestamp": "2025-09-01T18:52:00.664Z",
+    "details": "Added user to finance group"
+  },
+  {
+    "id": "aud-0109",
+    "tenantId": "T-026",
+    "action": "update",
+    "resource": "storage",
+    "userId": "u-0108",
+    "timestamp": "2025-09-02T19:47:29.591Z",
+    "details": "Updated storage field: contact_email"
+  },
+  {
+    "id": "aud-0163",
+    "tenantId": "T-008",
+    "action": "export",
+    "resource": "support_ticket",
+    "userId": "u-0040",
+    "timestamp": "2025-09-02T19:52:20.355Z",
+    "details": "Exported support_ticket data to CSV"
+  },
+  {
+    "id": "aud-0123",
+    "tenantId": "T-020",
+    "action": "role_change",
+    "resource": "integration",
+    "userId": "u-0089",
+    "timestamp": "2025-09-02T22:17:25.139Z",
+    "details": "Changed role from Viewer to Developer"
+  },
+  {
+    "id": "aud-0035",
+    "tenantId": "T-014",
+    "action": "api_key_revoke",
+    "resource": "role",
+    "userId": "u-0063",
+    "timestamp": "2025-09-05T05:49:32.112Z",
+    "details": "Revoked API key: sk-xi17r8yc..."
+  },
+  {
+    "id": "aud-0096",
+    "tenantId": "T-030",
+    "action": "permission_revoke",
+    "resource": "audit_log",
+    "userId": "u-0118",
+    "timestamp": "2025-09-05T11:57:18.665Z",
+    "details": "Removed user from engineering group"
+  },
+  {
+    "id": "aud-0155",
+    "tenantId": "T-022",
+    "action": "create",
+    "resource": "integration",
+    "userId": "u-0096",
+    "timestamp": "2025-09-05T13:14:27.501Z",
+    "details": "Created integration record"
+  },
+  {
+    "id": "aud-0037",
+    "tenantId": "T-008",
+    "action": "role_change",
+    "resource": "sso_config",
+    "userId": "u-0040",
+    "timestamp": "2025-09-06T10:56:55.826Z",
+    "details": "Elevated to Admin role"
+  },
+  {
+    "id": "aud-0470",
+    "tenantId": "T-008",
+    "action": "webhook_configure",
+    "resource": "api_key",
+    "userId": "u-0040",
+    "timestamp": "2025-09-07T05:30:31.380Z",
+    "details": "Updated webhook secret"
+  },
+  {
+    "id": "aud-0210",
+    "tenantId": "T-025",
+    "action": "view",
+    "resource": "role",
+    "userId": "u-0104",
+    "timestamp": "2025-09-09T03:45:02.852Z",
+    "details": "Listed role with filters"
+  },
+  {
+    "id": "aud-0435",
+    "tenantId": "T-012",
+    "action": "permission_grant",
+    "resource": "webhook",
+    "userId": "u-0056",
+    "timestamp": "2025-09-13T13:32:27.473Z",
+    "details": "Added user to support group"
+  },
+  {
+    "id": "aud-0344",
+    "tenantId": "T-017",
+    "action": "mfa_toggle",
+    "resource": "audit_log",
+    "userId": "u-0078",
+    "timestamp": "2025-09-13T15:14:16.409Z",
+    "details": "MFA method changed to hardware key"
+  },
+  {
+    "id": "aud-0079",
+    "tenantId": "T-020",
+    "action": "billing_update",
+    "resource": "security_policy",
+    "userId": "u-0090",
+    "timestamp": "2025-09-13T20:09:18.046Z",
+    "details": "Updated payment method to ach"
+  },
+  {
+    "id": "aud-0147",
+    "tenantId": "T-007",
+    "action": "api_key_generate",
+    "resource": "data_export",
+    "userId": "u-0033",
+    "timestamp": "2025-09-14T21:49:06.796Z",
+    "details": "Generated new API key: sk-oz8judsr..."
+  },
+  {
+    "id": "aud-0425",
+    "tenantId": "T-026",
+    "action": "api_key_revoke",
+    "resource": "webhook",
+    "userId": "u-0108",
+    "timestamp": "2025-09-17T07:57:09.094Z",
+    "details": "Bulk revoked 36 keys"
+  },
+  {
+    "id": "aud-0175",
+    "tenantId": "T-009",
+    "action": "plan_change",
+    "resource": "api_key",
+    "userId": "u-0042",
+    "timestamp": "2025-09-22T02:14:45.281Z",
+    "details": "Plan change scheduled for next billing cycle"
+  },
+  {
+    "id": "aud-0349",
+    "tenantId": "T-016",
+    "action": "import",
+    "resource": "storage",
+    "userId": "u-0073",
+    "timestamp": "2025-09-22T20:24:39.423Z",
+    "details": "Bulk storage sync from external system"
+  },
+  {
+    "id": "aud-0068",
+    "tenantId": "T-007",
+    "action": "export",
+    "resource": "notification",
+    "userId": "u-0033",
+    "timestamp": "2025-09-23T03:55:21.276Z",
+    "details": "Exported notification data to CSV"
+  },
+  {
+    "id": "aud-0172",
+    "tenantId": "T-014",
+    "action": "status_change",
+    "resource": "settings",
+    "userId": "u-0066",
+    "timestamp": "2025-09-25T09:15:17.668Z",
+    "details": "Account reactivated"
+  },
+  {
+    "id": "aud-0274",
+    "tenantId": "T-001",
+    "action": "webhook_configure",
+    "resource": "api_key",
+    "userId": "u-0003",
+    "timestamp": "2025-09-26T22:27:53.480Z",
+    "details": "Registered webhook endpoint: https://webhooks.initech.io/v1/callback"
+  },
+  {
+    "id": "aud-0040",
+    "tenantId": "T-023",
+    "action": "billing_update",
+    "resource": "subscription",
+    "userId": "u-0099",
+    "timestamp": "2025-09-27T05:36:24.747Z",
+    "details": "Applied credit of $91.66"
+  },
+  {
+    "id": "aud-0033",
+    "tenantId": "T-028",
+    "action": "view",
+    "resource": "billing",
+    "userId": "u-0112",
+    "timestamp": "2025-09-27T10:35:54.942Z",
+    "details": "Listed billing with filters"
+  },
+  {
+    "id": "aud-0272",
+    "tenantId": "T-027",
+    "action": "status_change",
+    "resource": "security_policy",
+    "userId": "u-0109",
+    "timestamp": "2025-09-29T12:32:14.940Z",
+    "details": "Account suspended — security review"
+  },
+  {
+    "id": "aud-0493",
+    "tenantId": "T-026",
+    "action": "delete",
+    "resource": "billing",
+    "userId": "u-0108",
+    "timestamp": "2025-09-30T08:31:52.804Z",
+    "details": "Deleted billing (soft delete)"
+  }
+]
